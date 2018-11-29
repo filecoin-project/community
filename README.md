@@ -43,4 +43,3 @@ You can also propose meetups or see meetups scheduled by other community members
 
 - [Contributing Guidelines]()
 - [Code of Conduct]()
-
