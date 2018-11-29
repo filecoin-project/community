@@ -18,13 +18,13 @@ Welcome to the Filecoin community repository! You can treat this repo as your go
 You can interact with other community members and Filecoin devs/team members at the following channels:
 - Community forum: https://discuss.filecoin.io
 - Matrix chat rooms:
--- [#fil-dev](https://riot.im/app/#/room/#fil-dev:matrix.org): Filecoin dev chatter
--- [#fil-proofs](https://riot.im/app/#/room/#fil-proofs:matrix.org): Filecoin proofs chatter
--- [#fil-chat](https://riot.im/app/#/room/#fil-chat:matrix.org): More general chat about Filecoin
+	- [#fil-dev](https://riot.im/app/#/room/#fil-dev:matrix.org): Filecoin dev chatter
+	- [#fil-proofs](https://riot.im/app/#/room/#fil-proofs:matrix.org): Filecoin proofs chatter
+	- [#fil-chat](https://riot.im/app/#/room/#fil-chat:matrix.org): More general chat about Filecoin
 - GitHub issues on various repositories, e.g.:
--- [`go-filecoin`](https://github.com/filecoin-project/go-filecoin/issues)
--- [`rust-proofs`](https://github.com/filecoin-project/rust-proofs/issues)
--- [`fil-spec`](https://github.com/filecoin-project/fil-spec/issues)
+	- [`go-filecoin`](https://github.com/filecoin-project/go-filecoin/issues)
+	- [`rust-proofs`](https://github.com/filecoin-project/rust-proofs/issues)
+	- [`fil-spec`](https://github.com/filecoin-project/fil-spec/issues)
 
 We also push updates to the community via:
 - Filecoin blog: https://blog.filecoin.io
