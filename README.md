@@ -30,8 +30,8 @@ We also push updates to the community via:
 - Filecoin blog: https://blog.filecoin.io
 - Twitter: [@MineFilecoin](https://twitter.com/MineFilecoin)
 - Mailing Lists:
--- Filecoin Private Preview (Coming Soon)
--- Filecoin Community (Coming Soon)
+	- Filecoin Private Preview (Coming Soon)
+	- Filecoin Community (Coming Soon)
 
 ## Events
 
