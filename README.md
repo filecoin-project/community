@@ -47,9 +47,12 @@ You can join the conversation on chat via Matrix, IRC, and Slack. Most of our pr
 - IRC: [Coming soon](https://github.com/filecoin-project/community/issues/4)
 
 Note that you can generally think of the above options as interchangeable. Note, however, that some channels may not be bridged across chat spaces. Our current list of bridged chat channels are:
+- #fil-lobby: Come say hi 👋, meet others, general announcements for the community
+- #fil-chat: Used for general questions and conversations about Filecoin
 - #fil-dev: Used for general dev chatter, and for specific discussions relating to the go-filecoin implementation
-- #fil-dev: Used for proofs-related chatter
-- #fil-chat: Used for general conversations about Filecoin, and also to make friends 👋
+- #fil-proofs: Used for proofs-related chatter
+- #fil-mining: Come here to chat about anything related to mining, including troubleshooting, questions and general discussion
+- #fil-devex-docs: Talk about developer experience, docs, and CLI
 
 ### GitHub issues
 
