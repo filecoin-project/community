@@ -43,8 +43,8 @@ You can use the community forum to ask most types of questions, e.g. specific in
 
 You can join the conversation on chat via Matrix, IRC, and Slack. Most of our primary chat channels, such as #dev, #proofs, and #chat, are bridged across Matrix, IRC, and Slack:
 - Matrix: The [Filecoin community](https://riot.im/app/#/group/+filecoin:matrix.org) on Riot (our preferred Matrix client) 
-- Filecoin Project Slack: https://filecoinproject.slack.com
-- IRC: TODO link
+- Filecoin Project Slack: [Create an account here](https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTI2MmMxNzNjYjhlYWM3YjQxM2E4MThmM2ZhY2JkYWIxNGVjMGVmNTg3Y2VhZjQ3OGM5ZTc1OGFmZGZhMzZmMTI) or visit https://filecoinproject.slack.com if you already have an account
+- IRC: [Coming soon](https://github.com/filecoin-project/community/issues/4)
 
 Note that you can generally think of the above options as interchangeable. Note, however, that some channels may not be bridged across chat spaces. Our current list of bridged chat channels are:
 - #fil-dev: Used for general dev chatter, and for specific discussions relating to the go-filecoin implementation
