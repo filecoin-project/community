@@ -52,6 +52,7 @@ Note that you can generally think of the above options as interchangeable. Note,
 - #fil-dev: For contributing to the Filecoin codebases
 - #fil-proofs: For contributing to Filecoin proofs
 - #fil-mining: For chatting about anything related to mining, including troubleshooting, questions and general discussion
+- #fil-research: Chat about Filecoin research
 - #fil-devex-docs: Talk about developer experience, docs, and CLI
 
 ### GitHub issues
