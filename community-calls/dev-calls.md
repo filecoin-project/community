@@ -14,8 +14,8 @@ Meeting agendas are posted as issues in this repo with the label [`agenda`](http
 
 | No. | Date | Notes | Recording |
 | --- | --- | --- | --- |
-| 1 | Fri, June 7, 2019 1500 UTC | agenda | notes | video |
+| 1 | Fri, June 7, 2019 1500 UTC | agenda \| notes | video |
 
 ## Call Facilitators
 
-Since mid 2019, these development community calls have been facilitated by Pooja Shah ([@pooja](https://github.com/pooja), who is a full-time employee of Protocol Labs.
+Since mid 2019, these development community calls have been facilitated by Pooja Shah ([@pooja](https://github.com/pooja)), who is a full-time employee of Protocol Labs.
