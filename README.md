@@ -85,7 +85,19 @@ You can also propose meetups or see meetups scheduled by other community members
 
 ### Community calls
 
+Our community calls are venues for all Filecoin Project community members to meet each other, share demos of recent work, discuss open problems, and more. We expect these calls to be extremely respectful venues where all community members follow our [Code of Conduct]((https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) and treat each other (i) as they would like to be treated and (ii) as they would treat each other in real life. 
 
+All community calls are **open for anyone to join**. However, we recommend that you take a look at each call's agenda (which can be found on GitHub issues under the label [`agenda`](https://github.com/filecoin-project/community/labels/agenda)) to make sure the call will be a good use of your time. We do our best to group similar demos and other agenda items together in the same call so it is easier to choose calls that you would like to attend.
+
+Furthermore, we hold different calls for different communities. If you are a third-party app developer or OSS contributor, you might be interested in attending our **monthly development community calls** that are geared towards topics that developers will find useful. We also hold occasional **mining community calls** that are geared towards the needs of Filecoin miners. 
+
+Feel free to attend whichever calls are interesting to you. All calls are recorded, and the recording and notes will be posted online at this repo. 
+
+Learn more about:
+- [Development Community Calls]()
+- [Mining Community Calls]()
+
+We will announce each upcoming community call by creating an issue on this repo and by making announcements in our [chat channels](#chat) and [community forum](#community-forum).
 
 ## Contributing Guidelines
 
