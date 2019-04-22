@@ -1,4 +1,13 @@
-# Filecoin Development Community Call No. 1
+# Notes Template
+
+- Create a new file called `dev-call-#.md` in this folder: https://github.com/filecoin-project/community/tree/master/community-calls/dev-call-notes
+- Copy the below notes template into that file
+- Fill in with notes for this meeting, replace what is in `<>` brackets with the relevant information
+
+## Template
+
+```
+# Filecoin Development Community Call No. <#>
 
 - Overarching theme (if applicable): <THEME_FOR_TODAY'S_CALL>
 - Meeting Date/Time: <DAY_OF_THE_WEEK, DATE> at <TIME> UTC
@@ -48,3 +57,5 @@
 - <GH_HANDLE>
 - <GH_HANDLE>
 - ...
+
+```
