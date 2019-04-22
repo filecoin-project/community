@@ -79,9 +79,7 @@ If the issue is a protocol weakness that cannot be immediately exploited or has 
 
 ## Events
 
-You can add our Google Calendar (Coming Soon) to keep track of events (meetups, hackathons, etc.) hosted by the Filecoin Project.
-
-You can also propose meetups or see meetups scheduled by other community members as issues (labeled with the `meetup` tag) on this repo [here](https://github.com/filecoin-project/community/issues?q=is%3Aopen+is%3Aissue+label%3Ameetup).
+Add our [Google Calendar](https://calendar.google.com/calendar/b/6?cid=ZmlsZWNvaW4ub3JnX2o3bW1ldjI0ZzgwcmVsbzU2cHFtMWVsMWUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to keep track of events (meetups, hackathons, etc.) hosted by the Filecoin Project and/or Protocol Labs.
 
 ### Community calls
 
