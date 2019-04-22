@@ -64,18 +64,18 @@ This is one notional example of what the Markdown will look like once it is fill
 
 1. Introductions
 	- **Please comment on this issue if you would like to introduce yourself and what you're working on to the community this week. We will cap intros at the first 5 members every week (preference given to first-timers).**
-	- @pooja
-	- @zenground0
-	- @whyrusleeping
-	- @ytqiao
-	- @jamiew
-	- @ali01
-	- @robquistnl
-	- @neoge_ipfsmain
+	- @person1
+	- @person2
+	- @person3
+	- @person4
+	- @person5
+	- @person6
+	- @person7
+	- @person8
 2. Filecoin Implementer Demos
-	- @henri: 5-minute overview of Expected Consensus
-	- @zenground0: Walkthrough of consensus in go-filecoin
-	- @anorth: Seeking contributions for consensus
+	- @person1: 5-minute overview of Expected Consensus
+	- @person2: Walkthrough of consensus in go-filecoin
+	- @person3: Seeking contributions for consensus
 3. Community Demos
 	- **Please comment on this issue if you would like to demo something at this week's call. Please provide a brief description of your demo in your comment. This is a venue for demos related to Filecoin development. We aim for 3-5 community demos every week.**
 	- @person1: Consensus simulator
