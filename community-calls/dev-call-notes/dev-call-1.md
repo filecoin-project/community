@@ -3,7 +3,7 @@
 - Overarching theme (if applicable): <THEME_FOR_TODAY'S_CALL>
 - Meeting Date/Time: <DAY_OF_THE_WEEK, DATE> at <TIME> UTC
 - Meeting Duration: <ACTUAL_MEETING_TIME>
-- [GitHub Agenda](<LINK_TO_AGENDA_ISSUE)
+- [GitHub Agenda](<LINK_TO_AGENDA_ISSUE>)
 - [Meeting Audio/Video Recording](<LINK_TO_RECORDING>)
 - Facilitator: <FACILITATOR_NAME>
 
