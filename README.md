@@ -92,8 +92,8 @@ Furthermore, we hold different calls for different communities. If you are a thi
 Feel free to attend whichever calls are interesting to you. All calls are recorded, and the recording and notes will be posted online at this repo. 
 
 Learn more about:
-- [Development Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/dev-calls.md)
-- [Mining Community Calls]()
+- [Development Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/dev-calls/dev-calls.md)
+- [Mining Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/mining-calls/mining-calls.md)
 
 We will announce each upcoming community call by creating an issue on this repo and by making announcements in our [chat channels](#chat) and [community forum](#community-forum).
 
