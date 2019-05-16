@@ -12,7 +12,7 @@ Our Mining Community Calls, or mining calls, provide a forum to provide mining-r
 
 | No. | Date | Notes | Recording |
 | --- | --- | --- | --- |
-| 1 | Thurs, May 9, 2019 2300 UTC | agenda \| notes | video \| slides |
+| 1 | Thursday, May 9, 2019 23:00 UTC | agenda \| notes | [recording](https://youtu.be/bpKKgkPmA_w) \| [slides](https://ipfs.io/ipfs/QmPPRGFDRv6VadZ9Voye1W2jUvRWFdAahkgDNF51Co73xM) |
 
 ## Call Facilitators
 
