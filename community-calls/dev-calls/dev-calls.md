@@ -16,7 +16,7 @@ Meeting agendas are posted as issues in this repo with the label [`agenda`](http
 
 | No. | Date | Notes | Recording |
 | --- | --- | --- | --- |
-| 1 | Fri, X 1500 UTC | agenda \| notes | video |
+| 1 | TBD | agenda \| notes | video |
 
 ## Call Facilitators
 
