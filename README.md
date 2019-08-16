@@ -107,7 +107,7 @@ Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here
 
 ### Filecoin Shipyard
 
-[Filecoin Shipyard](https://github.com/filecoin-shipyard) is a home we created for projects built by the Filecoin community. Take a look around to explore some early projects! If you're building something new on top of Filecoin, feel free to request to to add your project here!
+[Filecoin Shipyard](https://github.com/filecoin-shipyard) is a home we created for projects built by the Filecoin community. We encourage you to take a look around to explore some early projects incubated by the Filecoin community! If you're building something new on top of Filecoin, feel free to request to to add your project to the Shipyard!
 
 ## License
 
