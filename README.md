@@ -31,6 +31,7 @@ We tend to be pretty responsive during normal business hours, which vary accordi
 We also push updates to the community via:
 - Filecoin blog: https://blog.filecoin.io
 - Twitter: [@MineFilecoin](https://twitter.com/MineFilecoin)
+- WeChat ID: Filecoin-Official
 
 Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md). 
 
