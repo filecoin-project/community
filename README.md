@@ -32,6 +32,7 @@ We also push updates to the community via:
 - Filecoin blog: https://blog.filecoin.io
 - Twitter: [@MineFilecoin](https://twitter.com/MineFilecoin)
 - WeChat ID: Filecoin-Official
+
 ![filecoin qr code](/images/qrcode_for_gh_da36751a6108_1280.jpg)
 
 Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md). 
