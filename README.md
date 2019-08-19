@@ -104,7 +104,7 @@ We will announce each upcoming community call by creating an issue on this repo 
 
 ## Contributing
 
-## Contributing Guidelines
+### Contributing Guidelines
 
 We use a common [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) across all of our repos.
 
