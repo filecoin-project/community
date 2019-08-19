@@ -10,7 +10,9 @@
 	- [Security issues and disclosures](#security-issues-and-disclosures)
 - [Events](#events)
 	- [Community calls](#community-calls)
-- [Contributing Guidelines](#contributing-guidelines)
+- [Contributing](#contributing)
+	- [Contributing Guidelines](#contributing-guidelines)
+	- [Filecoin Shipyard](#filecoin-shipyard)
 - [License](#license)
 
 ## About
@@ -99,6 +101,8 @@ Learn more about:
 - [Mining Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/mining-calls/mining-calls.md)
 
 We will announce each upcoming community call by creating an issue on this repo and by making announcements in our [chat channels](#chat) and [community forum](#community-forum).
+
+## Contributing
 
 ## Contributing Guidelines
 
