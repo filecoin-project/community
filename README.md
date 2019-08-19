@@ -10,7 +10,9 @@
 	- [Security issues and disclosures](#security-issues-and-disclosures)
 - [Events](#events)
 	- [Community calls](#community-calls)
-- [Contributing Guidelines](#contributing-guidelines)
+- [Contributing](#contributing)
+	- [Contributing Guidelines](#contributing-guidelines)
+	- [Filecoin Shipyard](#filecoin-shipyard)
 - [License](#license)
 
 ## About
@@ -31,6 +33,9 @@ We tend to be pretty responsive during normal business hours, which vary accordi
 We also push updates to the community via:
 - Filecoin blog: https://blog.filecoin.io
 - Twitter: [@MineFilecoin](https://twitter.com/MineFilecoin)
+- WeChat ID: Filecoin-Official
+
+![filecoin qr code](/images/qrcode_for_gh_da36751a6108_1280.jpg)
 
 Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md). 
 
@@ -79,7 +84,7 @@ If the issue is a protocol weakness that cannot be immediately exploited or has 
 
 ## Events
 
-Add our [Google Calendar](https://calendar.google.com/calendar/b/6?cid=ZmlsZWNvaW4ub3JnX2o3bW1ldjI0ZzgwcmVsbzU2cHFtMWVsMWUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to keep track of events (meetups, hackathons, etc.) hosted by the Filecoin Project and/or Protocol Labs.
+Add our [Google Calendar](https://calendar.google.com/calendar/b/6?cid=ZmlsZWNvaW4ub3JnX2o3bW1ldjI0ZzgwcmVsbzU2cHFtMWVsMWUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) or follow issues in this repo to keep track of events (meetups, hackathons, etc.) hosted by the Filecoin Project and/or Protocol Labs.
 
 ### Community calls
 
@@ -97,11 +102,17 @@ Learn more about:
 
 We will announce each upcoming community call by creating an issue on this repo and by making announcements in our [chat channels](#chat) and [community forum](#community-forum).
 
-## Contributing Guidelines
+## Contributing
+
+### Contributing Guidelines
 
 We use a common [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) across all of our repos.
 
 Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `go-filecoin`](https://github.com/filecoin-project/go-filecoin/blob/master/CONTRIBUTING.md).
+
+### Filecoin Shipyard
+
+[Filecoin Shipyard](https://github.com/filecoin-shipyard) is a home we created for projects built by the Filecoin community. We encourage you to take a look around to explore some early projects incubated by the Filecoin community! If you're building something new on top of Filecoin, feel free to request to to add your project to the Shipyard!
 
 ## License
 

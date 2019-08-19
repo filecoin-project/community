@@ -10,9 +10,9 @@ Our Mining Community Calls, or mining calls, provide a forum to provide mining-r
 
 ## Call Recordings and Notes
 
-| No. | Date | Notes | Recording |
-| --- | --- | --- | --- |
-| 1 | Thursday, May 9, 2019 23:00 UTC | agenda \| notes | [recording](https://ipfs.io/ipfs/QmQophNZUqSRgJtyJYUGes81hkWfLWeGYc1rbFHvFrFQSE) \| [slides](https://ipfs.io/ipfs/QmPPRGFDRv6VadZ9Voye1W2jUvRWFdAahkgDNF51Co73xM) |
+| No. | Date | Notes | Recording | Slides |
+| --- | --- | --- | --- | --- |
+| 1 | Thursday, May 9, 2019 23:00 UTC | agenda \| notes | [recording](https://ipfs.io/ipfs/QmQophNZUqSRgJtyJYUGes81hkWfLWeGYc1rbFHvFrFQSE) [(zh-cn)](https://ipfs.io/ipfs/QmYQsBQoarBAGFaaYgjrjh2a9MPoiV8GvJydevpD33GShD) | [slides](https://ipfs.io/ipfs/QmPPRGFDRv6VadZ9Voye1W2jUvRWFdAahkgDNF51Co73xM) [(zh-cn)](https://ipfs.io/ipfs/QmXPUW6tiGiSfUkTWMnF1fpHcE87DNXgdYVd8f33TPTDTq)
 
 ## Call Facilitators
 
