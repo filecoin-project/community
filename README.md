@@ -60,7 +60,7 @@ You can join the conversation on chat via Matrix, IRC, and Slack.
 
 Our primary chat channels are bridged across Matrix, IRC, and Slack:
 - Matrix: The [Filecoin community](https://riot.im/app/#/group/+filecoin:matrix.org) on Riot (our preferred Matrix client) 
-- Filecoin Project Slack: [Create an account here](https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTI2MmMxNzNjYjhlYWM3YjQxM2E4MThmM2ZhY2JkYWIxNGVjMGVmNTg3Y2VhZjQ3OGM5ZTc1OGFmZGZhMzZmMTI) or visit https://filecoinproject.slack.com if you already have an account
+- Filecoin Project Slack: [Create an account here](https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTY4YmFjMzRlZjFiNDc0NmI2N2JjMjk5YTAyMDUyODljODg3MGI0ZGRhZTI5ZDNkZTAyNjkyMzI1ODM1YjA1MWI) or visit https://filecoinproject.slack.com if you already have an account
 - IRC: [Coming soon](https://github.com/filecoin-project/community/issues/4)
 
 Note that you can generally think of the above options as interchangeable. Note, however, that some channels may not be bridged across chat spaces. 
