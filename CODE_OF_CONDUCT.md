@@ -17,6 +17,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 - [Scope](#scope)
 - [Friendly Harassment-Free Space](#friendly-harassment-free-space)
+- [Avoid Marketing or Soliciting](#avoid-marketing-or-soliciting)
 - [Reporting Violations of this Code of Conduct](#reporting-violations-of-this-code-of-conduct)
 - [Copyright Violations](#copyright-violations)
 - [Consequences](#consequences)
@@ -79,6 +80,12 @@ Filecoin public infrastructure if you have the right to do so. This includes
 complying with all software license agreements or other intellectual property
 restrictions. You will be solely responsible for any violation of laws or
 others’ intellectual property rights.
+
+## Avoid Marketing or Soliciting
+
+You are welcome to post endorsements of tools, products or services that you
+personally found useful, but please refrain from blatant advertising, marketing
+or any kind of spam. Selling commercial services or fundraising is not allowed.
 
 ## Reporting Violations of this Code of Conduct
 
