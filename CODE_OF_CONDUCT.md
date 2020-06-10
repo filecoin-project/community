@@ -84,7 +84,7 @@ others’ intellectual property rights.
 ## Avoid Marketing or Soliciting
 
 You are welcome to post endorsements of tools, products or services that you
-personally found useful, but please refrain from blatant advertising, marketing
+personally find useful, but please refrain from blatant advertising, marketing
 or any kind of spam. Selling commercial services or fundraising is not allowed.
 
 ## Reporting Violations of this Code of Conduct
