@@ -20,7 +20,7 @@ Our Mining Community Calls, or mining calls, provide a forum to provide mining-r
 
 | No. | Date | Notes | Recording | Slides |
 | --- | --- | --- | --- | --- |
-| 3 | Tuesday, July 21, 2020 18:00 PST | agenda \| notes | [recording] (https://youtu.be/jhRQkEAHofA)|
+| 3 | Tuesday, July 21, 2020 18:00 PST | agenda \| notes | [recording](https://youtu.be/jhRQkEAHofA)|
 
 ## Call Facilitators
 
