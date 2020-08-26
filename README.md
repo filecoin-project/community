@@ -10,6 +10,7 @@
 	- [Security issues and disclosures](#security-issues-and-disclosures)
 - [Events](#events)
 	- [Community calls](#community-calls)
+	- [Filecoin meetups](#filecoin-meetups)
 - [Contributing](#contributing)
 	- [Contributing Guidelines](#contributing-guidelines)
 	- [Filecoin Shipyard](#filecoin-shipyard)
@@ -99,14 +100,21 @@ All community calls are **open for anyone to join**. However, we recommend that 
 
 Furthermore, we hold different calls for different communities. If you are a third-party app developer or OSS contributor, you might be interested in attending our **monthly development community calls** that are geared towards topics that developers will find useful. We also hold occasional **mining community calls** that are geared towards the needs of Filecoin miners.
 
-Feel free to attend whichever calls are interesting to you. All calls are recorded, and the recording and notes will be posted online at this repo.
+Feel free to attend whichever calls are interesting to you. All calls are recorded, and the recording will be posted online at this repo.
 
 Learn more about:
 
 - [Development Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/dev-calls/dev-calls.md)
 - [Mining Community Calls](https://github.com/filecoin-project/community/blob/master/community-calls/mining-calls/mining-calls.md)
 
-We will announce each upcoming community call by creating an issue on this repo and by making announcements in our [chat channels](#chat) and [community forum](#community-forum).
+We will announce each upcoming community call by making announcements in our [chat channels](#chat) and [website](https://filecoin.io/build/#events).
+
+### Filecoin Meetups
+
+Filecoin meetups are a great way to meet and connect with other developers and miners in your community that are using and learning about Filecoin. 
+
+- Attend a Filecoin meetup (Coming soon) 
+- Organize a Filecoin meetup (Coming soon) 
 
 ## Contributing
 
@@ -114,7 +122,8 @@ We will announce each upcoming community call by creating an issue on this repo 
 
 We use a common [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) across all of our repos.
 
-Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `go-filecoin`](https://github.com/filecoin-project/go-filecoin/blob/master/CONTRIBUTING.md).
+Each repo should have its own contributing guid
+e, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `go-filecoin`](https://github.com/filecoin-project/go-filecoin/blob/master/CONTRIBUTING.md).
 
 ### Filecoin Shipyard
 
