@@ -35,7 +35,7 @@ We tend to be pretty responsive during normal business hours, which vary accordi
 We also push updates to the community via:
 
 - Filecoin blog: [https://blog.filecoin.io](https://blog.filecoin.io)
-- Twitter: [@MineFilecoin](https://twitter.com/MineFilecoin)
+- Twitter: [@Filecoin](https://twitter.com/Filecoin)
 - WeChat ID: Filecoin-Official
 
 ![filecoin qr code](/images/qrcode_for_gh_da36751a6108_1280.jpg)
