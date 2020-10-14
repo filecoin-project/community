@@ -2,16 +2,16 @@
 
 Having a vibrant community of security researchers auditing Filecoin and its dependencies is at the core of building a robust platform, mitigating risks and building trust in the Filecoin ecosystem. We invite security researchers acting in good faith to help us maintain a high standard of security.
 
-This includes encouraging responsible vulnerability research and disclosure. This document sets out our definition of good faith in the context of finding and reporting vulnerabilities, our security procedure and bug bounty program.
+This includes encouraging responsible vulnerability research and disclosure. This document sets out our definition of good faith in the context of finding and reporting vulnerabilities, our security procedure, and the bug bounty program.
 
 ## Vulnerability Reporting
 
 Almost anything you find that is a bug in the codebase should be filed as an issue on Github. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away. We’ve created two main channels for reporting:
 
-- 1. Sending an email to  [security@filecoin.org](mailto:security@filecoin.org). Use our [PGP key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
-- 2. Request to join the **filecoin-sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
+1. Sending an email to [security@filecoin.org](mailto:security@filecoin.org). Use our [PGP key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
+1. Request to join the **filecoin-sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
 
-Please **DO NOT** file a public issue or discuss the vulnerability in public places like Slack, Twitter, etc.
+Please **DO NOT** file a public issue or discuss the vulnerability in public places like Slack, Twitter, etc. See our Disclosure Policy below to learn more about sharing details about vulnerabilities that have been found.
 
 ## Security Audits and Updates
 
@@ -35,50 +35,47 @@ Higher rewards will also be paid to reported vulnerabilities that offer quality 
 
 Evaluation of the significance of the vulnerability and specific bounty amount assigned is at the sole discretion of the Filecoin Security Team, which consists of core developers and contributors.
 
-### Legal considerations
-
-Reporters are responsible for all taxes and all awards subject to applicable law.
-
-We are not able to pay bounty awards to individuals from a country against which the U.S. has trade restrictions or export sanctions.
-
 ### Scope
 
 In scope for our Bug Bounty program are vulnerabilities in the core protocol, protocol implementations, and some supporting libraries that may be widely used by developers. These include the following repos, but not only:
 
 - Lotus Core
-  - github.com/filecoin-project/lotus
+  - [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
 - Markets
-  - github.com/filecoin-project/go-fil-markets
+  - [filecoin-project/go-fil-markets](https://github.com/filecoin-project/go-fil-markets)
   - github.com/ipfs/go-graphsync
 - Storage Miner
-  - github.com/filecoin-project/lotus/tree/master/miner
+  - [filecoin-project/lotus/tree/master/miner](https://github.com/filecoin-project/lotus/tree/master/miner)
 - Actors
-  - https://github.com/filecoin-project/specs-actors
+  - [filecoin-project/specs-actors](https://github.com/filecoin-project/specs-actors)
 - Proofs
-  - https://github.com/filecoin-project/rust-fil-proofs
-  - https://github.com/filecoin-project/rust-filecoin-proofs-api
-  - https://github.com/filecoin-project/rust-fil-proofs-ffi
-- External Deps
-  - github.com/filecoin-project/go-address
-  - github.com/filecoin-project/go-amt-ipld
-  - github.com/filecoin-project/go-bitfield
-  - github.com/filecoin-project/go-cbor-util
-  - github.com/filecoin-project/go-crypto
-  - github.com/filecoin-project/go-data-transfer
-  - github.com/filecoin-project/go-fil-commcid
-  - github.com/filecoin-project/go-padreader
-  - github.com/filecoin-project/go-sectorbuilder
-  - github.com/filecoin-project/go-statemachine
-  - github.com/filecoin-project/go-statestore
-  - github.com/ipfs/go-hamt-ipld
-  - github.com/ipfs/go-ipld-cbor
-  - github.com/whyrusleeping/cbor-gen
+  - [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
+  - [filecoin-project/rust-filecoin-proofs-api](https://github.com/filecoin-project/rust-filecoin-proofs-api)
+  - [filecoin-project/rust-fil-proofs-ffi](https://github.com/filecoin-project/rust-fil-proofs-ffi)
+- External dependencies
+  - [filecoin-project/go-address](https://github.com/filecoin-project/go-address)
+  - [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)
+  - [filecoin-project/go-bitfield](https://github.com/filecoin-project/go-bitfield)
+  - [filecoin-project/go-cbor-util](https://github.com/filecoin-project/go-cbor-util)
+  - [filecoin-project/go-crypto](https://github.com/filecoin-project/go-crypto)
+  - [filecoin-project/go-data-transfer](https://github.com/filecoin-project/go-data-transfer)
+  - [filecoin-project/go-fil-commcid](https://github.com/filecoin-project/go-fil-commcid)
+  - [filecoin-project/go-padreader](https://github.com/filecoin-project/go-padreader)
+  - [filecoin-project/go-sectorbuilder](https://github.com/filecoin-project/go-sectorbuilder)
+  - [filecoin-project/go-statemachine](https://github.com/filecoin-project/go-statemachine)
+  - [filecoin-project/go-statestore](https://github.com/filecoin-project/go-statestore)
+  - [filecoin-project/bellman/](https://github.com/filecoin-project/bellman/)
+  - [filecoin-project/neptune](https://github.com/filecoin-project/neptune)
+  - [filecoin-project/paired](https://github.com/filecoin-project/paired)
+  - [ipfs/go-hamt-ipld](https://github.com/ipfs/go-hamt-ipld)
+  - [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)
+  - [whyrusleeping/cbor-gen](https://github.com/whyrusleeping/cbor-gen)
 
 ### Out of Scope
 
 - Filecoin websites and Filecoin infrastructure in general are not part of the bug bounty program.
 - Third-party services and websites that show information about the Filecoin network (block explorers, stats dashboards, price indicators, miner leaderboards, etc.) are also out of scope.
-- Vulnerabilities previously submitted by another person are not eligible for bug bounty rewards.
+- Vulnerabilities previously submitted by another person or identified in a published audit report are not eligible for bug bounty rewards.
 - Public disclosure of a vulnerability makes it ineligible for a bug bounty.
 
 Filecoin’s core development team, employees of Protocol Labs, the Filecoin Foundation and others paid by these organizations to work on the Filecoin project, indirectly or directly, are not eligible for bug bounty rewards.
@@ -126,3 +123,9 @@ When conducting vulnerability research according to this policy, we consider thi
 You are expected to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
 
 If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.
+
+### Legal considerations
+
+Reporters are responsible for all taxes and all awards subject to applicable law.
+
+We are not able to pay bounty awards to individuals from a country against which the U.S. has trade restrictions or export sanctions.
