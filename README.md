@@ -84,9 +84,7 @@ If a repo has a Contributing Guide, please read it before filing an issue!
 
 Almost anything you find that is a bug in the codebase should be filed as an issue. The exception is if you find a security vulnerability. The Filecoin protocol is still under heavy development. This means that there may be problems in our protocol design or implementations. Though Filecoin is not yet production-ready, many people are already running nodes on their machines. So we take security vulnerabilities very seriously! If you discover a security issue, please bring it to our attention right away!
 
-If you find a security vulnerability, please send your report privately to security@filecoin.org - if so inclined, please use our [GPG key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information. Alternatively, please request to join the **filecoin-sec** team on [Keybase](https://keybase.io/download), where we can set up a private channel to discuss. Please DO NOT file a public issue.
-
-If the issue is a protocol weakness that cannot be immediately exploited or has not yet been deployed, just discuss it openly.
+Please refer to [SECURITY.md](./SECURITY.md) document found in this repo on how to best report findings and participate on the bug bounty program.
 
 ## Events
 
@@ -111,10 +109,10 @@ We will announce each upcoming community call by making announcements in our [ch
 
 ### Filecoin Meetups
 
-Filecoin meetups are a great way to meet and connect with other developers and miners in your community that are using and learning about Filecoin. 
+Filecoin meetups are a great way to meet and connect with other developers and miners in your community that are using and learning about Filecoin.
 
-- Attend a Filecoin meetup (Coming soon) 
-- Organize a Filecoin meetup (Coming soon) 
+- Attend a Filecoin meetup (Coming soon)
+- Organize a Filecoin meetup (Coming soon)
 
 ## Contributing
 

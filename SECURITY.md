@@ -1,0 +1,128 @@
+# Filecoin Security
+
+Having a vibrant community of security researchers auditing Filecoin and its dependencies is at the core of building a robust platform, mitigating risks and building trust in the Filecoin ecosystem. We invite security researchers acting in good faith to help us maintain a high standard of security.
+
+This includes encouraging responsible vulnerability research and disclosure. This document sets out our definition of good faith in the context of finding and reporting vulnerabilities, our security procedure and bug bounty program.
+
+## Vulnerability Reporting
+
+Almost anything you find that is a bug in the codebase should be filed as an issue on Github. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away. We’ve created two main channels for reporting:
+
+- 1. Sending an email to  [security@filecoin.org](mailto:security@filecoin.org). Use our [PGP key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
+- 2. Request to join the **filecoin-sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
+
+Please **DO NOT** file a public issue or discuss the vulnerability in public places like Slack, Twitter, etc.
+
+## Security Audits and Updates
+
+Protocol implementations have undergone third-party Security Audits. They are linked in the Filecoin Specification under [Implementation Status](https://spec.filecoin.io/#intro__implementations-status).
+
+## Bug Bounty Program
+
+Reported security vulnerabilities will be eligible for a bounty based on severity, calculated based on their Impact and Likelihood using the [OWASP Risk Rating model](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
+
+The following point ranges will be assigned based on Severity:
+
+- Critical: up to 25,000 points
+- High: up to 15,000 points
+- Medium: up to 10,000 points
+- Low: up to 2,000 points
+- Note: up to 500 points
+
+Currently, 1 point = 1 USD.
+
+Higher rewards will also be paid to reported vulnerabilities that offer quality written descriptions, test code, scripts and detailed instructions, and well-documented fixes.
+
+Evaluation of the significance of the vulnerability and specific bounty amount assigned is at the sole discretion of the Filecoin Security Team, which consists of core developers and contributors.
+
+### Legal considerations
+
+Reporters are responsible for all taxes and all awards subject to applicable law.
+
+We are not able to pay bounty awards to individuals from a country against which the U.S. has trade restrictions or export sanctions.
+
+### Scope
+
+In scope for our Bug Bounty program are vulnerabilities in the core protocol, protocol implementations, and some supporting libraries that may be widely used by developers. These include the following repos, but not only:
+
+- Lotus Core
+  - github.com/filecoin-project/lotus
+- Markets
+  - github.com/filecoin-project/go-fil-markets
+  - github.com/ipfs/go-graphsync
+- Storage Miner
+  - github.com/filecoin-project/lotus/tree/master/miner
+- Actors
+  - https://github.com/filecoin-project/specs-actors
+- Proofs
+  - https://github.com/filecoin-project/rust-fil-proofs
+  - https://github.com/filecoin-project/rust-filecoin-proofs-api
+  - https://github.com/filecoin-project/rust-fil-proofs-ffi
+- External Deps
+  - github.com/filecoin-project/go-address
+  - github.com/filecoin-project/go-amt-ipld
+  - github.com/filecoin-project/go-bitfield
+  - github.com/filecoin-project/go-cbor-util
+  - github.com/filecoin-project/go-crypto
+  - github.com/filecoin-project/go-data-transfer
+  - github.com/filecoin-project/go-fil-commcid
+  - github.com/filecoin-project/go-padreader
+  - github.com/filecoin-project/go-sectorbuilder
+  - github.com/filecoin-project/go-statemachine
+  - github.com/filecoin-project/go-statestore
+  - github.com/ipfs/go-hamt-ipld
+  - github.com/ipfs/go-ipld-cbor
+  - github.com/whyrusleeping/cbor-gen
+
+### Out of Scope
+
+- Filecoin websites and Filecoin infrastructure in general are not part of the bug bounty program.
+- Third-party services and websites that show information about the Filecoin network (block explorers, stats dashboards, price indicators, miner leaderboards, etc.) are also out of scope.
+- Vulnerabilities previously submitted by another person are not eligible for bug bounty rewards.
+- Public disclosure of a vulnerability makes it ineligible for a bug bounty.
+
+Filecoin’s core development team, employees of Protocol Labs, the Filecoin Foundation and others paid by these organizations to work on the Filecoin project, indirectly or directly, are not eligible for bug bounty rewards.
+
+### Expectations
+
+When working with us according to this policy, you can expect us to:
+
+- Work with you to understand and validate your report, including a timely initial response to the submission
+- Work to remediate discovered vulnerabilities in a timely manner
+- Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
+
+### Ground Rules
+
+We encourage good-faith security research and ask that you follow these guidelines to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
+
+- Testing must not violate any law or compromise any data that is not yours. Please refrain from the following:
+  - Denial of Service attacks and active exploits against the Filecoin network or Filecoin miners and nodes
+  - Social engineering and phishing of Filecoin project contributors, contractors, ecosystem collaborators or community members
+  - Physical or electronic attempts to access offices where project contributors work or data centers where Filecoin nodes are located
+  - Compromising user accounts or stealing funds
+- Report any vulnerability you’ve discovered promptly
+- Help us improve this security process as it is critical to our mission by suggesting improvements.
+- Avoid violating the privacy of Filecoin users and community members, disrupting their systems, destroying data, stealing funds and/or harming user experience
+- Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope
+- You should only interact with test accounts you own or with explicit permission from the account holder
+- If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately
+- Play by the rules. This includes following this policy any other relevant agreements
+- Use only the Official Channels to discuss vulnerability information with us
+- Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy
+
+### Disclosure Policy
+
+We have a **Coordinated Disclosure policy**.  A researcher can share details of a vulnerability after a fix has been applied and our security team has provided permission to disclose. We will make a best effort to address and patch (if possible) all vulnerabilities within 90 days from submission. Please keep security vulnerabilities private until we have had a chance to address them.
+
+### Safe Harbor
+
+When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:
+
+- Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy
+- Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls
+- Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis
+- Lawful, helpful to the overall security of the Internet, and conducted in good faith
+
+You are expected to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
+
+If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.
