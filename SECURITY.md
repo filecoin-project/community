@@ -52,7 +52,12 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
   - [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
   - [filecoin-project/rust-filecoin-proofs-api](https://github.com/filecoin-project/rust-filecoin-proofs-api)
   - [filecoin-project/rust-fil-proofs-ffi](https://github.com/filecoin-project/rust-fil-proofs-ffi)
-- External dependencies
+  - [filecoin-project/bellman/](https://github.com/filecoin-project/bellman/)
+  - [filecoin-project/neptune](https://github.com/filecoin-project/neptune)
+  - [filecoin-project/neptune-triton](https://github.com/filecoin-project/neptune-triton)
+  - [filecoin-project/paired](https://github.com/filecoin-project/paired)
+  - [filecoin-project/merkle_light](https://github.com/filecoin-project/merkle_light)
+- Dependencies
   - [filecoin-project/go-address](https://github.com/filecoin-project/go-address)
   - [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)
   - [filecoin-project/go-bitfield](https://github.com/filecoin-project/go-bitfield)
@@ -64,9 +69,6 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
   - [filecoin-project/go-sectorbuilder](https://github.com/filecoin-project/go-sectorbuilder)
   - [filecoin-project/go-statemachine](https://github.com/filecoin-project/go-statemachine)
   - [filecoin-project/go-statestore](https://github.com/filecoin-project/go-statestore)
-  - [filecoin-project/bellman/](https://github.com/filecoin-project/bellman/)
-  - [filecoin-project/neptune](https://github.com/filecoin-project/neptune)
-  - [filecoin-project/paired](https://github.com/filecoin-project/paired)
   - [ipfs/go-hamt-ipld](https://github.com/ipfs/go-hamt-ipld)
   - [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)
   - [whyrusleeping/cbor-gen](https://github.com/whyrusleeping/cbor-gen)
