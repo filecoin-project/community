@@ -43,7 +43,7 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
   - [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
 - Markets
   - [filecoin-project/go-fil-markets](https://github.com/filecoin-project/go-fil-markets)
-  - github.com/ipfs/go-graphsync
+  - [ipfs/go-graphsync](https://github.com/ipfs/go-graphsync)
 - Storage Miner
   - [filecoin-project/lotus/tree/master/miner](https://github.com/filecoin-project/lotus/tree/master/miner)
 - Actors
