@@ -49,14 +49,14 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
 - Actors
   - [filecoin-project/specs-actors](https://github.com/filecoin-project/specs-actors)
 - Proofs
-  - [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
-  - [filecoin-project/rust-filecoin-proofs-api](https://github.com/filecoin-project/rust-filecoin-proofs-api)
   - [filecoin-project/rust-fil-proofs-ffi](https://github.com/filecoin-project/rust-fil-proofs-ffi)
-  - [filecoin-project/bellman/](https://github.com/filecoin-project/bellman/)
-  - [filecoin-project/neptune](https://github.com/filecoin-project/neptune)
-  - [filecoin-project/neptune-triton](https://github.com/filecoin-project/neptune-triton)
-  - [filecoin-project/paired](https://github.com/filecoin-project/paired)
-  - [filecoin-project/merkle_light](https://github.com/filecoin-project/merkle_light)
+  - [filecoin-project/rust-filecoin-proofs-api](https://github.com/filecoin-project/rust-filecoin-proofs-api)
+  - [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
+    - [filecoin-project/bellman/](https://github.com/filecoin-project/bellman/)
+    - [filecoin-project/merkle_light](https://github.com/filecoin-project/merkle_light)
+    - [filecoin-project/neptune](https://github.com/filecoin-project/neptune)
+    - [filecoin-project/neptune-triton](https://github.com/filecoin-project/neptune-triton)
+    - [filecoin-project/paired](https://github.com/filecoin-project/paired)
 - Dependencies
   - [filecoin-project/go-address](https://github.com/filecoin-project/go-address)
   - [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)
