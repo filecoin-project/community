@@ -43,7 +43,7 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
   - [filecoin-project/lotus](https://github.com/filecoin-project/lotus)
 - Markets
   - [filecoin-project/go-fil-markets](https://github.com/filecoin-project/go-fil-markets)
-  - github.com/ipfs/go-graphsync
+  - [ipfs/go-graphsync](https://github.com/ipfs/go-graphsync)
 - Storage Miner
   - [filecoin-project/lotus/tree/master/miner](https://github.com/filecoin-project/lotus/tree/master/miner)
 - Actors
@@ -130,4 +130,4 @@ If at any time you have concerns or are uncertain whether your security research
 
 Reporters are responsible for all taxes and all awards subject to applicable law.
 
-We are not able to pay bounty awards to individuals from a country against which the U.S. has trade restrictions or export sanctions.
+We are not able to pay bounty awards to individuals who are on a U.S. sanctions list or in a country on a U.S. sanctions list.
