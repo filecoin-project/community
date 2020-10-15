@@ -101,11 +101,11 @@ We encourage good-faith security research and ask that you follow these guidelin
   - Compromising user accounts or stealing funds
 - Report any vulnerability you’ve discovered promptly
 - Help us improve this security process as it is critical to our mission by suggesting improvements.
-- Avoid violating the privacy of Filecoin users and community members, disrupting their systems, destroying data, stealing funds and/or harming user experience
+- Avoid violating the privacy of Filecoin users and community members, disrupting their systems, destroying data, stealing funds and/or harming the user experience
 - Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope
-- You should only interact with test accounts you own or with explicit permission from the account holder
+- Interact only with test accounts you own or with explicit permission from the account holder
 - If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately
-- Play by the rules. This includes following this policy any other relevant agreements
+- Play by the rules. This includes following this policy as well as any other relevant agreements
 - Use only the Official Channels to discuss vulnerability information with us
 - Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy
 
