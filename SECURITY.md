@@ -35,6 +35,38 @@ Higher rewards will also be paid to reported vulnerabilities that offer quality 
 
 Evaluation of the significance of the vulnerability and specific bounty amount assigned is at the sole discretion of the Filecoin Security Team, which consists of core developers and contributors.
 
+### Ground Rules
+
+We encourage good-faith security research and ask that you follow these guidelines to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
+
+- Testing must not violate any law or compromise any data that is not yours. Please refrain from the following:
+  - Denial of Service attacks and active exploits against the Filecoin network or Filecoin miners and nodes
+  - Social engineering and phishing of Filecoin project contributors, contractors, ecosystem collaborators or community members
+  - Physical or electronic attempts to access offices where project contributors work or data centers where Filecoin nodes are located
+  - Compromising user accounts or stealing funds
+- Report any vulnerability you’ve discovered promptly
+- Help us improve this security process as it is critical to our mission by suggesting improvements.
+- Avoid violating the privacy of Filecoin users and community members, disrupting their systems, destroying data, stealing funds and/or harming the user experience
+- Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope
+- Interact only with test accounts you own or with explicit permission from the account holder
+- If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately
+- Play by the rules. This includes following this policy as well as any other relevant agreements
+- Use only the Official Channels to discuss vulnerability information with us
+- Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy
+
+### Safe Harbor
+
+When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:
+
+- Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy
+- Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls
+- Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis
+- Lawful, helpful to the overall security of the Internet, and conducted in good faith
+
+You are expected to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
+
+If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.
+
 ### Scope
 
 In scope for our Bug Bounty program are vulnerabilities in the core protocol, protocol implementations, and some supporting libraries that may be widely used by developers. These include the following repos, but not only:
@@ -82,6 +114,12 @@ In scope for our Bug Bounty program are vulnerabilities in the core protocol, pr
 
 Filecoin’s core development team, employees of Protocol Labs, the Filecoin Foundation and others paid by these organizations to work on the Filecoin project, indirectly or directly, are not eligible for bug bounty rewards.
 
+### Disclosure Policy
+
+We have a **Coordinated Disclosure policy**.  A researcher can share details of a vulnerability after a fix has been applied and our security team has provided permission to disclose. We will make a best effort to address and patch (if possible) all vulnerabilities within 90 days from submission. Please keep security vulnerabilities private until we have had a chance to address them.
+
+If you have filed an issue and are interested in options for disclosing it, please reach out to us at security@filecoin.org.
+
 ### Expectations
 
 When working with us according to this policy, you can expect us to:
@@ -90,41 +128,27 @@ When working with us according to this policy, you can expect us to:
 - Work to remediate discovered vulnerabilities in a timely manner
 - Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 
-### Ground Rules
+### Response Process
 
-We encourage good-faith security research and ask that you follow these guidelines to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
-
-- Testing must not violate any law or compromise any data that is not yours. Please refrain from the following:
-  - Denial of Service attacks and active exploits against the Filecoin network or Filecoin miners and nodes
-  - Social engineering and phishing of Filecoin project contributors, contractors, ecosystem collaborators or community members
-  - Physical or electronic attempts to access offices where project contributors work or data centers where Filecoin nodes are located
-  - Compromising user accounts or stealing funds
-- Report any vulnerability you’ve discovered promptly
-- Help us improve this security process as it is critical to our mission by suggesting improvements.
-- Avoid violating the privacy of Filecoin users and community members, disrupting their systems, destroying data, stealing funds and/or harming user experience
-- Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope
-- You should only interact with test accounts you own or with explicit permission from the account holder
-- If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately
-- Play by the rules. This includes following this policy any other relevant agreements
-- Use only the Official Channels to discuss vulnerability information with us
-- Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy
-
-### Disclosure Policy
-
-We have a **Coordinated Disclosure policy**.  A researcher can share details of a vulnerability after a fix has been applied and our security team has provided permission to disclose. We will make a best effort to address and patch (if possible) all vulnerabilities within 90 days from submission. Please keep security vulnerabilities private until we have had a chance to address them.
-
-### Safe Harbor
-
-When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:
-
-- Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy
-- Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls
-- Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis
-- Lawful, helpful to the overall security of the Internet, and conducted in good faith
-
-You are expected to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
-
-If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.
+1. A security researcher reports a vulnerability via email to security@filecoin.org or Keybase.
+1. Our security team will designate a Response Manager in charge of a particular report based on expertise and availability. They will acknowledge receipt of the report in a quick response to the researcher.
+1. The Response Manager will evaluate the vulnerability and assign an initial OWASP Severity estimate. They may optionally also contact the researcher using a secure private channel for more information.
+1. Based on the vulnerability’s potential OWASP Severity additional security team members will be alerted for additional review and to develop a patch.
+    1. Response Manager designates a private git branch for the patch + proposed OWASP score
+    1. Reviewed by security team
+    1. Response Manager drafts vulnerability announcement for the community
+        1. Severity - Systems impacted - Solutions / patches
+    1. Security team discusses a release target + date for the announcement + patch
+    1. Response Manager communicates with the researcher who submitted the vulnerability:
+        1. Proposed patch + release date
+        1. Whether the researcher would like public credit for reporting the bug (anonymous reporting is also supported)
+        1. Reporter’s bounty distribution address
+    1. The security team will make a best effort to complete the above process within 90 days.
+1. Community notifications and patches
+    1. For High or Critical Severity issues, the security team will notify the Filecoin community that a security release is imminent. Notifications can include Filecoin Community Slack announcements, tweets, emails to ecosystem collaborators. 
+        1. 24 hours following this notification, the fixes are applied publicly and new releases are issued.
+    1. Medium to High Severity issues may result in a minor release including the patch.
+    1. Low severity issues can be addressed in the next regular release.
 
 ### Legal considerations
 
