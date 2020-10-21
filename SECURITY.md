@@ -4,6 +4,8 @@ Having a vibrant community of security researchers auditing Filecoin and its dep
 
 This includes encouraging responsible vulnerability research and disclosure. This document sets out our definition of good faith in the context of finding and reporting vulnerabilities, our security procedure, and the bug bounty program.
 
+For additional details and updates on Filecoin Security or the Bug Bounty Program - head over to the [Filecoin Security website](https://security.filecoin.io). 
+
 ## Vulnerability Reporting
 
 Almost anything you find that is a bug in the codebase should be filed as an issue on Github. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away. We’ve created two main channels for reporting:
