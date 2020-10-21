@@ -9,7 +9,7 @@ This includes encouraging responsible vulnerability research and disclosure. Thi
 Almost anything you find that is a bug in the codebase should be filed as an issue on Github. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away. We’ve created two main channels for reporting:
 
 1. Sending an email to [security@filecoin.org](mailto:security@filecoin.org). Use our [PGP key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
-1. Request to join the **filecoin-sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
+1. Request to join the **filecoin_sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
 
 Please **DO NOT** file a public issue or discuss the vulnerability in public places like Slack, Twitter, etc. See our Disclosure Policy below to learn more about sharing details about vulnerabilities that have been found.
 
