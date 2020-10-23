@@ -4,12 +4,14 @@ Having a vibrant community of security researchers auditing Filecoin and its dep
 
 This includes encouraging responsible vulnerability research and disclosure. This document sets out our definition of good faith in the context of finding and reporting vulnerabilities, our security procedure, and the bug bounty program.
 
+For additional details and updates on Filecoin Security or the Bug Bounty Program - head over to the [Filecoin Security website](https://security.filecoin.io). 
+
 ## Vulnerability Reporting
 
 Almost anything you find that is a bug in the codebase should be filed as an issue on Github. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away. We’ve created two main channels for reporting:
 
-1. Sending an email to [security@filecoin.org](mailto:security@filecoin.org). Use our [PGP key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
-1. Request to join the **filecoin-sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
+1. Sending an email to [security@filecoin.org](mailto:security@filecoin.org). Use our [key](https://github.com/filecoin-project/community/blob/master/public.key) to encrypt sensitive information.
+1. Request to join the **filecoin_sec** team on [Keybase](http://keybase.io), where we can set up a private channel to discuss.
 
 Please **DO NOT** file a public issue or discuss the vulnerability in public places like Slack, Twitter, etc. See our Disclosure Policy below to learn more about sharing details about vulnerabilities that have been found.
 
@@ -21,12 +23,12 @@ Protocol implementations have undergone third-party Security Audits. They are li
 
 Reported security vulnerabilities will be eligible for a bounty based on severity, calculated based on their Impact and Likelihood using the [OWASP Risk Rating model](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
 
-The following point ranges will be assigned based on Severity:
+The following is a guide for how points may be allocated to issues reported based on severity:
 
-- Critical: up to 25,000 points
-- High: up to 15,000 points
-- Medium: up to 10,000 points
-- Low: up to 2,000 points
+- Critical: up to 100,000 points
+- High: up to 50,000 points
+- Medium: up to 15,000 points
+- Low: up to 2,500 points
 - Note: up to 500 points
 
 Currently, 1 point = 1 USD.
