@@ -62,9 +62,9 @@ The discussion forum uses the same Code of Conduct as our other community channe
 
 You can join the conversation on chat via Matrix, IRC, and Slack.
 
-Our primary chat channels are bridged across Matrix, IRC, and Slack:
+Our primary chat channels are bridged (automatically copied) across Matrix, IRC, and Slack:
 
-- **Matrix:** The [Filecoin community](https://riot.im/app/#/group/+filecoin:matrix.org) on Element (our preferred Matrix client)
+- **Matrix:** The [Filecoin community](https://app.element.io/#/group/+filecoin:matrix.org) on Element (our preferred Matrix client)
 - **Filecoin Project Slack:** Create an account or login with your existing account at [https://filecoin.io/slack](https://filecoin.io/slack)
 - **IRC:** [Coming soon](https://github.com/filecoin-project/community/issues/4)
 
