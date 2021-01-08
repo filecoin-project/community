@@ -74,7 +74,9 @@ Note that you can generally think of the above options as interchangeable. Note,
 
 If you find something puzzling or encounter a straight-up bug in any of our repositories, please file a well-scoped issue. The issue lists for our most active repositories are below:
 
-- [`go-filecoin`](https://github.com/filecoin-project/go-filecoin/issues)
+- [`lotus`](https://github.com/filecoin-project/lotus/issues)
+- [`venus`](https://github.com/filecoin-project/venus/issues)
+- [`specs-actors`](https://github.com/filecoin-project/specs-actors/issues)
 - [`rust-proofs`](https://github.com/filecoin-project/rust-proofs/issues)
 - [`specs`](https://github.com/filecoin-project/specs/issues)
 
@@ -121,7 +123,7 @@ Filecoin meetups are a great way to meet and connect with other developers and m
 We use a common [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) across all of our repos.
 
 Each repo should have its own contributing guid
-e, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `go-filecoin`](https://github.com/filecoin-project/go-filecoin/blob/master/CONTRIBUTING.md).
+e, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `venus`](https://github.com/filecoin-project/venus/blob/master/CONTRIBUTING.md).
 
 ### Filecoin Shipyard
 
