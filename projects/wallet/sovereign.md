@@ -1,13 +1,5 @@
----
-name: Sovereign
-about: An example of a Filecoin Wallet that uses experimental APIs and may not work.
-title: "Sovereign"
-labels: 'status: pending review', 'wallet'
-assignees: 'jennijuju'
 
----
-
-## Project Name <!-- Add your project name here with format "Project Name(Team)"-->
+## Project Name: Sovereign
 Sovereign
 
 ![Logo](https://user-images.githubusercontent.com/310223/107734272-d8f6db80-6cb1-11eb-9daf-c9cb78d52884.jpg)
@@ -60,8 +52,9 @@ Jimmy Lee
 Jeromy Johnson
 
 ## How the community can engage
-Email: jl@protocol.ai
-Slack: https://filecoin.io/slack
+Email: jl@protocol.ai  
+Slack: https://filecoin.io/slack  
+Communuty Discussion: https://github.com/filecoin-project/community/discussions/62
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->

@@ -1,13 +1,4 @@
----
-name: Slate
-about: An open source storage system for your data that makes it easy to collect, organize, and share them anywhere on the web. Built with IPFS and Filecoin.
-title: "Slate"
-labels: 'status: pending review', 'application'
-assignees: 'jennijuju'
-
----
-
-## Project Name <!-- Add your project name here with format "Project Name(Team)"-->
+## Project Name: Slate
 Slate
 
 ![Slate](https://user-images.githubusercontent.com/310223/107733317-96cc9a80-6caf-11eb-8ce2-e757cb49bc9d.jpg)
@@ -70,9 +61,10 @@ Haris Butt
 Tara Lin
 
 ## How the community can engage
-Email: jim@slate.host
-Slack: https://filecoin.io/slack
-Twitter: https://www.twitter.com/_slate
+Email: jim@slate.host  
+Slack: https://filecoin.io/slack  
+Twitter: https://www.twitter.com/_slate  
+Community Discussion: https://github.com/filecoin-project/community/discussions/60
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->

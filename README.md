@@ -103,14 +103,13 @@ If your product uses Filecoin, you're in the Filecoin ecosystem! We'd love to se
 
 Following the steps below to submit your projects to be featured in this this [repo](https://github.com/filecoin-project/community/tree/master/projects):
 - Create a project profile using the corresponding template. For example, if you built a developer tooling, go to [/projects/developer_tooling/](https://github.com/filecoin-project/community/tree/master/projects/developer_tooling) and fill in as much information as you can.  Use your project name as the file name so the community can find your project easily!
+- Create a project discussion, with the category as Show and tell - Developers  and title as [Category] Project Name(i.e: [Application] Slate), link the discussion in the How the community can engage section. This is to create a place to interact with the Filecoin community, share your updates and gain feedback on your projects!
 - Once the project profile is ready, create a [pr](https://github.com/filecoin-project/community/pulls), prefix `[Project Submission]` in the title, and request a review from one of the [maintainers](#maintainers).
-- If everything looks good, the maintainer will start a [project discussion](https://github.com/filecoin-project/community/discussions) for your team to interact with the community and gain feedbacks on your projects, add the link to your profile and merge the pr!
-
-Wolala, as simple as that your project is now featured here!
+- If everything looks good, the maintainer will merge the pr and wolala, as simple as that your project is now featured here!
 
 ### Updates and Newsletter
 
-We'd encourage all projects featured in this repo to share all thrilling updates with the community! Start a new comment with header `Project Name Update/Newsletter - Date` (i.e `## Lotus Update - Feb, 2021`) in your project discussion to share the exciting news with the community!
+We'd encourage all projects featured in this repo to share all thrilling updates with the community! Start a new comment with header `Project Name Update/Newsletter - Date` (i.e `## Slate Update - Feb, 2021`) in your project discussion to share the exciting news with the community!
 
 ## Events
 

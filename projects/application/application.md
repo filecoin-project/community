@@ -1,13 +1,4 @@
----
-name: Project Submission
-about: Show the community what you built on Filecoin ecosystem!!
-title: "[Project Submission]"
-labels: 'status: pending review', 'application'
-assignees: ''
-
----
-
-## Project Name <!-- Add your project name here with format "Project Name(Team)"-->
+## Project Name <!-- Add your project name here-->
 <!-- Add you project logo here if available-->
 
 ## Category 
