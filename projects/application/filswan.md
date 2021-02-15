@@ -45,14 +45,23 @@ At present, NBFS Canada has 5 mining nodes within Tier 3 Datacenter providing st
 10+
 
 ### Team members  
+
 Charles Cao
+
 Rex Miller
+
 Boqian Wang
+
 Chi Zhang
+
 Yiming Liang
+
 Baoyuan Sun
+
 Yi Xie
+
 Mike Li
+
 
 ## How the community can engage
 
