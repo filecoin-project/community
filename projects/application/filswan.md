@@ -1,5 +1,5 @@
 ## Project Name Filswan
-![Filswan](https://github.com/nebulaai/swan/blob/main/1613414358997.jpg)
+![Filswan](https://github.com/nebulaai/swan/blob/main/doc/swan.png)
 
 ## Category 
 application
@@ -11,7 +11,12 @@ The platform also provides powerful deal lifecycle management, fast file retriev
 
 
 ## Previews
-
+### Active Miner List
+![Miner List](https://github.com/nebulaai/swan/blob/main/doc/dashboard.png)
+### Market Deal Bids
+![Market Deal Bid](https://github.com/nebulaai/swan/blob/main/doc/bid.png)
+### Development API Keys
+![Development API Key](https://github.com/nebulaai/swan/blob/main/doc/api_key.png)
 
 ## Target Audience
 Filecoin miners, Storage Clients
