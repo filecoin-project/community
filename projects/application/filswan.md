@@ -37,7 +37,8 @@ https://github.com/nebulaai/swan
 ## Team Info
 
 NBFS Canada (Nebula AI inc.) is a container-based cloud computing solution provider headquartered in Montreal, Canada. NBFS is working on different aspect of ecosystem projects included but not limited to Filecoin mining, mining pool development, edge computing. Nebula AI is also a Canada’s Centre of Excellence in Next Generation Networks project, https://www.cengn.ca/nebula-ai
-At present, we have 5 mining nodes within Tier 3 Datacenter providing stable and efficient storage services and technical solutions for different Filecoin ecosystem projects, e.g Starling, Pinata
+
+At present, NBFS Canada has 5 mining nodes within Tier 3 Datacenter providing stable and efficient storage solutions for different Filecoin ecosystem projects, e.g Starling, Pinata
 
 
 ### Team Size  
