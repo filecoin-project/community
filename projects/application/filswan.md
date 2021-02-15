@@ -7,7 +7,7 @@ application
 ## Project Description
 Swan is a marketplace for Filecoin miners, clients post/bidding deals the online.
 
-The platform also provides powerful deal lifecycle management, fast file retrieval, Petabyte-Scale Data migration, content network delivery, multi-data center caching, micropayment and edge computing services. Miners on Swan platform can provide additional services according to their infrastructure and capabilities. 
+The platform also provides powerful deal lifecycle management, fast file retrieval, Petabyte-Scale data migration, content network delivery, multi-data center caching, encryption, micro payment and edge computing services. Miners on swan platform can provide additional services according to their infrastructure and capabilities. 
 
 
 ## Previews
