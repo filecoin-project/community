@@ -55,10 +55,14 @@ Yi Xie
 Mike Li
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+
+GitHub Discussion: https://github.com/nebulaai/swan/discussions
+
 Email:  ccao@nbai.io
+
 Slack:  Charles Cao - NBFS-Swan
+
 Twitter:  https://twitter.com/nbfscanada
 
 ## How to Contribute
-https://github.com/nebulaai/swan/discussions
+https://github.com/nebulaai/swan/issues
