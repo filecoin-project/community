@@ -1,4 +1,6 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+
+## Project Name <!-- Add your project name here"-->
+<!-- Add you project logo here if available-->
 
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
@@ -40,4 +42,4 @@ Telegram:
 WeChat:  
 
 ## How to Contribute
-<!--How can the community contribute to your project?-->
+<!--How can the community contribute to your project?--> 
