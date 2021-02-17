@@ -1,5 +1,4 @@
 ## Project Name <!-- Add your project name here with format "Project Name"-->
-<!-- Add you project logo here if available-->
 
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
