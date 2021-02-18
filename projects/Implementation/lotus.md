@@ -1,6 +1,6 @@
 
-## Project Name: Lotus
-Lotus
+## Project Name: lotus
+lotus
 
 ![Logo](../../images/lotus_logo.png)
 
@@ -11,9 +11,11 @@ Implementation
 
 ## Project Description
 <!--Describe your project in a few sentences. -->
+lotus is an implementation of the Filecoin Distributed Storage Network.
 
-Lotus is an implementation of the Filecoin Distributed Storage Network.
-
+## Project Status
+<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+Compatiable with Filecoin Mainnet.
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
@@ -34,14 +36,14 @@ https://github.com/filecoin-project/lotus
 
 ## Docs
 <!--Including a link to your project docs!-->
-Build Lotus: https://docs.filecoin.io/build/lotus/  
-Run Lotus Miner: https://docs.filecoin.io/mine/lotus/  
-Run Lotus Client: https://docs.filecoin.io/store/lotus/  
+Build lotus: https://docs.filecoin.io/build/lotus/  
+Run lotus miner: https://docs.filecoin.io/mine/lotus/  
+Run lotus client: https://docs.filecoin.io/store/lotus/  
 
 
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-Lotus is a universally open-sourced project and has a lot of open source contributers. Currently, the maintainers are devs from [Protocol Labs.](https://protocol.ai)
+lotus is a universally open-sourced project and has a lot of open source contributers. Currently, the maintainers are devs from [Protocol Labs.](https://protocol.ai)
 
 
 ### Team Size  
@@ -51,8 +53,8 @@ Lotus is a universally open-sourced project and has a lot of open source contrib
 [Lotus team](https://github.com/orgs/filecoin-project/teams/lotus/members)
 
 ## How the community can engage
-⭐️Lotus Discussion: https://github.com/filecoin-project/lotus/discussions  
-⭐️Lotus Issue: https://github.com/filecoin-project/lotus/issues  
+⭐️lotus Discussion: https://github.com/filecoin-project/lotus/discussions  
+⭐️lotus Issue: https://github.com/filecoin-project/lotus/issues  
 🗣Community Slack Channel: [filecoin/#fil-lotus](https://filecoinproject.slack.com/archives/CPFTWMY7N)  
 📣Announcements: https://github.com/filecoin-project/community/discussions/62
 🗞Newletter: https://github.com/filecoin-project/community/discussions/71

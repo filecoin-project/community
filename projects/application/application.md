@@ -6,6 +6,9 @@
 ## Project Description
 <!--Describe your project in a few sentences. -->
 
+## Project Status
+<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
 
@@ -26,6 +29,7 @@
 
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
+
 ### Team Size  
 
 ### Team members  
