@@ -1,19 +1,17 @@
 ## Project Name 
-Truffle Preserve 
+Filecoin Flavored Ganache 
 
 ## Category 
 Developer Tooling
 
 ## Project Description
-In thinking about our support for Filecoin, the idea of preservation came quickly to mind. We envisioned that preserving application data like Javascript frontends and static assets would be a normal part of the deployment process. So we ran with that idea and added a new command to the Truffle command line tool: truffle preserve.
-
-Like preserving fruit, Truffle follows a "recipe" to preserve your files. In the gif above, Truffle is using the filecoin recipe, which will ship standard with our new version of Truffle. To use truffle preserve, simply specify the files you want to preserve on the command line, and choose between the --filecoin or --ipfs recipes. The filecoin recipe uses the ipfs recipe under the hood. You can choose only the ipfs recipe if you have a different set up!
+Ganache was built as the sister application to Truffle, to speed up development and testing Ethereum applications. Now that we've added support to Truffle, it's only natural we provide the same highly-modular simulator for Filecoin. We are currently creating a Filecoin simulation library, as part of ganache-core. We are also developing support in our graphical version of Ganache. You can checkout some early mocks under previews!
 
 ## Project Status
-Beta release & stable version under development
+Alpha version released & stable version under development
 
 ## Previews
-https://drive.google.com/file/d/1gIM416dnc2YAUYOIPu2HhkOSDaWM2G3p/view?usp=sharing
+https://drive.google.com/file/d/1C3gRnm0-aF1xGgv5EcNRuvkpAQrhLVID/view?usp=sharing
 
 ## Target Audience
 Developers
@@ -22,7 +20,8 @@ Developers
 Truffle Suite has about 6 million downloads across our suite of tools including Truffle, Ganache, Drizzle, and Teams
 
 ## Github repo
-https://github.com/trufflesuite/truffle
+https://github.com/trufflesuite
+Alpha version of Filecoin Flavored Ganache is available here: https://github.com/trufflesuite/ganache-filecoin-alpha-cli
 
 ## Website
 https://www.trufflesuite.com/
@@ -37,7 +36,7 @@ More docs for this project will be published in April 2021.
 Truffle Suite is a team of 13 developers working across our sweet suite of tools.
 
 ### Team members
-The main developers on this projects are @gnidan and @tcoulter with help from our friend, @rkalis.
+The main developers on this projects are @tcoulter and @seesemichaelj.
 
 ## How the community can engage
 Email: inquiry@trufflesuite.com
@@ -46,4 +45,4 @@ Discord: http://trfl.co/truffle-community
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
-Try out Truffle Preserve and send us your feedback on Discord. We'd love to hear fromy you!
+Try out the alpha version of Filecoin Flavored Ganache and send us your feedback on Discord. We'd love to hear fromy you!
