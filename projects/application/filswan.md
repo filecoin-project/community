@@ -9,6 +9,8 @@ Swan is a marketplace for Filecoin miners, clients post/bidding deals the online
 
 The platform also provides powerful deal lifecycle management, fast file retrieval, Petabyte-Scale data migration, content network delivery, multi-data center caching, encryption, micro payment and edge computing services. Miners on swan platform can provide additional services according to their infrastructure and capabilities. 
 
+## Project Status
+beta
 
 ## Previews
 ### Active Miner List
@@ -65,7 +67,8 @@ Mike Li
 
 ## How the community can engage
 
-GitHub Discussion: https://github.com/nebulaai/swan/discussions
+GitHub Discussion: 
+https://github.com/filecoin-project/community/discussions/69
 
 Email:  ccao@nbai.io
 
