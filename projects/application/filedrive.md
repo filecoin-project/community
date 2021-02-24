@@ -6,6 +6,9 @@ FileDrive
 ## Project Description
 FileDrive is a databank powered by IPFS & Filecoin. Users can retrieve multiform data by filename and content hash. Our team are focusing on building an open source databank based on IPFS/Filecoin. With Filecoin's incentive mechanism, data accumulation and market-driven deployment will improve deficiencies of current public datasets, such as high price, centralized management and data security.
 
+## Project Status
+Beta
+
 ## Previews
 ### Homepage: 
 ![PreviewOne](https://user-images.githubusercontent.com/74699939/108585788-4fb46880-7385-11eb-8c36-682da3930120.png)
@@ -42,3 +45,4 @@ Email: filedriveteam@outlook.com
 Slack: https://filecoin.io/slack  
 Twitter: https://twitter.com/FileDrive1
 WeChat Official Account: [FileDrive](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzMDE4ODg0MQ==&scene=124#wechat_redirect)
+Community Discussion: https://github.com/filecoin-project/community/discussions/81#discussion-3229102
