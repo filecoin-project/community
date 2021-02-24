@@ -19,7 +19,7 @@ filscan is a Filecoin chain explorer developed by IPFSForce Team, it's easy and 
 ...
 
 **Updates**
-until the end of Feb28 
+until the end of Feb28 Friday
 
 - speed improvements 
 - added visual analytics: 24hr Base Fee Variations, FIL Distribution, sector ratio, lucky value and details about transaction
