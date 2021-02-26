@@ -41,8 +41,11 @@ The main developers on this projects are @tcoulter and @seesemichaelj.
 ## How the community can engage
 Email: inquiry@trufflesuite.com
 Twitter:  @trufflesuite
-Discord: http://trfl.co/truffle-community   
+Discord: http://trfl.co/truffle-community  
+Filecoin Community Discussion: https://github.com/filecoin-project/community/pull/87/files/5aca9971f36763cce376ac22dcfea6a9cc3aa131
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
 Try out the alpha version of Filecoin Flavored Ganache and send us your feedback on Discord. We'd love to hear fromy you!
+
+opt-in newsletter: true
