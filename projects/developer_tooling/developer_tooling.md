@@ -43,7 +43,10 @@ The main developers on this projects are @gnidan and @tcoulter with help from ou
 Email: inquiry@trufflesuite.com
 Twitter:  @trufflesuite
 Discord: http://trfl.co/truffle-community   
+Filecoin Community Discussion: https://github.com/filecoin-project/community/discussions/92
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
 Try out Truffle Preserve and send us your feedback on Discord. We'd love to hear fromy you!
+
+opt-in newsletter: true
