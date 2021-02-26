@@ -12,6 +12,10 @@ Alpha version released & stable version under development
 
 ## Previews
 https://drive.google.com/file/d/1C3gRnm0-aF1xGgv5EcNRuvkpAQrhLVID/view?usp=sharing
+<img width="809" alt="Screen Shot 2021-02-26 at 6 52 16 PM" src="https://user-images.githubusercontent.com/42981373/109367338-cbba1f00-7863-11eb-86a3-3916a9060b72.png">
+<img width="806" alt="WX20210226-185257@2x" src="https://user-images.githubusercontent.com/42981373/109367367-dd032b80-7863-11eb-896b-0af1a294b601.png">
+
+
 
 ## Target Audience
 Developers
@@ -47,5 +51,3 @@ Filecoin Community Discussion: https://github.com/filecoin-project/community/dis
 ## How to Contribute
 <!--How can the community contribute to your project?-->
 Try out the alpha version of Filecoin Flavored Ganache and send us your feedback on Discord. We'd love to hear fromy you!
-
-opt-in newsletter: true
