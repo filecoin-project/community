@@ -42,7 +42,7 @@ The main developers on this projects are @tcoulter and @seesemichaelj.
 Email: inquiry@trufflesuite.com
 Twitter:  @trufflesuite
 Discord: http://trfl.co/truffle-community  
-Filecoin Community Discussion: https://github.com/filecoin-project/community/pull/87/files/5aca9971f36763cce376ac22dcfea6a9cc3aa131
+Filecoin Community Discussion: https://github.com/filecoin-project/community/discussions/92
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
