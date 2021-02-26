@@ -14,6 +14,8 @@ Beta release & stable version under development
 
 ## Previews
 https://drive.google.com/file/d/1gIM416dnc2YAUYOIPu2HhkOSDaWM2G3p/view?usp=sharing
+![Uploading WX20210226-185438@2x.png…]()
+
 
 ## Target Audience
 Developers
