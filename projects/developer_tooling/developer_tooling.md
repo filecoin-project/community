@@ -51,4 +51,3 @@ Filecoin Community Discussion: https://github.com/filecoin-project/community/dis
 <!--How can the community contribute to your project?-->
 Try out Truffle Preserve and send us your feedback on Discord. We'd love to hear fromy you!
 
-opt-in newsletter: true
