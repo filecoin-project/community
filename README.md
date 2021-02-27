@@ -102,7 +102,7 @@ If your product uses Filecoin, you're in the Filecoin ecosystem! We'd love to se
 ### Showcase Your Project!
 
 Following the steps below to submit your projects to be featured in this this [repo](https://github.com/filecoin-project/community/tree/master/projects):
-- Create a project profile using the corresponding template. For example, if you built a developer tooling, go to [/projects/developer_tooling/](https://github.com/filecoin-project/community/tree/master/projects/developer_tooling) and fill in as much information as you can.  Use your project name as the file name so the community can find your project easily!
+- Create a project profile using the [roject submission template](https://github.com/filecoin-project/community/blob/master/templates/project-submission-template.md). Name the file name after your project and fill in as much information as you can.  Use your project name as the file name so the community can find your project easily!
 - Create a project discussion, with the category as Show and tell - Developers  and title as `[Category] Project Name`(i.e: `[Application] Slate`), link the discussion in the How the community can engage section. This is to create a place to interact with the Filecoin community, share your updates and gain feedback on your projects!
 - Once the project profile is ready, create a [pr](https://github.com/filecoin-project/community/pulls), prefix `[Project Submission]` in the title, and request a review from one of the [maintainers](#maintainers).
 - Let the maintainer know if you want your [updates](#updates-and-newsletter) to be featured in [Filecoin newsletter](https://mailchi.mp/filecoin.io/subscribe) or not in the PR description!
