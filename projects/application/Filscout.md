@@ -57,5 +57,5 @@ See [IPFSUnion introduction](https://www.ipfsunion.cn/zh/aboutUs)
  - Twitter: IPFSUnion_CN
 ## How to Contribute
 <!--How can the community contribute to your project?--> 
-You can send an Email to tech@ipfsunion.cn, or you can leave a comment in the [GitHub Discussion](https://github.com/filecoin-project/community/discussions/94]).
+You can send an Email to tech@ipfsunion.cn, or leave a comment in the [GitHub Discussion](https://github.com/filecoin-project/community/discussions/94]).
 
