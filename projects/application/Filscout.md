@@ -16,7 +16,7 @@ Compared with the existing browsers on the market, Filscout will help miners, de
 Highlights of filscout.com :
  - Overview of the whole network of Filecoin
  - 24-hour Power growth
- - Consumption of Base fee and Gas fee
+ - Consumption of Gas fee and the trend of Basefee
  - Visualization of all information on the chain, including Tipset, Message, Block and statistical information
  - Supports node collection after login and registration, which help users quickly view the information of the specific nodes that have been collected.
 
@@ -34,21 +34,17 @@ Everybody can use it to get the Filecoin Network chain infomations. Miners can g
 ## Rough estimated user base (if applicable)
 <!--How many users do you have right now?-->
 10000+
-
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
 You can can get the newest update notice from the [Github discussion](https://github.com/filecoin-project/community/discussions/94])
-
 ## Website
 <!--Link your website if available-->
 [https://filscout.com/](https://filscout.com/)
 ## Docs
 <!--Including a link to your project docs!-->
-
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
 [Filscout](https://filscout.com/) is a Filecoin Network browser developed by [IPFSUnion Team](https://www.ipfsunion.cn/zh/aboutUs)
-
 ### Team Size  
 In the IPFSUnion team, there is a group of 3-5 people working on Filscout project. 
 ### Team members  
@@ -59,8 +55,6 @@ See [IPFSUnion introduction](https://www.ipfsunion.cn/zh/aboutUs)
  - Email: tech@ipfsunion.cn
  - Slack: Tech - IPFSUnion
  - Twitter: IPFSUnion_CN
-
-
 ## How to Contribute
 <!--How can the community contribute to your project?--> 
 You can send an Email to tech@ipfsunion.cn, or you can leave a comment in the [GitHub Discussion](https://github.com/filecoin-project/community/discussions/94]).
