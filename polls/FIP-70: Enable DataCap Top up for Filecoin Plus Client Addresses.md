@@ -13,4 +13,6 @@ Options:
 start: 2021-02-15 19:10
 end: 2021-02-29 00:00
 constituents: [ all ]
+author: @jnthnvctr
+discussion: https://github.com/filecoin-project/FIPs/issues/70
 
