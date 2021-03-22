@@ -1,5 +1,7 @@
+> Note: This is **NOT** a real poll for FIP discussion 70. 
+
 **Background**
-This *sample* poll is to gather the community's sentiment on [FIP-70](https://github.com/filecoin-project/FIPs/issues/70). Discussions about this FIP can be carried out in the original FIP repo issue.
+This *sample* poll is to gather the community's sentiment on [FIP issue #70](https://github.com/filecoin-project/FIPs/issues/70). Discussions about this FIP can be carried out in the original FIP repo issue.
 
 **Proposal**
 Client addresses should be able to receive additional DataCap allocations to a given address.
