@@ -2,12 +2,14 @@
 This poll is to gather the community's sentiment on [FIP-0014](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0014.md). Discussions about this FIP can be carried out in the original [FIP issue #56](https://github.com/filecoin-project/FIPs/issues/56).
 
 **Proposal**
-Allow all V1 proof sectors to be extended up to a maximum of 540 days in epoch as sectors' lifetime.
+Allow the Maximum Lifetime of V1 Proof Sectors to be 540 Days
 
 **Impact**
-Please see this report(TODO: add link) from [BlockScience](https://github.com/BlockScience) to understand the impact of the V1 setocr expiration wave on Filecoin Cryptoecon metric.
 
-> Note: Core implementers will take the poll result, discuss it in a core dev meeting and makes final decision on whether the FIP should be accepted in the network or not.
+Please see here(TODO: Add link) for a report on the impact of accepting versus rejecting this FIP from [BlockScience](https://github.com/BlockScience). The report includes a summary of the background context, when these sectors will be expiring, and what the projected impact of their expiration would be on the storage power and sector collateral.
+
+**Outcome**
+Core implementers will make a final decision on whether the FIP should be accepted in the network based on the poll result and a final security audit.
 
 ---
 Options:
