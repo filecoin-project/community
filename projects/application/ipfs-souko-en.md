@@ -39,6 +39,7 @@ About 5,000 as of April 2021.
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
 Currently, it is not OSS but part of our IPFS gateway API set will be OSS.
+https://github.com/filecoin-project/community/discussions/147
 
 ## Website
 <!--Link your website if available-->
