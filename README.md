@@ -71,7 +71,7 @@ Vast majority of community live chat is happening in [Filecoin Project Slack](ht
 
 Fun channels to join once you are in the workspace:
 
-- `#fil-announcement`: This channel is for official Filecoin announcements only(including network, implementations and ecosystem announcements). Subscribe to get most up-to-date news, however, please do not post questions or other messages here! 
+- `#fil-announcements`: This channel is for official Filecoin announcements only (including network, implementations, and ecosystem announcements). Join to get most up-to-date news. Please do not post questions or other messages here; they will be deleted! 
 - `_fil-lobby`: for general Filecoin related sharing mostly
 - `fil-help`: ask questions here if you can't find another specific channel for your question
 - `fil-lotus`: for lotus related discussion
@@ -183,6 +183,5 @@ The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
-
 
 
