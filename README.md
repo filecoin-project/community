@@ -112,7 +112,7 @@ If you are new to the Filecoin Project, below are some helpful links for you to 
 
 ## Ecosystem Projects
 
-If your product uses Filecoin, you're in the Filecoin ecosystem! We'd love to see all awesome projects that are built on top of the Filecoin ecosystem to be known and get used by the Filecoin community! 
+If your project uses Filecoin, you're in the Filecoin ecosystem! We'd love to see all awesome projects that are built on top of the Filecoin ecosystem to be known and get used by the Filecoin community! 
 
 ### Showcase Your Project!
 
