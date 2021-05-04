@@ -80,7 +80,7 @@ Fun channels to join once you are in the workspace:
 - `fil-net-calibration-discuss`/`fil-net-nerpa-discuss`: for testnet disucssions
 - `fil-ecosystem-dev`: for updates and discussion about building in the Filecoin ecosystem
 - `fil-deal-market`: promote your miner as a storage provider or find your provider as a client here
-- `hackathon-help`: join this channel if you are participating any Filecoin hackathon and have questions
+- `hackathons-help`: join this channel if you are participating any Filecoin hackathons and have questions
 
 Primary Slack channels are bridged (automatically mirrored and read-only) to [Matrix](https://app.element.io/#/group/+filecoin:matrix.org).
 
