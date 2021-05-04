@@ -52,7 +52,7 @@ We love to hear what the community has to say, whether it is to:
 
 The discussion forum uses the same Code of Conduct as our other community channels. Please make sure to read this before posting.
 
-> Note: Chinese community forum is available [here](https://github.com/filecoin-project/community-china/discussions), which is managed by [CoinSummer](https://github.com/CoinSummer).
+> Note: A Chinese-language community forum is also available at https://github.com/filecoin-project/community-china/discussions. It is managed by [CoinSummer](https://github.com/CoinSummer).
 
 #### lotus Discussion
 
@@ -183,4 +183,3 @@ The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
-
