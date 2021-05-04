@@ -1,90 +1,120 @@
 # Community
 
-## Table of Contents
-
 - [Community](#community)
-	- [Table of Contents](#table-of-contents)
-	- [About](#about)
-	- [Discuss](#discuss)
-		- [Community forum](#community-forum)
-		- [Chat](#chat)
-		- [GitHub issues](#github-issues)
-		- [Security issues and disclosures](#security-issues-and-disclosures)
-	- [Ecosystem Projects](#ecosystem-projects)
-		- [Showcase Your Project!](#showcase-your-project)
-		- [Updates and Newsletter](#updates-and-newsletter)
-	- [Events](#events)
-		- [Community calls](#community-calls)
-		- [Filecoin Meetups](#filecoin-meetups)
-	- [Contributing](#contributing)
-		- [Contributing Guidelines](#contributing-guidelines)
-		- [Filecoin Shipyard](#filecoin-shipyard)
-	- [Maintainers](#maintainers)
-	- [License](#license)
+  - [About](#about)
+  - [Join the Community](#join-the-community)
+    - [Forums](#forums)
+      - [Filecoin Community Forum](#filecoin-community-forum)
+      - [lotus Discussion Forum](#lotus-discussion-forum)
+      - [Filecoin Proving Subsystem Discussion](#filecoin-proving-subsystem-discussion)
+    - [Implementation Related Repo](#implementation-related-repo)
+    - [Chat](#chat)
+    - [GitHub issues](#github-issues)
+    - [Security issues and disclosures](#security-issues-and-disclosures)
+  - [Useful links](#useful-links)
+  - [Ecosystem Projects](#ecosystem-projects)
+    - [Showcase Your Project!](#showcase-your-project)
+    - [Updates and Newsletter](#updates-and-newsletter)
+    - [Filecoin Shipyard](#filecoin-shipyard)
+  - [Events](#events)
+    - [Community calls](#community-calls)
+    - [Filecoin Meetups](#filecoin-meetups)
+  - [Contributing](#contributing)
+    - [Contributing Guidelines](#contributing-guidelines)
+  - [Maintainers](#maintainers)
+  - [License](#license)
 
 ## About
 
-Welcome to the Filecoin community repository! You can treat this repo as your go-to for all meta, non-code discussions in the [*Discussions*](https://github.com/filecoin-project/community/discussions), documents used by multiple repositories (such as the Code of Conduct), and how to interact with the Filecoin project and other community members.
+Welcome to the Filecoin community repository! You can treat this repo as your go-to for all meta, non-code discussions in the [*Discussions Forum*](https://github.com/filecoin-project/community/discussions), documents used by multiple repositories (such as the Code of Conduct), and how to interact with the Filecoin project and other community members.
 
-If you are interested in discussing code or protocol design, feel free to come talk to us on our [discussion forums](#community-forum), [chat channels](#chat), or in issues on our other [Filecoin project repos](https://github.com/filecoin-project).
+To get the latest network notifications, subscribe to [status.filecoin.io](https://status.filecoin.io).
 
-## Discuss
+If you are interested in discussing code or protocol design, feel free to come talk to us on our [forums](#forums), [chat channels](#chat), or in issues on our other [Filecoin project repos](https://github.com/filecoin-project).
 
-The vast majority of the Filecoin Project conversations are held on:
+## Join the Community
 
-- GitHub Issues
-- Github Discussions
-- [The discussion forum](https://discuss.filecoin.io)
-- Chat (on Matrix/Slack/IRC) (see [Chat](#chat) section below)
+**> Note: Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md).**
 
-We tend to be pretty responsive during normal business hours, which vary according to our timezones (we have a fully distributed team).
+The vast majority of the Filecoin Project conversations, including implementation, community support, ecosystem news, etc. take place on:
+
+- [Forums](#forums) (mainly on Github Discussions)
+- GitHub Issues (see [Implementation related repo](#impelmentation-related-repo) section below)
+- Chat (mainly on Slack) (see [Chat](#chat) section below)
+
+The Filecoin Project is an open sourced project with a very supportive and welcoming community, where many community members are responsive in various of forums and slack channels. We also have [Filecoin community ambassadors](https://github.com/filecoin-project/community/discussions/116#discussioncomment-617066) here to support you, tag their GitHub handlers in GitHub discussions or @fil-community-ambassadors in all slack channels if you have any questions!
+
+Implementation dev teams tend to check their corresponding GitHub repo issues and discussions regularly and try to respond within 5 business days.
 
 We also push updates to the community via:
 
+- Forum - [`Network and implementations updates`](https://github.com/filecoin-project/community/discussions/categories/network-and-implementations-updates) updates and [`news and events`](https://github.com/filecoin-project/community/discussions/categories/news-and-events)
 - Filecoin blog: [https://blog.filecoin.io](https://blog.filecoin.io)
+- CryptoComputeLab blog(proof updates): [https://research.protocol.ai/groups/cryptocomputelab/](https://research.protocol.ai/groups/cryptocomputelab/)
+- Youtube: [Filecoin](https://www.youtube.com/channel/UCPyYmtJYQwxM-EUyRUTp5DA)
 - Twitter: [@Filecoin](https://twitter.com/Filecoin)
 - WeChat ID: Filecoin-Official
 
 ![filecoin qr code](/images/qrcode_for_gh_da36751a6108_1280.jpg)
 
-Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md).
 
-### Community forum
+### Forums
 
-[https://github.com/filecoin-project/community/discussions](https://github.com/filecoin-project/community/discussions)
+#### Filecoin Community Forum
 
-When in doubt, please post here!
+When in doubt or curiosity, please post in Filecoin community forum](https://github.com/filecoin-project/community/discussions) !
 
 We love to hear what the community has to say, whether it is to:
 
 - Ask a question
-- Propose a new feature
+- Gather community feedback on a new feature proposal before opening an FIP 
 - Share a new project you're working on
 - Find collaborators for your own community project
 - And whatever else! Honestly!
 
 The discussion forum uses the same Code of Conduct as our other community channels. Please make sure to read this before posting.
 
+> Note: A Chinese-language community forum is also available at https://github.com/filecoin-project/community-china/discussions. It is managed by [CoinSummer](https://github.com/CoinSummer).
+
+#### lotus Discussion Forum
+
+[lotus discussion](https://github.com/filecoin-project/lotus/discussions) is an all-in-one place where you can track [lotus releases and announcements](https://github.com/filecoin-project/lotus/discussions/categories/announcement), find [tutorials](https://github.com/filecoin-project/lotus/discussions/categories/tutorials) ask questions about running[ a lotus node](https://github.com/filecoin-project/lotus/discussions/categories/syncing), [lotus miner ](https://github.com/filecoin-project/lotus/discussions/categories/miner-q-a)or lotus client, get help with troubleshooting, [share your lotus setup or thoughts](https://github.com/filecoin-project/lotus/discussions/categories/show-and-tell), chat with your fellow developers with [how to build ](https://github.com/filecoin-project/lotus/discussions/categories/developer-q-a)applications using lotus JsonRPC API and so on.
+
+
+#### Filecoin Proving Subsystem Discussion
+
+The Filecoin Proving Subsystem (or FPS) provides the storage proofs required by the Filecoin protocol. If you have any question regard to the current proof, feedbacks for proof performance on different machines, ideas to improve proof or implementing new proof, join the [forum here](https://github.com/filecoin-project/rust-fil-proofs/discussions)!
+
+### Implementation Related Repo
+
 ### Chat
 
-You can join the conversation on chat via Matrix, IRC, and Slack.
+Vast majority of community live chat is happening in [Filecoin Project Slack](https://filecoin.io/slack). Tag @fil-community-ambassadors if you have any questions!
 
-Our primary chat channels are bridged (automatically copied) across Matrix, IRC, and Slack:
+Fun channels to join once you are in the workspace:
 
-- **Matrix:** The [Filecoin community](https://app.element.io/#/group/+filecoin:matrix.org) on Element (our preferred Matrix client)
-- **Filecoin Project Slack:** Create an account or login with your existing account at [https://filecoin.io/slack](https://filecoin.io/slack)
-- **IRC:** [Coming soon](https://github.com/filecoin-project/community/issues/4)
+- `#fil-announcements`: This channel is for official Filecoin announcements only (including network, implementations, and ecosystem announcements). Join to get most up-to-date news. Please do not post questions or other messages here; they will be deleted! 
+- `_fil-lobby`: for general Filecoin-related sharing
+- `fil-help`: ask questions here if you can't find another specific channel for your question
+- `fil-lotus`: for lotus related discussion
+- `fil-fips`: for [Filecoin Improvement Proposals](https://github.com/filecoin-project/FIPs) related discussion 
+- `fil-plus`: for Filecoin Plus([notary-governance](https://github.com/filecoin-project/notary-governance)) related discussion
+- `fil-net-calibration-discuss`/`fil-net-nerpa-discuss`: for testnet disucssions
+- `fil-ecosystem-dev`: for updates and discussion about building in the Filecoin ecosystem
+- `fil-deal-market`: promote your miner as a storage provider or find your provider as a client here
+- `hackathons-help`: join this channel if you are participating any Filecoin hackathons and have questions
 
-Note that you can generally think of the above options as interchangeable. Note, however, that some channels may not be bridged across chat spaces.
+Primary Slack channels are bridged (automatically mirrored and read-only) to [Matrix](https://app.element.io/#/group/+filecoin:matrix.org).
+
 
 ### GitHub issues
 
 If you find something puzzling or encounter a straight-up bug in any of our repositories, please file a well-scoped issue. The issue lists for our most active repositories are below:
 
-- [`lotus`](https://github.com/filecoin-project/lotus/issues)
+- [`lotus`](https://github.com/filecoin-project/lotus/issues) ([contribution guide](https://github.com/filecoin-project/lotus#contribute))
 - [`venus`](https://github.com/filecoin-project/venus/issues)
 - [`specs-actors`](https://github.com/filecoin-project/specs-actors/issues)
-- [`rust-proofs`](https://github.com/filecoin-project/rust-proofs/issues)
+- [`rust-ffi-proofs`](https://github.com/filecoin-project/rust-fil-proofs)
 - [`specs`](https://github.com/filecoin-project/specs/issues)
 
 If a repo has a Contributing Guide, please read it before filing an issue!
@@ -95,9 +125,16 @@ Almost anything you find that is a bug in the codebase should be filed as an iss
 
 Please refer to [SECURITY.md](./SECURITY.md) document found in this repo on how to best report findings and participate on the bug bounty program.
 
+## Useful links
+
+If you are new to the Filecoin Project, below are some helpful links for you to learn more about it:
+- Official website: [https://filecoin.io](https://filecoin.io)  
+- [Filecoin Specification](https://spec.filecoin.io): contains documents, code, models, and diagrams that constitute the specification of the Filecoin Protocol.
+- [Filecoin Docs](https://docs.filecoin.io): offers all the necessary resources to learn about Filecoin, the software and the tools to contribute to the network, either as a user looking for storage, or as a miner providing it  
+
 ## Ecosystem Projects
 
-If your product uses Filecoin, you're in the Filecoin ecosystem! We'd love to see all awesome projects that are built on top of the Filecoin ecosystem to be known and get used by the Filecoin community! 
+If your project uses Filecoin, you're in the Filecoin ecosystem! We'd love to see all awesome projects that are built on top of the Filecoin ecosystem to be known and get used by the Filecoin community! 
 
 ### Showcase Your Project!
 
@@ -111,6 +148,11 @@ Following the steps below to submit your projects to be featured in this this [r
 ### Updates and Newsletter
 
 We'd encourage all projects featured in this repo to share all of your thrilling updates with the community! Start a new comment with header `Project Name Update/Newsletter - Date` (i.e `## Slate Update - Feb, 2021`) in your project discussion to share the exciting news with the community!
+
+### Filecoin Shipyard
+
+[Filecoin Shipyard](https://github.com/filecoin-shipyard) is a home we created for projects built by the Filecoin community. We encourage you to take a look around to explore some early projects incubated by the Filecoin community! If you're building something new on top of Filecoin, feel free to request to to add your project to the Shipyard!
+
 
 ## Events
 
@@ -149,16 +191,12 @@ We use a common [Code of Conduct](https://github.com/filecoin-project/community/
 
 Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `venus`](https://github.com/filecoin-project/venus/blob/master/CONTRIBUTING.md).
 
-### Filecoin Shipyard
-
-[Filecoin Shipyard](https://github.com/filecoin-shipyard) is a home we created for projects built by the Filecoin community. We encourage you to take a look around to explore some early projects incubated by the Filecoin community! If you're building something new on top of Filecoin, feel free to request to to add your project to the Shipyard!
-
 ## Maintainers
 
-Maintainers are responsible for maintaining the content of this repo, reviewing the issues and pull requests and moderate the [discussion](https://github.com/filecoin-project/community/discussions).
+Maintainers are responsible for maintaining the content of this repo, create an issue and tag one of the maintainers if you have any questions.
 
 Current maintainers are:
-@jennijuju ([jennifer.wang@protocol.ai](jennifer.wang@protocol.ai))
+@jennijuju ([jennijuju@protocol.ai](jennijuju@protocol.ai))
 
 
 ## License
@@ -167,8 +205,3 @@ The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
-
-
-
-
-
