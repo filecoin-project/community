@@ -78,7 +78,7 @@ Fun channels to join once you are in the workspace:
 - `fil-fips`: for [Filecoin Improvement Proposals](https://github.com/filecoin-project/FIPs) related discussion 
 - `fil-plus`: for Filecoin Plus([notary-governance](https://github.com/filecoin-project/notary-governance)) related discussion
 - `fil-net-calibration-discuss`/`fil-net-nerpa-discuss`: for testnet disucssions
-- `fil-ecosystem-dev`: for Filecoin ecosystem projects updates and development chats
+- `fil-ecosystem-dev`: for updates and discussion about building in the Filecoin ecosystem
 - `fil-deal-market`: promote your miner as a storage provider or find your provider as a client here
 - `hackathon-help`: join this channel if you are participating any Filecoin hackathon and have questions
 
