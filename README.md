@@ -14,7 +14,7 @@ If you are interested in discussing code or protocol design, feel free to come t
 
 **> Note: Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md).**
 
-The vast majority of the Filecoin Project conversations, including implementation, community support, ecosystem new and etc, are held on:
+The vast majority of the Filecoin Project conversations, including implementation, community support, ecosystem news, etc. take place on:
 
 - [Forums](#forums) (mainly on Github Discussions)
 - GitHub Issues (see [Implementation related repo](#impelmentation-related-repo) section below)
@@ -183,7 +183,6 @@ The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
-
 
 
 
