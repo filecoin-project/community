@@ -54,7 +54,7 @@ The discussion forum uses the same Code of Conduct as our other community channe
 
 > Note: A Chinese-language community forum is also available at https://github.com/filecoin-project/community-china/discussions. It is managed by [CoinSummer](https://github.com/CoinSummer).
 
-#### lotus Discussion
+#### lotus Discussion Forum
 
 [lotus discussion](https://github.com/filecoin-project/lotus/discussions) is an all-in-one place where you can track [lotus releases and announcements](https://github.com/filecoin-project/lotus/discussions/categories/announcement), find [tutorials](https://github.com/filecoin-project/lotus/discussions/categories/tutorials) ask questions about running[ a lotus node](https://github.com/filecoin-project/lotus/discussions/categories/syncing), [lotus miner ](https://github.com/filecoin-project/lotus/discussions/categories/miner-q-a)or lotus client, get help with troubleshooting, [share your lotus setup or thoughts](https://github.com/filecoin-project/lotus/discussions/categories/show-and-tell), chat with your fellow developers with [how to build ](https://github.com/filecoin-project/lotus/discussions/categories/developer-q-a)applications using lotus JsonRPC API and so on.
 
