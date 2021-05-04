@@ -45,7 +45,7 @@ When in doubt or curiosity, please post in Filecoin community forum](https://git
 We love to hear what the community has to say, whether it is to:
 
 - Ask a question
-- Gathering community feedbacks on a new feature proposal before open an FIP 
+- Gather community feedback on a new feature proposal before opening an FIP 
 - Share a new project you're working on
 - Find collaborators for your own community project
 - And whatever else! Honestly!
@@ -183,7 +183,6 @@ The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
-
 
 
 
