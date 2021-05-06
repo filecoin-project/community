@@ -62,7 +62,7 @@ We also push updates to the community via:
 
 #### Filecoin Community Forum
 
-When in doubt or curiosity, please post in Filecoin community forum](https://github.com/filecoin-project/community/discussions) !
+When in doubt or curiosity, please post in [Filecoin community forum](https://github.com/filecoin-project/community/discussions)!
 
 We love to hear what the community has to say, whether it is to:
 
