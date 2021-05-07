@@ -16,8 +16,11 @@
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
 
 ## Previews:
-![image](https://user-images.githubusercontent.com/80187953/117391196-099d8880-af22-11eb-9765-b59d9e630520.png)
-![image](https://user-images.githubusercontent.com/80187953/117391056-d0fdaf00-af21-11eb-81eb-c56b952ca554.png)
+![image](https://user-images.githubusercontent.com/80187953/117392470-b973f580-af24-11eb-8e42-0ca41b4aeef0.png)
+![image](https://user-images.githubusercontent.com/80187953/117392492-c395f400-af24-11eb-9c0d-e3862e3da820.png)
+![image](https://user-images.githubusercontent.com/80187953/117392624-0952bc80-af25-11eb-9703-8bbf68c1d4d7.png)
+![image](https://user-images.githubusercontent.com/80187953/117392673-2a1b1200-af25-11eb-9895-463560a583bb.png)
+
 <!--Add some screenshots to give a preview of your product-->
 
 ## Target Audience:1>Patients 2>Doctors
