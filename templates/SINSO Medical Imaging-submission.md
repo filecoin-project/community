@@ -1,6 +1,6 @@
 ## Project Name:SINSO Medical Imaging
 
-## Category:Application,infrastructure,API,DAC
+## Category:Application,API,DAC,Infrastructure
 <!--developer tooling, application, wallet, infrastructure, etc-->
 
 ## Project Description:
