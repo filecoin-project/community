@@ -48,7 +48,8 @@
 
 ### Team members  
 
-## How the community can engage
+## How the community can engage：
+https://github.com/filecoin-project/community/discussions/new
 GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
 Email:partner@sinso.io  
 Slack: /
