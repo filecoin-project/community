@@ -179,9 +179,8 @@ We will announce each upcoming community call by making announcements in our [ch
 
 Filecoin meetups are a great way to meet and connect with other developers and miners in your community that are using and learning about Filecoin.
 
-- [Attend a Filecoin virtual meetup](https://www.meetup.com/Filecoin-San-Francisco/events/276433326/)Next event: April 13th at 1pm PDT
+Click [Attend a Filecoin virtual meetup](https://www.meetup.com/Filecoin-San-Francisco/events/276433326/) for joining the next event!
 
-- Organize a Filecoin meetup (Coming soon)
 
 ## Contributing
 
