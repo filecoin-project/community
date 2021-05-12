@@ -66,7 +66,7 @@ https://www.linkedin.com/in/noritaka88ta/
 https://nonentropy.jp/company/boardmember/
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->   https://github.com/filecoin-project/community/discussions/147  
 Email:info@nonentropy.jp  
 Slack:  coming soon
 Twitter: coming soon  
