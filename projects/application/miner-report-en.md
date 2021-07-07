@@ -57,7 +57,7 @@ Currently just one person, but the project is centered on the ObservableHQ platf
 
 ## How the community can engage
 
-* GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+* GitHub Discussion: https://github.com/filecoin-project/community/discussions/208
 * Slack: https://filecoin.io/slack
 * Email: jim@jimpick.com
 
