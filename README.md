@@ -11,6 +11,7 @@
     - [Chat](#chat)
     - [GitHub issues](#github-issues)
     - [Security issues and disclosures](#security-issues-and-disclosures)
+  - [Storage Provider Incubation Program](#storage-provider-incubation-program)
   - [Useful links](#useful-links)
   - [Ecosystem Projects](#ecosystem-projects)
     - [Showcase Your Project!](#showcase-your-project)
@@ -124,6 +125,42 @@ If a repo has a Contributing Guide, please read it before filing an issue!
 Almost anything you find that is a bug in the codebase should be filed as an issue. The exception is if you find a security vulnerability. The Filecoin protocol is still under heavy development. This means that there may be problems in our protocol design or implementations. Though Filecoin is not yet production-ready, many people are already running nodes on their machines. So we take security vulnerabilities very seriously! If you discover a security issue, please bring it to our attention right away!
 
 Please refer to [SECURITY.md](./SECURITY.md) document found in this repo on how to best report findings and participate on the bug bounty program.
+
+## Storage Provider Incubation Program
+
+The incubation program is announced by Filecoin Foundation partnered with [Venus Team](https://filecoinproject.slack.com/archives/CEHHJNJS3) as technical consultant on July 8, 2021. Details of the program can be found [here](https://filecoinfoundation.medium.com/introducing-the-filecoin-storage-provider-incubation-center-ea8743e18e).
+
+### Overview
+
+The program aims to ease small to medium sized storage provider into having better expierence of operating a storage service. Participants of the program will deploy their storage services using Venus implementation of Filecoin with minimum future maintenance and lowered hardware costs.
+
+#### Application 
+
+To Apply, fill out the form [here](http://venusteam.mikecrm.com/1lmpQtj). Application deadline for the first bactch is July 19, 2021.
+
+#### Prerequisites
+
+To take adavantage of the free 90-day [shared venus modules](https://venus.filecoin.io/guide/Using-venus-Shared-Modules.html#introducing-venus-modules) of the incubation program, storage providers are required to grow at least 2TiB/day.
+
+#### Resources
+
+Program Roadmap: https://github.com/Joss-Hua/Mining-Incubator
+
+Venus Documentations: https://venus.filecoin.io/
+
+Slack Channel: [#fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
+
+Contact: [@Joss-Venus](https://filecoinproject.slack.com/archives/D01SD621WBT) or [@Tim Guo](https://filecoinproject.slack.com/archives/D0209UW29FE)
+
+Email: venus@ipfsforce.com
+
+### About Venus
+
+Venus is a Go implementation of the Filecoin Distributed Storage Network, which focuses its resources  on the following...
+
+- **Security**: Secure by design. Safe guard your keys and storage operation with our extensive security features.
+- **Simplicity first**: Modularized setup with less overhead in maintenance will get you started in no time.
+- **Storage Pool**: Share infrastructure with other storage providers to unlock your true potentials.
 
 ## Useful links
 
