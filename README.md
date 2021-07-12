@@ -11,7 +11,7 @@
     - [Chat](#chat)
     - [GitHub issues](#github-issues)
     - [Security issues and disclosures](#security-issues-and-disclosures)
-  - [Storage Provider Incubation Program](#storage-provider-incubation-program)
+  - [Storage Provider Incubation Center Program](#storage-provider-incubation-program)
   - [Useful links](#useful-links)
   - [Ecosystem Projects](#ecosystem-projects)
     - [Showcase Your Project!](#showcase-your-project)
@@ -144,14 +144,9 @@ To take adavantage of the free 90-day [shared venus modules](https://venus.filec
 
 #### Resources
 
-Program Roadmap: https://github.com/Joss-Hua/Mining-Incubator
-
 Venus Documentations: https://venus.filecoin.io/
-
 Slack Channel: [#fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
-
 Contact: [@Joss-Venus](https://filecoinproject.slack.com/archives/D01SD621WBT) or [@Tim Guo](https://filecoinproject.slack.com/archives/D0209UW29FE)
-
 Email: venus@ipfsforce.com
 
 ### About Venus
