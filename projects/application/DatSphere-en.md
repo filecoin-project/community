@@ -15,10 +15,13 @@ under development
     - Password Change
     - Reset Password
 - Drive Module
-    - list files
+    - navigate files
     - upload file/folder
+    - create and update text-file/folder
+    - download file/folder
+- IPFS Module
     - import remote ipfs hash
-    - create text-file/folder
+    - generate ipfs hash for uploaded files
 ### Todo
 - integrate FileCoin
 
