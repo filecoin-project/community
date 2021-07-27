@@ -46,9 +46,10 @@ https://github.com/anwen/dweb-search/wiki
 - GitHub Discussion: https://github.com/filecoin-project/community/discussions/180
 - Email: askender43@gmail.com
 - Twitter: <https://twitter.com/askender43>
-- Discord: [Discord: Dweb-Dev](https://discord.gg/QaEwmJMDJ2)
 - Telegram: <https://t.me/Hackers_and_Painters>
-- WeChat/Slack: askender
+- Discord: [Discord: Dweb-Dev](https://discord.gg/QaEwmJMDJ2)
+- WeChat: askender
+- Slack: askender
 
 ## How to Contribute
 - Create issues in https://github.com/anwen/dweb-search/issues
