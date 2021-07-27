@@ -43,13 +43,19 @@ https://github.com/anwen/dweb-search/wiki
 - Everyone who join [Discord: Dweb-Dev](https://discord.gg/QaEwmJMDJ2) can be a team member
 
 ## How the community can engage
-- GitHub Discussion: https://github.com/filecoin-project/community/discussions/180
-- Email: askender43@gmail.com
-- Twitter: <https://twitter.com/askender43>
-- Telegram: <https://t.me/Hackers_and_Painters>
-- Discord: [Discord: Dweb-Dev](https://discord.gg/QaEwmJMDJ2)
-- WeChat: askender
-- Slack: askender
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/180
+
+Email: askender43@gmail.com
+
+Twitter: <https://twitter.com/askender43>
+
+Telegram: <https://t.me/Hackers_and_Painters>
+
+Discord: [Discord: Dweb-Dev](https://discord.gg/QaEwmJMDJ2)
+
+WeChat: askender
+
+Slack: askender
 
 ## How to Contribute
 - Create issues in https://github.com/anwen/dweb-search/issues
