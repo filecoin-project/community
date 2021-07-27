@@ -47,11 +47,11 @@
 
  ### Is it suitable for you? 
 
- <img width="1288" alt="Rules and Requirements" src="https://user-images.githubusercontent.com/75723122/125607988-7553fec8-83c4-4bc8-bcce-8f19c57aefc0.png">
+Rules and Requirements.png![Rules and Requirements](https://user-images.githubusercontent.com/75723122/127090179-75fee051-b36f-475d-9029-4c996889b2f0.png)
 
  #### Storage Provider Incubation Center Program (Track 1)
 
- The storage provider incubation center do welcome new or small storage providers to join immediately, you need to seal at least 64 sectors per day (2TiB）to join this program, when a storage provider's storage power reached 1PiB or has participated this program over 90days, then the storage providers has to withdraw from this program, and the others who meet the requirements can be joined.
+ The storage provider incubation center do welcome new or small storage providers to join immediately, you need to seal at least 64 sectors per day (2TiB）to join this program, when a storage provider's storage power reached 1PiB or run to the end of the certain phase, then the storage providers has to withdraw from this program, and the others who meet the requirements can be joined.
 
  The first term of Storage Provider Incubation Center started from **2021/07/26 - 2021/10/24**. If you want to join this program, please register it here [Application Form](http://venusteam.mikecrm.com/1lmpQtj)，please fill as much content as you can so we can review and give feedback to you within a short time. Please be aware, due to the software and hardware varied a lot, we have to learn more about your application before making the right choice. 
 
@@ -69,12 +69,6 @@
 
  Storage providers who joined this program can just run with [venus-sealer](https://github.com/filecoin-project/venus-sealer), [venus-wallet](https://github.com/filecoin-project/venus-wallet) and make sure to connect with a distributed mining pool then can run with one or a few nodes at the same time. it will be easier to build your own node on the largest distributed storage network. Happy Mining!
 
-
- ##### As a storage provider of Incubation Center:
-
- Candidates should start submitting applications 2 weeks before each milestone, and the application submission period is 1 week.
-
- Our team will start to review the application to select the storage providers to join this program, and the review period is also 1 week.
 
  #### Venus Master Fellowship Program (Track 2)
 
@@ -154,7 +148,7 @@
 
  If you have any questions, feel free to contact us，or leave your comments to ’[*Joss-Venus*](https://filecoinproject.slack.com/archives/DNEDPLEDB)‘ on the Filecoin Slack.
 
- - Slack: [fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
+ - Slack: [fil-incubation-center](https://filecoinproject.slack.com/archives/C028MN42KEE)
  - Email: [venus@ipfsforce.com](venus@ipfsforce.com)
 
  ## Filecoin Community Code of Conduct Applied
