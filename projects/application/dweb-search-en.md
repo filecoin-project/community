@@ -53,8 +53,5 @@ https://github.com/anwen/dweb-search/wiki
 
 ## How to Contribute
 - Create issues in https://github.com/anwen/dweb-search/issues
-- Architecture reviews
-- Code
-- Optimizations
-- Join our communities
 - Submit pull requests on here https://github.com/anwen/dweb-search
+- Join our communities
