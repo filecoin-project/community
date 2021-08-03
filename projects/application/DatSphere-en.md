@@ -34,8 +34,7 @@ under development
 - integrate FileCoin
 
 ## Previews
-![Image](https://datsphere.com/api/assets/1d6e7d5a-91a7-4b63-b44a-31c45bc58011)
-![Image](https://datsphere.com/api/assets/49cb6699-d070-4bdc-8393-bb306a23ce37)
+
 
 ## Target Audience
 normal user, developer
