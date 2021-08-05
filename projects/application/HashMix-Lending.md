@@ -1,6 +1,6 @@
 ## Project Name
 
-HashMix 
+HashMix Lending
 
 ## Category 
 
@@ -16,37 +16,46 @@ The first product HashMix launched is HashMix Lending, a lending tool helping Fi
 
 ## Project Status
 
-HashMix Lending has launched weeks ago, currently 286k FIL have been processed by HashMix platform.
+HashMix Lending has been launched in July, 2021, currently 376k FIL have been deposited on HashMix platform.
 
 ## Previews
-Pic
+
+![image](https://user-images.githubusercontent.com/86829888/128304495-dc30e847-5766-401b-bffc-7c52a568c2fa.png)
 
 ## Target Audience
+
 Filecoin miners who need FIL to seal more storage power and FIL holders who want to fully utilize their assets.
 
 ## Rough estimated user base (if applicable)
-Every miner and holder could benefit from HashMix platform.
+
+Every Filecon miner and holder could benefit from HashMix platform.
 
 ## Github repo
+
 https://github.com/HashMixProject
 
 
 ## Website
+
 https://hashmix.org/
 https://app.hashmix.org/
 
 ## Docs
+
 Coming soon.
 
 
 ## Team Info
+
 The HashMix team is anonymous.
 
 
-### Team Size  
+## Team Size  
+
 20
 
 ## How the community can engage
+
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/223  
 Email: contact@hashmix.org  
 Twitter: https://twitter.com/HashMixOfficial
