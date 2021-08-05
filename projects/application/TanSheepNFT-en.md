@@ -43,4 +43,4 @@ CTO: Richard Belson, 7+ years of software developing experience, responsible for
 ## How the community can engage
 
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/204  
-Discord:  https://discord.gg/xtJbY6tvCU
+Discord:  https://discord.gg/7vbp8sZ9ma
