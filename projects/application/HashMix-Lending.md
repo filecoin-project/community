@@ -58,10 +58,10 @@ The HashMix team is anonymous.
 
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/223  
 Email: contact@hashmix.org  
-Twitter: https://twitter.com/HashMixOfficial
-Discord: https://discord.gg/VDHDaSR7D9
-Telegram: https://t.me/HashMixChannel
-Medium: https://hashmix.medium.com/
+Twitter: https://twitter.com/HashMixOfficial  
+Discord: https://discord.gg/VDHDaSR7D9  
+Telegram: https://t.me/HashMixChannel  
+Medium: https://hashmix.medium.com/  
 
 ## How to Contribute
 
