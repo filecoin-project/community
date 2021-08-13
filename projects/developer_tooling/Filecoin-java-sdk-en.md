@@ -2,7 +2,7 @@
 Filecoin Java SDK
 
 ## Category 
-~~Application~~ Developer Tooling
+Developer Tooling
 
 ## Project Description
 Supporting features:
@@ -18,17 +18,17 @@ Developing
 
 * Data used for signature
 
-![Data used for signature](./images/Sign%20Data.jpg)
+![Data used for signature](images/Sign Data.jpg)
 
 * Build multi-signature address parameters
 
-![Build multi-signature address parameters](./images/Build%20multi-signature%20address%20parameters.jpg)
+![Build multi-signature address parameters](images/Build multi-signature address parameters.jpg)
 
 * Blake2b Digital signature refer to [Blake2b](https://github.com/alphazero/Blake2b)
 * Cbor Encoding format refer to [Cbor](https://github.com/whyrusleeping/cbor-gen)
 
 ## Target Audience
-~~normal user,~~ Developers of exchanges, wallets or even applications.
+Developers of exchanges, wallets or even applications.
 
 ## Rough estimated user base (if applicable)
 
