@@ -18,11 +18,11 @@ Developing
 
 * Data used for signature
 
-![Data used for signature](images/Sign Data.jpg)
+![Data used for signature](./images/Sign%20Data.jpg)
 
 * Build multi-signature address parameters
 
-![Build multi-signature address parameters](images/Build multi-signature address parameters.jpg)
+![Build multi-signature address parameters](./images/Build%20multi-signature%20address%20parameters.jpg)
 
 * Blake2b Digital signature refer to [Blake2b](https://github.com/alphazero/Blake2b)
 * Cbor Encoding format refer to [Cbor](https://github.com/whyrusleeping/cbor-gen)
