@@ -58,7 +58,7 @@ Jc0803kevin
 
 ## How the community can engage
 
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/252
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/252   
 Email: jc0803kevin@163.com  
 
 
