@@ -43,7 +43,7 @@ https://github.com/filecoin-project/community/discussions/147
 
 ## Website
 <!--Link your website if available-->
-https://ipfs-souko.nonentropy.jp/
+[IPFS SOUKO](https://ipfs-souko.nonentropy.jp/)
 
 News release about Joint research
 https://nonentropy.jp/news/nonentropy-japan-to-begin-joint-research-with-graduate-school-of-information-science-and-technology-osaka-university/
