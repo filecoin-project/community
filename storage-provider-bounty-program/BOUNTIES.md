@@ -8,11 +8,11 @@ Bounties are a good fit for simpler tasks like fixing minor bugs, adding test ca
 ## How to Propose 
 To propose a bounty simply tag your issues in the “open bounties” column on the [bounties project board](https://github.com/filecoin-project/community/projects/1) with the award amount. It’s also a good idea to add a comment to the issue linking back to this document so your contributors can learn how to claim the bounty. It is the responsibility of the bounty issuer to disburse the award.  Only authorized accounts can propose a bounty at this time.
 
-**NOTE:** Due to the way Github project board permissions work, only authorized contributors are currently allowed to add bounties to the board. Please email storageproviderbounties@fil.org to be added.
+*NOTE: Due to the way Github project board permissions work, only authorized contributors are currently allowed to add bounties to the board. Please email storageproviderbounties@fil.org to be added.*
 
 ## How to Collect Bounties
-Find an issue that fits your skills and interests on the Bounty Board and fix it!
-Open a Pull request with your work ( don’t forget to include “fixes #...” in your Pull Request so it automatically closes the issue). Once the Pull Request is approved and merged, simply open a [Bounty Claim](https://github.com/filecoin-project/community/issues) issue in this repo to collect your reward!
+- Find an issue that fits your skills and interests on the [Bounty Board](https://github.com/filecoin-project/community/projects/1) and fix it!
+- Open a Pull request with your work ( don’t forget to include [“fixes #...”](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-iss(https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) in your Pull Request so it automatically closes the issue). Once the Pull Request is approved and merged, simply open a [Bounty Claim](https://github.com/filecoin-project/community/issues) issue in this repo to collect your reward!
 
 ## Support and Payments
 Bounties are paid out by the originating party. Right now the originating party is the Filecoin Foundation. 
