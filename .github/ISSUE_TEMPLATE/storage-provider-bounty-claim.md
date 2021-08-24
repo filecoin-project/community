@@ -7,7 +7,7 @@ assignees: vnessasgrt
 
 ---
 
-## 1. What Bounty is this claiming?
+## 1. What Bounty is this issue claiming?
 
 <!-- link to Bounty in this repo -->
 
