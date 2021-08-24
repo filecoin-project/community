@@ -1,8 +1,8 @@
 ---
 name: Storage Provider Bounty Claim
 about: Claim a bounty for a completed work
-title: [Storage Provider Bounty Claim] <Your Title Here>
-labels: category: storage-provider-bounty
+title: "[Storage Provider Bounty Claim] <Your Title Here>"
+labels: "category: storage-provider-bounty"
 assignees: vnessasgrt
 
 ---

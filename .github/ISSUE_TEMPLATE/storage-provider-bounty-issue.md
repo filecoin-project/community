@@ -1,8 +1,8 @@
 ---
 name: Storage Provider Bounty Issue
 about: Submit issues to help improve out community
-title: [Storage Provider Bounty Issue] <Your Title Here>
-labels: category: storage-provider-bounty
+title: "[Storage Provider Bounty Issue] <Your Title Here>"
+labels: "category: storage-provider-bounty"
 assignees: vnessasgrt
 
 ---
