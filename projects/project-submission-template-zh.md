@@ -1,42 +1,45 @@
 
-## Project Name <!-- Add your project name here"-->
+## 项目名称 <!-- Add your project name here"-->
 <!-- Add you project logo here if available-->
 
-## Category 
+## 项目logo
+
+## 类别 
 <!--developer tooling, application, wallet, infrastructure, etc-->
 
-## Project Description
+## 项目简介
 <!--Describe your project in a few sentences. -->
 
-## Project Status
+## 项目状态
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
 
-## Previews
+## 预览
 <!--Add some screenshots to give a preview of your product-->
 
-## Target Audience
+## 用户群体
 <!--Describe who will be your project's users-->
 
-## Rough estimated user base (if applicable)
+## 用户数量
 <!--How many users do you have right now?-->
 
-## Github repo
+## Github
 <!--Attach a link to your GitHub repo if it's OSS-->
 
-## Website
+## 网站
 <!--Link your website if available-->
 
-## Docs
+## 文档
 <!--Including a link to your project docs!-->
 
-## Team Info
+## 团队信息
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-### Team Size  
 
-### Team members  
+### 团队人数  
 
-## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+### 团队成员  
+
+## 社区可以如何你们交流？
+GitHub 论坛: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
 Email:  
 Slack:  
 Twitter:  
@@ -44,5 +47,5 @@ Discord:
 Telegram:  
 WeChat:  
 
-## How to Contribute
-<!--How can the community contribute to your project?-->
+## 贡献指南
+<!--How can the community contribute to your project?--> 
