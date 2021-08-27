@@ -107,7 +107,7 @@ Fun channels to join once you are in the workspace:
 - `fil-venus-announcements`: for official venus announcements only, no discussions here
 - `fil-venus`: for venus related discussion
 - `fil-venus-cn`: for venus related discussion in Chinese
-- `fil-incubation-center`: this channel is for[Filecoin Storage Provider Incubation Center Program](https://venus.filecoin.io/incubation/)
+- `fil-incubation-center`: this channel is for [Filecoin Storage Provider Incubation Center Program](https://venus.filecoin.io/incubation/)
 - `fil-forest-announcements`: for official forest announcements only, no discussions here
 - `fil-forest-help`: for forest related discussion
 - `fil-forest-help`: for forest related discussion
