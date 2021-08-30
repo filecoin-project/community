@@ -12,8 +12,8 @@ Options:
 - **< Reject >**: < I reject this concept, pumpkin spice is disgusting >
 
 ---
-start: 2021-08-26 13:00
-end: 2021-08-27 13:00
+start: 2021-08-31 13:00
+end: 2021-09-03 13:00
 constituents: [ all ]
 author: @galen-mcandrew & @kaitlin-beegle
 discussion: slack
