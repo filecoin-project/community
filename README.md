@@ -110,7 +110,7 @@ Fun channels to join once you are in the workspace:
 - `fil-incubation-center`: this channel is for [Filecoin Storage Provider Incubation Center Program](https://venus.filecoin.io/incubation/)
 - `fil-forest-announcements`: for official forest announcements only, no discussions here
 - `fil-forest-help`: for forest related discussion
-- `fil-forest-dev`: for forest related discussion
+- `fil-forest-dev`: for forest dev discussion 
 
 Primary Slack channels are bridged (automatically mirrored and read-only) to [Matrix](https://app.element.io/#/group/+filecoin:matrix.org).
 
