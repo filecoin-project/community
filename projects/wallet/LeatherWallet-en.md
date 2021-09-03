@@ -61,8 +61,8 @@ Joyce Hu
 
 ## How the community can engage
 Email: joyceshiling@gmail.com
-Slack: https://filecoin.io/slack  
-Communuty Discussion: https://github.com/filecoin-project/community/discussions/62
+Slack: Joyce
+Communuty Discussion: https://github.com/filecoin-project/community/discussions/289
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
