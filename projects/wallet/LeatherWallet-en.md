@@ -29,7 +29,7 @@ Show the sign message result
 <!--Add some screenshots to give a preview of your product-->
 
 ## Target Audience
-4 Billion Users On The Internet -- Rationale: https://arg.protocol.ai
+Everybody can use it to create filecoin wallet and store the wallet safety. Miner owners can use the offline wallet to withdraw fil from miner account.
 <!--Describe who will be your project's users-->
 
 ## Rough estimated user base (if applicable)
@@ -37,11 +37,11 @@ about 5 miner shareholders
 <!--How many users do you have right now?-->
 
 ## Github repo
-https://github.com/slate-engineering/wallet
+https://github.com/joyceqingling/lotus-offchain-wallet
 <!--Attach a link to your GitHub repo if it's OSS-->
 
 ## Website
-https://github.com/slate-engineering/wallet
+https://github.com/joyceqingling/lotus-offchain-wallet
 <!--Link your website if available-->
 
 ## Docs
