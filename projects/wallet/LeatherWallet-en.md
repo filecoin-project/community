@@ -56,7 +56,7 @@ People at Protocol Labs build protocols, tools, and services to radically improv
 2
 
 ### Team members  
-Adonis Jiang
+Adonis Jiang, 
 Joyce Hu
 
 ## How the community can engage
