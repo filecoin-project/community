@@ -24,7 +24,7 @@ Fill the information to transfer money
 ![fill in the form](https://user-images.githubusercontent.com/58079255/132000190-55f73785-f8d4-4fc2-a7ec-7b54b16096a7.jpg)
 Show the sign message result
 ![sign](https://user-images.githubusercontent.com/58079255/132000202-53aae829-7b0e-4e24-add4-bc8b98c45a8b.jpg)
-
+The final step is using a qr code scanner to get the sign string and send it out from our customized lotus, which is opensource too, to send the message into the message pool.
 
 <!--Add some screenshots to give a preview of your product-->
 
