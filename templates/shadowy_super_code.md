@@ -52,8 +52,11 @@ Elijah Bryan = Product Manager
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/296
 
 Email:  kwame.bryan@gmail.com
+
 Slack:  
+
 Twitter:  ElijahNomad 
+
 Discord:  kwame#6442
 Telegram:  
 WeChat:  
