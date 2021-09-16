@@ -49,7 +49,7 @@ Elijah Bryan = Product Manager
 ### Team members  
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/296 
 Email:  kwame.bryan@gmail.com
 Slack:  
 Twitter:  ElijahNomad 
