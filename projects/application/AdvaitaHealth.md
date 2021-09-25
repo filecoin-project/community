@@ -1,7 +1,7 @@
 # AdvaitaHealth
 
 ### Project Description:
-![Image text](https://raw.githubusercontent.com/towben/AdvaitaHealth/main/about%20us/image/framework_en.png)
+![Image text](https://raw.githubusercontent.com/towben/AdvaitaHealth/main/about%20us/image/framework_en副本.png)
 ### Health Data Blockchain Service Platform
 Combining evaluation of preventive-treatment wearable device with new infrastructure like 5G and IoT etc, Advaita Heal utilizes Polkdot ecology, merging with preventive-treatment ( Health Med) AI and builds the platform where efficacy of treatment is highly digitized and intelligentized.
 
