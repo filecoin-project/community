@@ -1,6 +1,5 @@
 # AdvaitaHealth
-### Project Status
-The development of the health watch is completed, and the blockchain is under development.
+
 ### Project Description:
 ![Image text](https://raw.githubusercontent.com/towben/AdvaitaHealth/main/about%20us/image/framework_en.png)
 ### Health Data Blockchain Service Platform
@@ -29,6 +28,8 @@ Major diseases can be intervened and treated effectively with data
 5，Effective improvement in sleep
 ## Business Model：
 Trusty data on chain + smart contract + pay according to efficacy
+### Project Status
+The development of the health watch is completed, and the blockchain is under development.
 ## Promotion：
 1. Credentials of Chinese traditional medicine special project of Health committee, China Ministry of Industry and Information Technology + front end marketing of cooperated Chinese traditional medicine hospital
 2，Diagnosis and prescription of wearable devices 
