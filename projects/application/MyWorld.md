@@ -72,7 +72,7 @@ na.le@qhoach.com
 
 ## How the community can engage
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/307 <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email: a.mac@qhoach.com
+Email: a.mac@qhoach.com   
 Slack:  
 Twitter:  
 Discord:  https://discord.gg/nujAyCAdv9   
