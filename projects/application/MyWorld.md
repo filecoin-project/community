@@ -75,7 +75,7 @@ GitHub Discussion: https://github.com/filecoin-project/community/discussions/307
 Email: a.mac@qhoach.com
 Slack:  
 Twitter:  
-Discord:  https://discord.gg/nujAyCAdv9
+Discord:  https://discord.gg/nujAyCAdv9   
 Telegram:  
 WeChat:  
 
