@@ -1,4 +1,5 @@
-## Project Name MyWorld<!-- Add your project name here with format "Project Name"-->
+## Project Name <!-- Add your project name here with format "Project Name"-->
+MyWorld
 
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
