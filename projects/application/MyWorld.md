@@ -34,7 +34,7 @@ We are in beta with a functional product running on Flow testnet.
 ## Target Audience
 <!--Describe who will be your project's users-->
 + Autism Artists
-Autism Musicians
++ Autism Musicians
 
 ## Rough estimated user base (if applicable)
 <!--How many users do you have right now?-->
