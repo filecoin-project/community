@@ -42,7 +42,7 @@ We are opening to our community soon
 
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
-https://github.com/NguyenIvan/lazy-ipfs-image
+https://github.com/NguyenIvan/lazy-ipfs-image   
 https://github.com/NguyenIvan/MyWorld/
 
 ## Website
