@@ -60,7 +60,9 @@ Slack:
 Twitter:  ElijahNomad 
 
 Discord:  kwame#6442
+
 Telegram:  
+
 WeChat:  
 
 ## How to Contribute
