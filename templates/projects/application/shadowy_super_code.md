@@ -41,7 +41,9 @@ Currently in Developer
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
 
 Kwame Bryan = Lead Developer
+
 Johanna Nichola = Project Manager
+
 Elijah Bryan = Product Manager
 
 ### Team Size  
