@@ -17,7 +17,7 @@ After a short period of development, the project has an initial demo, and is now
 
 ## Previews
 
-
+![image](https://user-images.githubusercontent.com/90947287/134448622-54c59154-69c0-458a-89b4-b4140098d918.png)
 
 ## Target Audience
 
@@ -51,7 +51,8 @@ Team from https://github.com/StorerOS
 
 ## How the community can engage
 
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/312 
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/312
+
 Email: wujinquan@wenchu.io 
 
 
