@@ -55,15 +55,15 @@ GitHub Discussion: https://github.com/filecoin-project/community/discussions/296
 
 Email:  kwame.bryan@gmail.com
 
-Slack:  
+Slack:  N/A
 
 Twitter:  ElijahNomad 
 
 Discord:  kwame#6442
 
-Telegram:  
+Telegram:  N/A
 
-WeChat:  
+WeChat:  N/A
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
