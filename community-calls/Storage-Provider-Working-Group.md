@@ -6,6 +6,6 @@ Our Storage Provider Working Group Calls provide a forum to provide storage-rele
 
 ## Call Recordings
 
-| No. | Date | Recording | Passcode |
-| ---- | ---- | ---- | ---- |
-| 1 | Wednesday, August 25, 2021 08:00 PTD | [recording](https://us02web.zoom.us/rec/share/x5XNQg29PV0NcIGJqgotEDpIzGxrEsI74NRki4ulcA5lCmVsZIyy0N6hDSc98E03.ibvt5BXGeAJIae-v) |9z@iNpQz|
+| No. | Date | Recording | 
+| ---- | ---- | ---- |
+| 1 | Wednesday, August 25, 2021 08:00 PTD | [recording](https://youtu.be/zGUIUVN75gA) |
