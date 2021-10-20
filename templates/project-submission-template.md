@@ -1,47 +1,47 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+## LOSSST
 
 ## Category 
-<!--developer tooling, application, wallet, infrastructure, etc-->
+Puzzle game
 
 ## Project Description
-<!--Describe your project in a few sentences. -->
+A free-to-play puzzle game where a snake needs to reproduce patterns by moving its body in various environments and mechanics.
+I want to implement many decentralized features and release it as a browser &nd mobile game.
 
 ## Project Status
-<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+Game jam version shipped - Global release in development
 
 ## Previews
-<!--Add some screenshots to give a preview of your product-->
+![image](https://user-images.githubusercontent.com/1225909/138115788-8fcbca85-a51e-458d-8a04-967eef83b80c.png)
+![image](https://user-images.githubusercontent.com/1225909/138116000-0e71aff2-6eb8-4241-8f78-33a7a6b44d70.png)
+
 
 ## Target Audience
-<!--Describe who will be your project's users-->
+Casual gamers, puzzle enthusiasts
 
 ## Rough estimated user base (if applicable)
-<!--How many users do you have right now?-->
+250+
 
 ## Github repo
-<!--Attach a link to your GitHub repo if it's OSS-->
+https://github.com/xem/js13k21
 
 ## Website
-<!--Link your website if available-->
+https://xem.github.io/
 
 ## Docs
-<!--Including a link to your project docs!-->
+Making-of: https://xem.github.io/articles/js13k21.html
 
 ## Team Info
-<!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
 
 ### Team Size  
+1
 
 ### Team members  
+Xem
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email:  
-Slack:  
-Twitter:  
-Discord:  
-Telegram:  
-WeChat:  
+Email:  maxime.euziere[at]gmail.com
+Twitter:  @maximeeuziere
+Telegram: @xem06
 
 ## How to Contribute
-<!--How can the community contribute to your project?-->
+Funding
