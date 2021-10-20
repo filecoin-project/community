@@ -2,7 +2,7 @@
 AdvaitaHealth 
 
 ## Category 
- Health
+ Application
 
 ## Project Description
 Combining evaluation of preventive-treatment wearable device with new infrastructure like 5G and IoT etc, Advaita Heal utilizes Polkdot ecology, merging with preventive-treatment ( Health Med) AI and builds the platform where efficacy of treatment is highly digitized and intelligentized.
@@ -65,13 +65,13 @@ People who are concerned about health
  100million
 
 ## Github repo 
-https://github.com/towben/AdvaitaHealth
+https://github.com/AdvaitaHealth/AdvaitaHealth
 
 ## Website 
  http://advaitahealth.net
 
 ## Docs
-https://github.com/towben/AdvaitaHealth/wiki
+https://github.com/AdvaitaHealth/AdvaitaHealth/wiki
 
 ## Team Info
  
