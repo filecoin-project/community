@@ -1,4 +1,6 @@
-## Project Name Defi Together
+## Project Name
+
+Defi Together
 
 ## Category
 
@@ -20,7 +22,9 @@ Under Development
 
 ## Previews
 
-<!--Add some screenshots to give a preview of your product-->
+![Starting a new defi investing group](https://user-images.githubusercontent.com/46126470/138233589-caf51278-723d-416b-896b-a97c61f4b726.jpg)
+![Setting the starting capital](https://user-images.githubusercontent.com/46126470/138233596-a1b47fa6-914e-4375-adee-82515ff685aa.jpg)
+![Proposing a defi investing transaction](https://user-images.githubusercontent.com/46126470/138233605-9c11799d-d44e-42c3-ae2f-f51ccdad4fee.jpg)
 
 ## Target Audience
 
