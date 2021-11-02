@@ -11,6 +11,8 @@ Next is the time of the Metaverse!
 No matter where they are in Metaverse or wherever they are, the characters are there and have a strong personalization!
 Our goal is to provide everyone with an Avatar in Metaverse !
 
+We will use NFT.storage to store and produce metadata for everyone’s avatar, and finally store it on the polygon chain ！
+
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
