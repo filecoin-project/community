@@ -50,8 +50,8 @@ https://github.com/manhnvan/Pristorage/blob/main/GUIDE.md
 
 |      Name      |          Email          |              Github              |          Role          |
 |:--------------:|:-----------------------:|:--------------------------------:|:----------------------:|
-| Nguyen Van Manh |    manhvm00@gmail.com   |     https://github.com/manhnvan    |  Primary Developer |
-| Tuan Pham Minh |    tuanpmhd@gmail.com   |     https://github.com/iamvon    | Mentor |
+| Nguyen Van Manh|    manhnv@giong.network |     https://github.com/manhnvan  |  Primary Developer     |
+| Tuan Pham Minh |    tuanpm@giong.network |     https://github.com/iamvon    | Mentor                 |
 
 # How the community can engage
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/358
