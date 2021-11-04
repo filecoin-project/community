@@ -55,7 +55,7 @@ https://github.com/manhnvan/Pristorage/blob/main/GUIDE.md
 
 # How the community can engage
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/358
-Email: manhvm00@gmail.com
+Email: manhnv@giong.network
 Telegram: manhnvm
 
 # How to Contribute
