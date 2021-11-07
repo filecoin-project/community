@@ -11,6 +11,7 @@ Application
 ## Project Description
 <!--Describe your project in a few sentences. -->
 A gamified blockchain platform for independent creators, fans, and brands to collaborate directly and earn rewards using P2E DeFi incentives.
+Creative platform is using Textile to store content on Filecoin, and plan to integrate Filecoin storage using Ethereum and Polygon bridge to Filecoin bridge into our existing Textile implementation. We have hosted Creative platform with Fleek on IPFS/Filecoin. Other protocol implmentations include Chainlink, Polygon, Celo, and Loom SDK. 
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
