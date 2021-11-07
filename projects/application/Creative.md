@@ -55,11 +55,11 @@ https://docs.creativeplatform.io
 + Anmol Agarwala - Backend Developer, [Github](https://github.com/sylar217)
 
 ## How the community can engage
-GitHub Discussion: GitHub Discussion: https://github.com/filecoin-project/community/discussions/327   
-Email: cryptocreativeorg@gmail.com   
-Twitter:  https://twitter.com/creativecrtv
-Discord:  https://discord.gg/rGNUvmxe
-Telegram:  https://t.me/joinchat/RQ-p_QD7XIA2gDYO  
++ GitHub Discussion: https://github.com/filecoin-project/community/discussions/327   
++ Email: cryptocreativeorg@gmail.com   
++ Twitter:  https://twitter.com/creativecrtv
++ Discord:  https://discord.gg/rGNUvmxe
++ Telegram:  https://t.me/joinchat/RQ-p_QD7XIA2gDYO  
 
 ## How to Contribute
 <!--How can the community contribute to your project?--> 
