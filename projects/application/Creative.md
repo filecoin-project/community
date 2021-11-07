@@ -33,8 +33,8 @@ N/A
 
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
-UI: https://github.com/g2entgroup/creative-ui-2.2
-Contracts: https://github.com/g2entgroup/creative-contracts
++ UI: https://github.com/g2entgroup/creative-ui-2.2
++ Contracts: https://github.com/g2entgroup/creative-contracts
 
 ## Website
 <!--Link your website if available-->
