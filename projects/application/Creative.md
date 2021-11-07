@@ -50,9 +50,9 @@ https://docs.creativeplatform.io
 3
 
 ### Team members  
-Gawain Bracy II - Founder, [Github](https://github.com/gawainb)
-Torch Ablaze - Frontend Developer, [Github](https://github.com/Rashmi-278)
-Anmol Agarwala - Backend Developer, [Github](https://github.com/sylar217)
++ Gawain Bracy II - Founder, [Github](https://github.com/gawainb)
++ Torch Ablaze - Frontend Developer, [Github](https://github.com/Rashmi-278)
++ Anmol Agarwala - Backend Developer, [Github](https://github.com/sylar217)
 
 ## How the community can engage
 GitHub Discussion: GitHub Discussion: https://github.com/filecoin-project/community/discussions/327   
