@@ -54,9 +54,9 @@ https://github.com/manhnvan/Pristorage/blob/main/GUIDE.md
 | Tuan Pham Minh |    tuanpm@giong.network |     https://github.com/iamvon    | Mentor                 |
 
 # How the community can engage
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/358
-Email: manhnv@giong.network
-Telegram: manhnvm
++ GitHub Discussion: https://github.com/filecoin-project/community/discussions/358
++ Email: manhnv@giong.network
++ Telegram: manhnvm
 
 # How to Contribute
 We always appreciate your comment in any way to make Pristorage better. Our Github repo is always available.
