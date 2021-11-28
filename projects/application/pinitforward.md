@@ -47,12 +47,13 @@ Docs are build into the application onboarding at https://pinitforward.xyz/.
 
 ### Team members  
 
-[Jonathan Dinu](https://jonathandinu.com/).
+[Jonathan Dinu](https://jonathandinu.com/)
 
 ## How the community can engage
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/396  
-Twitter: [@psychothan](https://twitter.com/psychothan)
-Discord: https://discord.gg/kA8vFDUkr5 
+
+* GitHub Discussion: https://github.com/filecoin-project/community/discussions/396  
+* Twitter: [@psychothan](https://twitter.com/psychothan)
+* Discord: https://discord.gg/kA8vFDUkr5 
 
 ## How to Contribute
 
