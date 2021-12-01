@@ -7,17 +7,16 @@ application
 
 ## Project Description
 <!--Describe your project in a few sentences. -->
-Next is the time of the Metaverse!
-No matter where they are in Metaverse or wherever they are, the characters are there and have a strong personalization!
-Our goal is to provide everyone with an Avatar in Metaverse !
-
-We will use NFT.storage to store and produce metadata for everyone’s avatar, and finally store it on the polygon chain ！
-Eventually we will implement a protocol of DID + Wallet address = Avatar NFT
+Avatar Metaverse is an identity avatar metaverse that uses Filecoin to store the underlying identity. 
+We use a combination of avatar NFT and wallet address and DID constructs Metaverse's identity system.
+With such a decentralized identity,
+A permanent, time-stamped record of personal achievements, contributions, interests, and activities to date can be made.
 
 ### Plans
-- Modify the UI
-- Improve the NFT market
-- Connect to opensea
+1. Complete the mint process of Avatar NFT
+2. Increase nft market
+3. Connect to Opensea
+4. add user did system
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
@@ -29,16 +28,15 @@ please visit https://www.avatarverse.me
 
 ## Target Audience
 <!--Describe who will be your project's users-->
-Everyone in the meta universe
+Provide a set of identity for everyone in Metaverse
 
 ## Rough estimated user base (if applicable)
 <!--How many users do you have right now?-->
-zero! Just started development
+a little ! Just started development
 
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
 https://github.com/ZhangPeibin/AvatarMetaverse
-
 
 ## Website
 <!--Link your website if available-->
