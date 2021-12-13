@@ -53,4 +53,4 @@ Telegram:
 WeChat:  
 
 ## How to Contribute
-Join our discord! 
+Join our [discord](https://discord.gg/4kdnHTZS)! 
