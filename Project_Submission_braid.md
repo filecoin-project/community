@@ -4,7 +4,7 @@
 
 
 ## Category 
-Dapp
+application
 
 ## Project Description
 Braid is trying to fix science publishing by reducing gatekeeping and increasing open access. 
