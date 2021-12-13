@@ -8,7 +8,7 @@ application
 
 ## Project Description
 Braid is trying to fix science publishing by reducing gatekeeping and increasing open access. 
-We want to be a place where scientists can upload their papers via Web3.Storage (utilizing Filecoin and IPFS, review the work of their peers, and be compensated for both.
+We want to be a place where scientists can upload their papers via Web3.Storage (utilizing Filecoin and IPFS), review the work of their peers, and be compensated for both.
 
 ## Project Status
 Brainstorming/Under Development
