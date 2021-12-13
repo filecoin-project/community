@@ -44,13 +44,10 @@ https://paperfax.org/
 
 
 ## How the community can engage
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/377 
-Email:  ufkhan97@gmail.com, knorkett@protonmail.com
-Slack:  
-Twitter:  @umar_eth, @homicidalchickn 
-Discord:  https://discord.gg/4kdnHTZS
-Telegram:  
-WeChat:  
++ GitHub Discussion: https://github.com/filecoin-project/community/discussions/377 
++ Email:  ufkhan97@gmail.com, knorkett@protonmail.com
++ Twitter:  @umar_eth, @homicidalchickn 
++ Discord:  https://discord.gg/4kdnHTZS
 
 ## How to Contribute
 Join our [discord](https://discord.gg/4kdnHTZS)! 
