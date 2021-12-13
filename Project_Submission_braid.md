@@ -39,8 +39,8 @@ https://paperfax.org/
 <!--Including a link to your project docs!-->
 
 ## Team Info
-Ufkhan97 -- Co-Founder 
-HomicidalChicken -- Co-Founder 
+- Ufkhan97 -- Co-Founder 
+- HomicidalChicken -- Co-Founder 
 
 
 ## How the community can engage
