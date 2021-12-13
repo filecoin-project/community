@@ -8,7 +8,7 @@ application
 
 ## Project Description
 Braid is trying to fix science publishing by reducing gatekeeping and increasing open access. 
-We want to be a place where scientists can upload their papers (to IPFS), review the work of their peers, and be compensated for both.
+We want to be a place where scientists can upload their papers via Web3.Storage (utilizing Filecoin and IPFS, review the work of their peers, and be compensated for both.
 
 ## Project Status
 Brainstorming/Under Development
@@ -33,7 +33,7 @@ Currently just us!
 https://github.com/ufkhan97/paperfax 
 
 ## Website
-https://paperfax.org/ 
+https://braid.science
 
 ## Docs
 <!--Including a link to your project docs!-->
@@ -46,8 +46,9 @@ https://paperfax.org/
 ## How the community can engage
 + GitHub Discussion: https://github.com/filecoin-project/community/discussions/377 
 + Email:  ufkhan97@gmail.com, knorkett@protonmail.com
-+ Twitter:  @umar_eth, @homicidalchickn 
-+ Discord:  https://discord.gg/4kdnHTZS
++ Twitter:  @umarkhaneth, @homicidalchickn 
++ LinkedIn: https://www.linkedin.com/in/ufkhan97/ , https://www.linkedin.com/in/kyle-norkett-642658220/
++ Discord:  https://discord.gg/njNuyXzFs5
 
 ## How to Contribute
-Join our [discord](https://discord.gg/4kdnHTZS)! 
+Join our [discord](https://discord.gg/njNuyXzFs5)! 
