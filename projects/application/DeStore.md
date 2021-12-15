@@ -67,14 +67,14 @@ We have a combined experience of 3 years working in the blockchain field and bra
 
 ## How the community can engage
 
-GitHub Discussion: https://github.com/filecoin-project/community/discussions/414  
-Email: surajsingla333@gmail.com
-Twitter: https://twitter.com/surajsingla333
-Discord: https://discordapp.com/users/surajsingla333#5243
-Telegram: https://t.me/surajsingla333
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/414  </br>
+Email: surajsingla333@gmail.com </br>
+Twitter: https://twitter.com/surajsingla333 </br>
+Discord: https://discordapp.com/users/surajsingla333#5243 </br>
+Telegram: https://t.me/surajsingla333 </br>
 
 ## How to Contribute
 
-Microgrant to set up node, servers, and buy ENS.
-Looking for a co-founder,
-Looking for developers
+Microgrant to set up node, servers, and buy ENS</br>
+Looking for a co-founder </br>
+Looking for developers </br>
