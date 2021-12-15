@@ -1,4 +1,4 @@
-## Project Name 
+## Project Name
 
 DeStore
 
@@ -48,8 +48,8 @@ https://sparkling-disk-9446.on.fleek.co/
 
 ## Docs
 
-Project (README.md)[https://github.com/De-store/De-Store#readme] is well maintained and all the details are available there. </br>
-(Presentation)[https://docs.google.com/presentation/d/1eYG8PzWb_P9I4_b66NYettWwl-eeMoT6Dm-T38uL8O8/edit#slide=id.p] containing all the details about the idea and development.</br>
+Project's [README.md](https://github.com/De-store/De-Store#readme) is well maintained and all the details are available there. </br>
+This is the [presentation](https://docs.google.com/presentation/d/1eYG8PzWb_P9I4_b66NYettWwl-eeMoT6Dm-T38uL8O8/edit#slide=id.p) containing all the details about the idea and development.</br>
 
 ## Team Info
 
@@ -62,8 +62,8 @@ We have a combined experience of 3 years working in the blockchain field and bra
 
 ### Team members
 
-1. Suraj Singla - Founder | Blockchain developer -> (LinkedIn)[https://www.linkedin.com/in/suraj-singla-9a4343142/] | (Github)[https://github.com/surajsingla333]
-2. Nipish -> (LinkedIn)[https://www.linkedin.com/in/nipish-saini/]
+1. Suraj Singla - Founder | Blockchain developer > [LinkedIn](https://www.linkedin.com/in/suraj-singla-9a4343142/) | [Github](https://github.com/surajsingla333)
+2. Nipish Saini - UI/UX Designer > [LinkedIn](https://www.linkedin.com/in/nipish-saini/)
 
 ## How the community can engage
 
