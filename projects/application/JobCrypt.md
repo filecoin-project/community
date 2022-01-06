@@ -10,13 +10,26 @@ JobCrypt is a Web3 based Job Portal that runs off IPFS and EVM. The project has 
 pre-alpha - we're still BUIDLing!!!! 
 
 ## Previews
-coming shortly....
+**Home Page**
+<img src="https://github.com/jobcrypt/dapp/blob/1a50b462bafabc20e6972d87b0e8deda0cdad95b/media/front-screenshot.PNG" alt="JobCrypt Homepage"/>
+
+<br/>
+
+**Employer Dashboard**
+<img src="https://github.com/jobcrypt/dapp/blob/1a50b462bafabc20e6972d87b0e8deda0cdad95b/media/employer-screenshot.PNG" alt="JobCrypt Employer Dashboard"/>
+
+<br/>
+
+**JobSeeker Dashboard** 
+<img src="https://github.com/jobcrypt/dapp/blob/1a50b462bafabc20e6972d87b0e8deda0cdad95b/media/jobseeker-screenshot.PNG" alt="JobCrypt JobSeeker Dashboard"/>
 
 ## Target Audience
 Post Hackathon projects, blockchain hiring managers, blockchain devs, blockchain professionals, web3 devs, web3 professionals 
 
 ## Rough estimated user base (if applicable)
-Huge - marketing to start soon 
+**- 650,000 web3 vacancies** 
+**- 6.5 million candidates**
+**- 130,040 employers** 
 
 ## Github repo
 https://github.com/cryptotwilight/jobcrypt - current 
@@ -28,10 +41,11 @@ https://www.jobcrypt.com/
 We're working on it 
 
 ## Team Info
-1 - Tony - (Blockchain Rambo) 
+1 - Tony - Founder
 
 ### Team Size  
-1 - recruitment is open
+1 - 10
+recruitment is open
 
 ### Team members  
 
