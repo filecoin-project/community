@@ -1,0 +1,54 @@
+
+# Project Name: Braid
+![image](https://user-images.githubusercontent.com/43886242/141393427-42887107-848c-4ede-a11e-24de8e357e0e.png)
+
+
+## Category 
+application
+
+## Project Description
+Braid is trying to fix science publishing by reducing gatekeeping and increasing open access. 
+We want to be a place where scientists can upload their papers via Web3.Storage (utilizing Filecoin and IPFS), review the work of their peers, and be compensated for both.
+
+## Project Status
+Brainstorming/Under Development
+
+The seed for Braid was a hackathon project called Paperfax. Paperfax began at EthOnline 2021 where we quickly built a preliminary version of our dapp which enables file uploads to IPFS.
+Our next steps include increasing community development and engagement, improvement of the UI, development of an incentive protocol, and considering need for product marketing. 
+We may join an accelerator program. 
+
+## Previews
+[EthOnline Video Submission](https://showcase.ethglobal.com/ethonline2021/paperfax)
+
+## Target Audience
+Our project is primarily targeted towards scholars and/or scientists who are used to publishing their papers in traditional journals. 
+By leveraging IPFS, we provide scholars a permanent way to prove that they were first to an idea or breakthrough. 
+By leveraging cryptocurrency, we hope to create peer-to-peer incentive to review work. 
+
+
+## Rough estimated user base (if applicable)
+Currently just us!
+
+## Github repo
+https://github.com/ufkhan97/paperfax 
+
+## Website
+https://braid.science
+
+## Docs
+<!--Including a link to your project docs!-->
+
+## Team Info
+- Ufkhan97 -- Co-Founder 
+- HomicidalChicken -- Co-Founder 
+
+
+## How the community can engage
++ GitHub Discussion: https://github.com/filecoin-project/community/discussions/377 
++ Email:  ufkhan97@gmail.com, knorkett@protonmail.com
++ Twitter:  @umarkhaneth, @homicidalchickn 
++ LinkedIn: https://www.linkedin.com/in/ufkhan97/ , https://www.linkedin.com/in/kyle-norkett-642658220/
++ Discord:  https://discord.gg/njNuyXzFs5
+
+## How to Contribute
+Join our [discord](https://discord.gg/njNuyXzFs5)! 
