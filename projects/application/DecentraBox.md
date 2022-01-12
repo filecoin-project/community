@@ -11,13 +11,13 @@ With DecentraBox files aren’t stored in centralized data centers— instead, t
 under development
 
 ## Previews
-Homepage: [https://i.imgur.com/eUN78y8.png](https://i.imgur.com/eUN78y8.png)
+Homepage: [https://dweb.link/ipfs/bafkreif2oepm7u4yiqerfpbwtzcknsc65sqpzckkyd2fm7snnydvj36lsq](https://dweb.link/ipfs/bafkreif2oepm7u4yiqerfpbwtzcknsc65sqpzckkyd2fm7snnydvj36lsq)
 
-Login: [https://i.imgur.com/ykXXIUz.png](https://i.imgur.com/ykXXIUz.png)
+Login: [https://dweb.link/ipfs/bafkreibothlmzoqsfsjf7vhjixxqeno7geakysmh62atouhih3kbkhax6a](https://dweb.link/ipfs/bafkreibothlmzoqsfsjf7vhjixxqeno7geakysmh62atouhih3kbkhax6a)
 
-Signup: [https://i.imgur.com/aHONeRf.png](https://i.imgur.com/aHONeRf.png)
+Signup: [https://dweb.link/ipfs/bafkreicolm53f7xa2luvaofyqrll6e2xjn3pr6t5ttzupzr5reusgu3j4a](https://dweb.link/ipfs/bafkreicolm53f7xa2luvaofyqrll6e2xjn3pr6t5ttzupzr5reusgu3j4a)
 
-App: [https://i.imgur.com/ibIPpUr.png](https://i.imgur.com/ibIPpUr.png)  &&  [https://i.imgur.com/XmrVXM2.png](https://i.imgur.com/XmrVXM2.png)
+App: [https://dweb.link/ipfs/bafkreigfcg5hlws53rsey2ql22di3wsx6peg3p33jy5iuetxzype4usanq](https://dweb.link/ipfs/bafkreigfcg5hlws53rsey2ql22di3wsx6peg3p33jy5iuetxzype4usanq)  &&  [https://dweb.link/ipfs/bafkreigrejvlck2z6p27xie6qgoetzlodf25bslwnw7dcnzpopjseksy7i](https://dweb.link/ipfs/bafkreigrejvlck2z6p27xie6qgoetzlodf25bslwnw7dcnzpopjseksy7i)
 
 
 ## Target Audience
