@@ -58,7 +58,7 @@ GitHub: [@AkhileshThite](https://github.com/AkhileshThite)
 
 ## How the community can engage
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/410 <br>
-Email: akhithite@hotmail.com <br>
+Email: akhileshthite@hotmail.com <br>
 Twitter: [@AkhileshThite_](https://twitter.com/AkhileshThite_)
 
 ## How to Contribute
