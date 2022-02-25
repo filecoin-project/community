@@ -1,47 +1,51 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+## "NFT sync gaming API for NEAR ecosystem" 
 
 ## Category 
-<!--developer tooling, application, wallet, infrastructure, etc-->
+Game Developer Tooling
 
 ## Project Description
-<!--Describe your project in a few sentences. -->
+We build on top of an unlockable content service for the NEAR nft ecosystem and will be launched by the end of march, you can see an alpha version at [this link](https://vault.varda.vision/).
+The Vault project uses the web3.storage client to provide immutable DB for unlockable content, we wish to build a similar API for NFT gaming interactions enabling gaming projects to recognize NFT ownership without querying the NEAR RPC but relying on an immutable database updated by a subgraph.
 
 ## Project Status
-<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+Alpha
 
 ## Previews
-<!--Add some screenshots to give a preview of your product-->
+[Link to video](https://drive.google.com/file/d/1CUchyqfluWC-M45ndtFginWsznJF3cK7/view?usp=sharing) of alpha version UI (you can see the gaming API button on the unlockable upload modal window)
 
 ## Target Audience
-<!--Describe who will be your project's users-->
+Game Developers, which are gathered by a [NEAR DAO](https://app.astrodao.com/dao/human.sputnik-dao.near/proposals) I work in, we already have funded project that asked me for this funcionality.
 
 ## Rough estimated user base (if applicable)
-<!--How many users do you have right now?-->
+Gamers and NFT collectors
 
 ## Github repo
-<!--Attach a link to your GitHub repo if it's OSS-->
+[Link to repo](https://github.com/jilt/varda-vault)
 
 ## Website
-<!--Link your website if available-->
+[Website](https://vault.varda.vision/)
 
 ## Docs
-<!--Including a link to your project docs!-->
+Find the readme in the vault repo and [this repo](https://github.com/jilt/near-create-app-webpack5-bundle) built to be able to use the web3.storage client library with the default near-create-app react command, at the end of this funding period i'll be sure to mantain (for at least 1 year) a specific template for near-create-app with webpack5 and web3.storage component installed.
 
 ## Team Info
-<!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
+[UI and dev](https://github.com/jilt)
+[thegraph](https://github.com/VitalPointAI/)
 
-### Team Size  
+### Team Size
+2 people
 
-### Team members  
+### Team members
+Reference [Laura Camellini](https://www.jeeltcraft.com)
+Consultant [Aaron Luhning](https://github.com/VitalPointAI/)
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email:  
-Slack:  
-Twitter:  
-Discord:  
-Telegram:  
-WeChat:  
+GitHub Discussion:  [Link to community showcase post](https://github.com/filecoin-project/community/discussions/476)  
+Email: jeeltcraft@gmail.com
+Slack:  U02DT4TG5FX
+Twitter:  @jeeltcraft
+Discord:  jilt#9087
+Telegram:  @jilt
 
 ## How to Contribute
-<!--How can the community contribute to your project?-->
+Pull requests on my repo, chat on the NEAR discord server
