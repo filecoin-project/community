@@ -4,7 +4,7 @@
 <!--developer tooling, application, wallet, infrastructure, etc--> "Application"
 
 ## Project Description
-<!--Describe your project in a few sentences. --> "NFT marketplace wanted to be the a decentralized version of Amazon Kindle, completly focus in Books, authords, publishers and of course, users"
+<!--Describe your project in a few sentences. --> "NFT marketplace wanting to be the a user first and decentralized version of Amazon Kindle, completly focus on Books, authords, publishers and of course, users"
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc--> "Under development"
