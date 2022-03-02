@@ -35,8 +35,9 @@ Luis Poveda, electronic engineer, more than 6 years of experience in the field. 
 luispoveda.eth
 linkedin.com/in/luiscarlospoveda"
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email:  luis.poveda9321@gmail.com
+GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->
+https://github.com/filecoin-project/community/discussions/479
+Email: luis.poveda9321@gmail.com
 Slack:  
 Twitter:  
 Discord:  
