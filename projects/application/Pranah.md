@@ -1,4 +1,4 @@
-## Pranah
+## Prana
 
 ## Category 
 Application
