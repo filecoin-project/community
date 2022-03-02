@@ -38,12 +38,6 @@ linkedin.com/in/luiscarlospoveda
 GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!--> https://github.com/filecoin-project/community/discussions/479
 
 Email: luis.poveda9321@gmail.com
-
-Slack:  
-Twitter:  
-Discord:  
-Telegram:  
-WeChat: 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
 Collaborating in the repo of the project and be in touch by email
