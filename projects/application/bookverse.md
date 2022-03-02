@@ -1,5 +1,5 @@
 ## Project Name <!-- Add your project name here with format "Project Name"-->
-"Bookverse: an NFT marketplace focused on Books"
+"Bookverse"
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
 "Application"
