@@ -28,7 +28,7 @@ bookversexyz.com
 <!--Including a link to your project docs!-->
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-Luis Poveda, electronic engineer, more than 6 years of experience in the field. Luis really love to read eBooks
+Luis Poveda, electronic engineer, more than 6 years of experience in the field. Luis really love to read eBooks.
 ### Team Size  
 1
 ### Team members  
