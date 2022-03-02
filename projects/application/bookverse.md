@@ -41,8 +41,7 @@ Slack:
 Twitter:  
 Discord:  
 Telegram:  
-WeChat:  
-
+WeChat: 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
 Collaborating in the repo of the project and be in touch by email
