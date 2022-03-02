@@ -1,7 +1,7 @@
 ## Pranah
 
 ## Category 
-Microgrants Application
+Application
 
 ## Project Description
 Prana: is an eBay-like platform for ebooks, where users get to buy, sell, resell ebooks as NFTs. Users get to own their ebooks as digital assets, not just lease them to consume content, as is the present case.
