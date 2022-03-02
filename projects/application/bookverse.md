@@ -1,4 +1,5 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->"Bookverse"
+## Project Name <!-- Add your project name here with format "Project Name"-->
+"Bookverse"
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
 "Application"
@@ -16,7 +17,7 @@
 "Native crypto readers, NFT collectors, and classic readers"
 ## Rough estimated user base (if applicable)
 <!--How many users do you have right now?-->
-"In the eBooks segment, the number of readers is expected to amount to 1,182.8m users by 2026. Statista"
+"There isn't a production version available yet"
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
 "https://github.com/PovedaAqui/alpha-backend, https://github.com/PovedaAqui/alpha-frontend"
@@ -28,7 +29,7 @@
 ""
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-"solo founder"
+"Luis Poveda, electronic engineer, more than 6 years of experience in the field. Luis really love to read eBooks"
 ### Team Size  
 "1"
 ### Team members  
@@ -44,4 +45,5 @@ Telegram:
 WeChat:  
 
 ## How to Contribute
-<!--How can the community contribute to your project?--> "collaborating in the repo of the project be in touch by email"
+<!--How can the community contribute to your project?-->
+"collaborating in the repo of the project and be in touch by email"
