@@ -1,5 +1,4 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
-"Bookverse"
+## Project Name <!-- Add your project name here with format "Project Name"-->"Bookverse"
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
 "Application"
