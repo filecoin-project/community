@@ -22,7 +22,7 @@ Several blockchain scanner aggeragate the data to a unified data provider, the c
 
 
 ## Target Audience
-develpers
+developers
 
 ## Rough estimated user base (if applicable)
 10
