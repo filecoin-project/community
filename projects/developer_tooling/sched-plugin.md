@@ -4,7 +4,7 @@ sched-plugin
 
 ## Category 
 
-application
+developer-toolings
 
 ## Project Description
 
@@ -30,7 +30,7 @@ fundraising/udender development
 
 ## Target Audience
 
-miner
+Storage Provider
 
 ## Rough estimated user base (if applicable)
 
