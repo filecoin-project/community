@@ -47,7 +47,6 @@ http://47.107.93.234/#/
 
 ## Docs
 
-https://mirror.xyz/0x8C5da2937C664882111FCfe717ca7AF02A6e6440
 
 ## Team Info
 
