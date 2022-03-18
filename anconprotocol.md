@@ -1,13 +1,15 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+## Ancon Protocol <!-- Add your project name here with format "Project Name"-->
 
 ## Category 
-<!--developer tooling, application, wallet, infrastructure, etc-->
+L2 secure offchain and content authenticity <!--developer tooling, application, wallet, infrastructure, etc-->
 
 ## Project Description
+
+
 <!--Describe your project in a few sentences. -->
 
 ## Project Status
-<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+Fundraising, vNext <!--brainstorming, fundraising, under development, beta, shipped, etc-->
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
