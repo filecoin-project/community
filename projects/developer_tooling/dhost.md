@@ -1,6 +1,6 @@
 ## Project Name
 
-**DHost VS Code Extension:** Publish static websites in just 2 commands!
+**DHost VS Code Extension: Publish static websites in just 2 commands!**
 
 ## Category 
 
@@ -42,7 +42,7 @@ https://dev.to/akhileshthite/dhost-publish-static-websites-right-from-vs-code-40
 ## Team Info
 
 Myself Akhilesh Thite, I'm the main developer of this project. <br>
-I'm a third-year student pursuing my bachelor's in Computer Science Engineering from the University of Mumbai. 
+I'm a third-year student pursuing my bachelor's in Computer Science Engineering from the University of Mumbai. <br>
 More about me -> [akhileshthite.me](https://akhileshthite.me/)
 
 ### Team Size
@@ -52,7 +52,7 @@ More about me -> [akhileshthite.me](https://akhileshthite.me/)
 ### Team members
 
 GitHub: [@AkhileshThite](https://github.com/AkhileshThite) <br>
-Email: akhikeshthite@hotmail.com <br>
+Email: akhileshthite@hotmail.com <br>
 Twitter: [@AkhileshThite_](https://twitter.com/AkhileshThite_)
 
 ## How the community can engage
