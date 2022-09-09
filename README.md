@@ -183,7 +183,7 @@ Click [Attend a Filecoin virtual meetup](https://www.meetup.com/Filecoin-San-Fra
 
 We use a common [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md) across all of our repos.
 
-Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `venus`](https://github.com/filecoin-project/venus/blob/master/CONTRIBUTING.md).
+Each repo should have it's own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `venus`](https://github.com/filecoin-project/venus/blob/master/CONTRIBUTING.md).
 
 ## Maintainers
 
