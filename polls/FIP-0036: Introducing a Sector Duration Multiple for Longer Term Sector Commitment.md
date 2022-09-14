@@ -1,5 +1,3 @@
-# Open FIP0036 FIL Poll
-
 **Background**
 The purpose of this poll is to determine community consensus to accept or reject [FIP0036](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0036.md).
 
@@ -23,12 +21,12 @@ For additional details related to impact modeling and FIP draft iteration, see [
 > Note: Core Devs have already confirmed that, if accepted, FIP0036 will be scheduled for inclusion in the network v17 upgrade. 
 ---
 Options:
-- **< Accept >**: < I accept FIP0036 >
+- **< Approve >**: < I approve FIP0036 >
 - **< Reject >**: < I reject FIP0036 >
 
 ---
 start: 2022-09-14 22:00
 end: 2022-09-28 22:00
-constituents: 
+constituents: [ storageminers, tokenholders ]
 author: Axel C ([@AxCortesCubero](https://github.com/AxCortesCubero)), Juan B ([@jbenet](https://github.com/jbenet)), Maria S ([@misilva73](https://github.com/misilva73)), Molly M ([@momack2](https://github.com/momack2)), Tom M ([@tmellan](https://github.com/tmellan)), Vik K ([@vkalghatgi](https://github.com/vkalghatgi)), ZX ([@zixuanzh](https://github.com/zixuanzh))
 discussion: https://github.com/filecoin-project/FIPs/discussions/453
