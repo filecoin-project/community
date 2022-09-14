@@ -31,5 +31,5 @@ Options:
 start: 2022-09-14 22:00
 end: 2022-09-28 22:00
 constituents: [ storageminers | tokenholders | coredevs ]
-author: Axel C ([@AxCortesCubero](https://github.com/AxCortesCubero)), Juan B ([@jbenet](https://github.com/jbenet)), Maria S ([@misilva73](https://github.com/misilva73)), Molly M ([@momack2](https://github.com/momack2)), Tom M ([@tmellan](https://github.com/tmellan)), Vik K ([@vkalghatgi](https://github.com/vkalghatgi)), ZX ([@zixuanzh](https://github.com/zixuanzh))
+author: @AxCortesCubero @jbenet @misilva73 @momack2 @tmellan @vkalghatgi @zixuanzh
 discussion: https://github.com/filecoin-project/FIPs/discussions/453
