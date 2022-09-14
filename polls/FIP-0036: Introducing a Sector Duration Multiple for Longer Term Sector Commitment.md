@@ -7,7 +7,7 @@ Discussions and further questions related to this FIP should be directed to the 
 > See the **How to sign a vote on FilPoll using Lotus/Glif** [here](https://pl-strflt.notion.site/WIP-How-to-sign-a-vote-on-FilPoll-using-Lotus-Glif-95d9b0a32f9c48858574f9cb072c054b).
 
 **Proposal**
-* Increase minimum sector duration time from six months to 1.5 years
+* Increase minimum sector duration time from six months to 1 year
 * Increase the maximum sector duration time from 1.5 years to 3.5 years
 * Introduce a Sector Duration Multiplier for all sectors, regardless of deal type
 * Increase Sector Initial Consensus Pledge from 30% to 50%
@@ -23,16 +23,17 @@ For additional details related to impact modeling and FIP draft iteration, see [
 
 > Note: Core Devs have already confirmed that, if accepted, FIP0036 will be scheduled for inclusion in the network v17 upgrade.
 
-** Note **
-During the vote process, real-time results on FilPoll will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
+**Note**
+During the vote process, real-time results on Fil Poll will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
 1. Storage Providers who make storage deals (vote weighted by deal bytes)
 2. Storage Providers who provide storage capacity (weighted by raw bytes)
 3. Storage Clients (weighted by deal bytes)
 4. Token Holders (weighted by FIL balance for both regular and multisig wallets)
 5. Core Devs (weighted by headcount)
 
-Data processing will be immediate and fully transparent. The model used for post processing data will already made available, as will all raw polling data. Each vote received will be matched to the appropriate subset of the 5 announced categories, and weighted accordingly.
-For all governance details, please find them [here](https://github.com/filecoin-project/FIPs/discussions/464).
+Data processing will be immediate and fully transparent. The model used for post processing data will be made available, as will all raw polling data. Each vote received will be matched to the appropriate subset of the 5 announced categories and weighted accordingly.
+
+Detailed information about the voting and governance processes can be found [here](https://github.com/filecoin-project/FIPs/discussions/464).
 
 ---
 Options:
