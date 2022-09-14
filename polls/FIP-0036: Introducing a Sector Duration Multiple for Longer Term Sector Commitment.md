@@ -21,7 +21,7 @@ For additional details related to impact modeling and FIP draft iteration, see [
 > Note: Core Devs have already confirmed that, if accepted, FIP0036 will be scheduled for inclusion in the network v17 upgrade.
 
 ** Note **
-During the vote process, real-time results will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
+During the vote process, real-time results on FilPoll will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
 1. Storage Providers who make storage deals (vote weighted by deal bytes)
 2. Storage Providers who provide storage capacity (weighted by raw bytes)
 3. Storage Clients (weighted by deal bytes)
