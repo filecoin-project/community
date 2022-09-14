@@ -22,6 +22,18 @@ For more more detailed information, see the [FIP impact analysis and summary](ht
 For additional details related to impact modeling and FIP draft iteration, see [this updated comment and analysis](https://pl-strflt.notion.site/Duration-FIP-revisions-7426f344685940409ac513a0ffcccc86) from FIP authors.
 
 > Note: Core Devs have already confirmed that, if accepted, FIP0036 will be scheduled for inclusion in the network v17 upgrade.
+
+** Note **
+During the vote process, real-time results on FilPoll will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
+1. Storage Providers who make storage deals (vote weighted by deal bytes)
+2. Storage Providers who provide storage capacity (weighted by raw bytes)
+3. Storage Clients (weighted by deal bytes)
+4. Token Holders (weighted by FIL balance for both regular and multisig wallets)
+5. Core Devs (weighted by headcount)
+
+Data processing will be immediate and fully transparent. The model used for post processing data will already made available, as will all raw polling data. Each vote received will be matched to the appropriate subset of the 5 announced categories, and weighted accordingly.
+For all governance details, please find them [here](https://github.com/filecoin-project/FIPs/discussions/464).
+
 ---
 Options:
 - **< Approve >**: < I approve FIP0036 >
