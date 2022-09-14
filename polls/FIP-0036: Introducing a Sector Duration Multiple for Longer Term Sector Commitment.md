@@ -7,7 +7,7 @@ Discussions and further questions related to this FIP should be directed to the 
 > See the **How to sign a vote on FilPoll using Lotus/Glif** [here](https://pl-strflt.notion.site/WIP-How-to-sign-a-vote-on-FilPoll-using-Lotus-Glif-95d9b0a32f9c48858574f9cb072c054b).
 
 **Proposal**
-* Increase minimum sector duration time from six months to 1.5 years
+* Increase minimum sector duration time from six months to 1 year
 * Increase the maximum sector duration time from 1.5 years to 3.5 years
 * Introduce a Sector Duration Multiplier for all sectors, regardless of deal type
 * Increase Sector Initial Consensus Pledge from 30% to 50%
