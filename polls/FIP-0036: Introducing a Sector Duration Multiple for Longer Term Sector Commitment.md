@@ -28,7 +28,7 @@ During the vote process, real-time results on FilPoll will be publicly available
 4. Token Holders (weighted by FIL balance for both regular and multisig wallets)
 5. Core Devs (weighted by headcount)
 
-Data processing will be immediate and fully transparent. The model used for post processing data will already made available, as will all raw polling data. For each vote, it will be macthed to the above 5 categories and casted accordingly. 
+Data processing will be immediate and fully transparent. The model used for post processing data will already made available, as will all raw polling data. Each vote received will be matched to the appropriate subset of the 5 announced categories, and weighted accordingly.
 For all governance details, please find them [here](https://github.com/filecoin-project/FIPs/discussions/464).
 
 ---
