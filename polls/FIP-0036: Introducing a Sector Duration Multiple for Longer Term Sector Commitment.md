@@ -3,7 +3,7 @@ The purpose of this poll is to determine community consensus to accept or reject
 
 Discussions and further questions related to this FIP should be directed to the [active discussion thread](https://github.com/filecoin-project/FIPs/discussions/453).
 
-> You can find more governance details [here]([url](https://github.com/filecoin-project/FIPs/discussions/464)).
+> You can find more governance details [here](https://github.com/filecoin-project/FIPs/discussions/464).
 > See the **How to sign a vote on FilPoll using Lotus/Glif** [here](https://pl-strflt.notion.site/WIP-How-to-sign-a-vote-on-FilPoll-using-Lotus-Glif-95d9b0a32f9c48858574f9cb072c054b).
 
 **Proposal**
