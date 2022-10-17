@@ -42,7 +42,7 @@ The vast majority of the Filecoin Project conversations, including implementatio
 - GitHub Issues (see [Implementation related repo](#impelmentation-related-repo) section below)
 - Chat (mainly on Slack) (see [Chat](#chat) section below)
 
-The Filecoin Project is an open sourced project with a very supportive and welcoming community, where many community members are responsive in various of forums and slack channels. We also have [Filecoin community ambassadors](https://github.com/filecoin-project/community/discussions/116#discussioncomment-617066) here to support you, tag their GitHub handlers in GitHub discussions or @fil-community-ambassadors in all slack channels if you have any questions!
+The Filecoin Project is an open sourced project with a very supportive and welcoming community, where many community members are responsive in various forums and slack channels. We also have [Filecoin community ambassadors](https://github.com/filecoin-project/community/discussions/116#discussioncomment-617066) here to support you, tag their GitHub handlers in GitHub discussions or @fil-community-ambassadors in all slack channels if you have any questions!
 
 Implementation dev teams tend to check their corresponding GitHub repo issues and discussions regularly and try to respond within 5 business days.
 
@@ -83,7 +83,7 @@ The discussion forum uses the same Code of Conduct as our other community channe
 
 #### Filecoin Proving Subsystem Discussion
 
-The Filecoin Proving Subsystem (or FPS) provides the storage proofs required by the Filecoin protocol. If you have any question regard to the current proof, feedbacks for proof performance on different machines, ideas to improve proof or implementing new proof, join the [forum here](https://github.com/filecoin-project/rust-fil-proofs/discussions)!
+The Filecoin Proving Subsystem (or FPS) provides the storage proofs required by the Filecoin protocol. If you have any questions regarding the current proof, feedbacks for proof performance on different machines, ideas to improve proof or implementing new proof, join the [forum here](https://github.com/filecoin-project/rust-fil-proofs/discussions)!
 
 ### Implementation Related Repo
 
