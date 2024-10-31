@@ -190,7 +190,7 @@ Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here
 Maintainers are responsible for maintaining the content of this repo, create an issue and tag one of the maintainers if you have any questions.
 
 Current maintainers are:
-@jennijuju ([jennijuju@protocol.ai](jennijuju@protocol.ai))
+@jennijuju ([jennifer@filoz.org](jennifer@filoz.org))
 
 
 ## License
