@@ -39,7 +39,7 @@ If you are interested in discussing code or protocol design, feel free to come t
 The vast majority of the Filecoin Project conversations, including implementation, community support, ecosystem news, etc. take place on:
 
 - [Forums](#forums) (mainly on Github Discussions)
-- GitHub Issues (see [Implementation related repo](#impelmentation-related-repo) section below)
+- GitHub Issues (see [Implementation related repo](#implementation-related-repo) section below)
 - Chat (mainly on Slack) (see [Chat](#chat) section below)
 
 The Filecoin Project is an open sourced project with a very supportive and welcoming community, where many community members are responsive in various forums and slack channels. We also have [Filecoin community ambassadors](https://github.com/filecoin-project/community/discussions/116#discussioncomment-617066) here to support you, tag their GitHub handlers in GitHub discussions or @fil-community-ambassadors in all slack channels if you have any questions!
