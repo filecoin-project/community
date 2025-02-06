@@ -12,7 +12,7 @@ Flink requires two components to work as a data provider:
     Chainlink external adapter
     Data DAO notary
 
-Several blockchain scanner aggeragate the data to a unified data provider, the chainlink esternal adapter with the oracle smartcontracs broadcasting the proof to target blockchain networks. Data notaries will sign the transaction based the oracle data onchain informtion.The payment is triggered once the proof that it has been stored on the Filecoin network is relayed from Chainlink oracles.
+Several blockchain scanner aggeragate the data to a unified data provider, the chainlink esternal adapter with the oracle smartcontracs broadcasting the proof to target blockchain networks. Data notaries will sign the transaction based the oracle data onchain information.The payment is triggered once the proof that it has been stored on the Filecoin network is relayed from Chainlink oracles.
 
 ## Project Status
  beta
@@ -53,7 +53,7 @@ experience of handling encryption and data pipeline.
     Rick Zhao Blockchain Developer GitHub: @rykci
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+GitHub Discussion: <!--Start a discussion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
 📱Twitter: https://twitter.com/0xfilswan
 💻Medium：https://filswan.medium.com
 💻Discord: https://discord.com/invite/KKGhy8ZqzK
