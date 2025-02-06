@@ -17,7 +17,7 @@ Demo: https://www.youtube.com/watch?v=J5MoIom_tWc
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
-Thrust VS Code Extension now avaiable on https://marketplace.visualstudio.com/items?itemName=thrust.thrust
+Thrust VS Code Extension now available on https://marketplace.visualstudio.com/items?itemName=thrust.thrust
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
