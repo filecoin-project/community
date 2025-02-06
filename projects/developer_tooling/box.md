@@ -70,7 +70,7 @@ https://github.com/functionland/photos/blob/main/README.md
 
 And we have two more team members with the same first name, so we added the last name too :)
 
-**Ehsan Emami** is a senior hardware development lead, currently working at Amazon and previously at Apple and Gopro. With 12 years of hardware/software architecture experience, he has been a key contributer in defining, developing and fine-tuning many mass market products. Ehsan obtained his master's degree from University of Waterloo in Electrical Engineering.
+**Ehsan Emami** is a senior hardware development lead, currently working at Amazon and previously at Apple and Gopro. With 12 years of hardware/software architecture experience, he has been a key contributor in defining, developing and fine-tuning many mass market products. Ehsan obtained his master's degree from University of Waterloo in Electrical Engineering.
 * [Github Page Link](https://github.com/ehsan-git-dev)
 * [LinkedIn Page Link](https://www.linkedin.com/in/ehsan-emami-0005bb6/)
 
