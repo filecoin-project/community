@@ -1,0 +1,69 @@
+## Project Name <!-- Add your project name here with format "Project Name"-->
+Decentralized Library 
+
+## Category 
+<!--developer tooling, application, wallet, infrastructure, etc-->
+application
+
+## Project Description
+<!--Describe your project in a few sentences. -->
+Decentralized Library uses Web3 technology to log users in to read books, learn and earn. The decentralized Library is a project born to help increase knowledge. Students are no longer using the library as it used to be in the past. This project incentivizes students to read books and watch videos from their discipline. This implementation is a use case of NFT (ERC721) in solving educational needs. As we know that Education is one of the Millennium Development Goals, This project seeks to help students or users to learn through e-books, video books, and Live streaming learning. IPFS was used to store contents for the decentralized Library (pdf files for ebook and mp4 for video books)
+
+### Plans
+1. Store ebooks and video books on NFT.storage
+2. Update smart contract for multiple instances of books
+3. Add assets for more academic discipline or book categories
+4. Add premium books
+5. integrate quiz and reward system
+6. Quiz generation
+
+## Project Status
+<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+under development
+
+## Previews
+<!--Add some screenshots to give a preview of your product-->
+https://showcase.ethglobal.com/web3jam/decentralized-library
+Demo URL : https://youtu.be/x4ZEJ-3i43k
+
+## Target Audience
+<!--Describe who will be your project's users-->
+The Academic Community and More
+
+## Rough estimated user base (if applicable)
+<!--How many users do you have right now?-->
+220 million tertiary education students and other lovers of learning
+
+## Github repo
+<!--Attach a link to your GitHub repo if it's OSS-->
+https://github.com/holyaustin/decentralized-library
+
+## Website
+<!--Link your website if available-->
+Coming soon
+
+## Docs
+<!--Including a link to your project docs!-->
+Coming soon
+
+## Team Info
+<!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
+The team consists of the Founder, a sole FullStack developer by name Augustine. The idea, the frontend, backend is fully coded by him.
+
+### Team Size  
+Small but very geek
+
+### Team members  
+Augustine aka @holyaustin
+Has been active in the Web2 and more buidling Web3 projects
+
+## How the community can engage
+GitHub Discussion: https://github.com/filecoin-project/community/discussions/471
+Email:  holyaustin@yahoo.com
+Twitter:  https://twitter.com/holyaustin
+Discord:  holyaustin#3735
+Telegram:  https://t.me/holyaustin
+
+## How to Contribute
+<!--How can the community contribute to your project?-->
+Funding
