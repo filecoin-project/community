@@ -6,7 +6,7 @@ Discussions and further questions related to this FIP should be directed to the 
 > You can find more governance details [here](https://github.com/filecoin-project/FIPs/discussions/464).
 > See the **How to sign a vote on FilPoll using Lotus/Glif** [here](https://pl-strflt.notion.site/WIP-How-to-sign-a-vote-on-FilPoll-using-Lotus-Glif-95d9b0a32f9c48858574f9cb072c054b).
 
-**Proposal**
+**Proposal Summary**
 * Increase minimum sector duration time from six months to 1 year
 * Increase the maximum sector duration time from 1.5 years to 3.5 years
 * Introduce a Sector Duration Multiplier for all sectors, regardless of deal type
@@ -24,7 +24,7 @@ For additional details related to impact modeling and FIP draft iteration, see [
 > Note: Core Devs have already confirmed that, if accepted, FIP0036 will be scheduled for inclusion in the network v17 upgrade.
 
 **Note**
-During the vote process, real-time results on Fil Poll will be publicly available. However, to ensure that the voting process remains secure and robust, votes will be organized and weighted within the following categories:
+During the vote process, preliminary results on Fil Poll will be publicly available in real-time. However, to ensure that the voting process remains secure and robust, final results will be organized and weighted within the following categories:
 1. Storage Providers who make storage deals (vote weighted by deal bytes)
 2. Storage Providers who provide storage capacity (weighted by raw bytes)
 3. Storage Clients (weighted by deal bytes)
