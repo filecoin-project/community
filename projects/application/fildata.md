@@ -29,7 +29,7 @@ Everybody can use it to get the Filecoin Network chain information.
 1000+
 
 ## Github repo
-You can can get the newest update notice from the [Github discussion](https://github.com/filecoin-project/community/discussions/235)
+You can get the newest update notice from the [Github discussion](https://github.com/filecoin-project/community/discussions/235)
 
 ## Website
 [https://www.fildata.info/](https://www.fildata.info/)
