@@ -36,7 +36,7 @@ Everybody can use it to get the Filecoin Network chain infomations. Miners can g
 10000+
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
-You can can get the newest update notice from the [Github discussion](https://github.com/filecoin-project/community/discussions/94])
+You can get the newest update notice from the [Github discussion](https://github.com/filecoin-project/community/discussions/94])
 ## Website
 <!--Link your website if available-->
 [https://filscout.com/](https://filscout.com/)
