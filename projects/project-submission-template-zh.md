@@ -39,7 +39,7 @@
 ### 团队成员  
 
 ## 社区可以如何你们交流？
-GitHub 论坛: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
+GitHub 论坛: <!--Start a discussion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
 Email:  
 Slack:  
 Twitter:  

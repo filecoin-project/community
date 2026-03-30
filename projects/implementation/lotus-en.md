@@ -15,7 +15,7 @@ lotus is an implementation of the Filecoin Distributed Storage Network.
 
 ## Project Status
 <!--brainstorming, fundraising, under development, beta, shipped, etc-->
-Compatiable with Filecoin Mainnet.
+Compatible with Filecoin Mainnet.
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
@@ -43,7 +43,7 @@ Run lotus client: https://docs.filecoin.io/store/lotus/
 
 ## Team Info
 <!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
-lotus is a universally open-sourced project and has a lot of open source contributers. Currently, the maintainers are devs from [Protocol Labs.](https://protocol.ai)
+lotus is a universally open-sourced project and has a lot of open source contributors. Currently, the maintainers are devs from [Protocol Labs.](https://protocol.ai)
 
 
 ### Team Size  
@@ -57,7 +57,7 @@ lotus is a universally open-sourced project and has a lot of open source contrib
 ⭐️lotus Issue: https://github.com/filecoin-project/lotus/issues  
 🗣Community Slack Channel: [filecoin/#fil-lotus](https://filecoinproject.slack.com/archives/CPFTWMY7N)  
 📣Announcements: https://github.com/filecoin-project/community/discussions/62
-🗞Newletter: https://github.com/filecoin-project/community/discussions/71
+🗞Newsletter, New letter: https://github.com/filecoin-project/community/discussions/71
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
