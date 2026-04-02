@@ -1,47 +1,47 @@
-## Project Name <!-- Add your project name here with format "Project Name"-->
+## Project Name <!-- Add your project name here with format "CryptoBank Africa"-->
 
 ## Category 
-<!--developer tooling, application, wallet, infrastructure, etc-->
+<!--Payment gateway, application and wallet-->
 
 ## Project Description
-<!--Describe your project in a few sentences. -->
+<!--digital payment gateway(first of its kind in Africa). -->
 
 ## Project Status
-<!--brainstorming, fundraising, under development, beta, shipped, etc-->
+<!--under development-->
 
 ## Previews
-<!--Add some screenshots to give a preview of your product-->
+<!--https://twitter.com/CryptoBankAfric/status/1384110690001059845?s=20-->
 
 ## Target Audience
-<!--Describe who will be your project's users-->
+<!--Merchants/private, Buyers and Crypto users-->
 
 ## Rough estimated user base (if applicable)
-<!--How many users do you have right now?-->
+<!-- CryptoBank proect is under developent-->
 
 ## Github repo
-<!--Attach a link to your GitHub repo if it's OSS-->
+<!--https://github.com/cryptobanks-app-->
 
 ## Website
-<!--Link your website if available-->
+<!--https://cryptobanks.app/-->
 
 ## Docs
-<!--Including a link to your project docs!-->
+<!--https://cryptobankafrica.gitbook.io/cryptobank-arica/-->
 
 ## Team Info
-<!-- Introduce your amazing team - how many team members are working on this project and who are they?-->
+<!-- My name is Ferdinand U.I, i'm the founder of CryptoBank Africa. we are currently working with 6 developers, 2 writers and 2 co-founders.-->
 
-### Team Size  
+### Team 10  
 
-### Team members  
+### Ferdinand U.I, Iyoha Oseiwe, Anorue Ndubueze Uchenna, Madukwe Arthur onyekachi, Okarter Prince C, Obot Gift N, prince Olamide, Nick Dominic and others  
 
 ## How the community can engage
 GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email:  
+Email:  support@cryptobanks.app
 Slack:  
-Twitter:  
+Twitter:  https://twitter.com/CryptoBankAfric
 Discord:  
-Telegram:  
+Telegram:  https://t.co/lRqdKawAQm?amp=1
 WeChat:  
 
 ## How to Contribute
-<!--How can the community contribute to your project?-->
+<!--The community can surport us by introding new usesr(both merchants/private users) to this wonderful platform-->
