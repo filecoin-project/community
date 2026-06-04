@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Filecoin PoST Penalty Calculator</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-dim: #8b949e;
+    --accent: #58a6ff;
+    --danger: #f85149;
+    --success: #3fb950;
+    --warning: #d29922;
+    --input-bg: #0d1117;
+    --hover: #1c2128;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 20px;
+  }
+
+  .container { max-width: 800px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    padding: 30px 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 30px;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+
+  header p {
+    color: var(--text-dim);
+    font-size: 0.9rem;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 20px;
+  }
+
+  .card h2 {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    color: var(--accent);
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+  }
+
+  .form-group { margin-bottom: 16px; }
+  .form-group label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin-bottom: 6px;
+    font-weight: 500;
+  }
+
+  .form-group input, .form-group select {
+    width: 100%;
+    padding: 10px 12px;
+    background: var(--input-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text);
+    font-size: 0.95rem;
+    transition: border-color 0.2s;
+  }
+
+  .form-group input:focus, .form-group select:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+
+  .form-group .hint {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    margin-top: 4px;
+  }
+
+  .result-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+  }
+
+  .result-item {
+    background: var(--input-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px;
+    text-align: center;
+  }
+
+  .result-item .label {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .result-item .value {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--accent);
+  }
+
+  .result-item .value.danger { color: var(--danger); }
+  .result-item .value.success { color: var(--success); }
+  .result-item .value.warning { color: var(--warning); }
+
+  .result-item .sub {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin-top: 4px;
+  }
+
+  .result-item.fil-equivalent .value { color: var(--accent); }
+
+  .breakdown-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    font-size: 0.9rem;
+  }
+
+  .breakdown-table th {
+    text-align: left;
+    color: var(--text-dim);
+    font-weight: 500;
+    padding: 8px 12px;
+    border-bottom: 2px solid var(--border);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+
+  .breakdown-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .breakdown-table tr:hover td {
+    background: var(--hover);
+  }
+
+  .breakdown-table .num {
+    text-align: right;
+    font-family: 'SF Mono', 'Consolas', monospace;
+  }
+
+  .warning-box {
+    background: rgba(210, 153, 34, 0.1);
+    border: 1px solid var(--warning);
+    border-radius: 6px;
+    padding: 16px;
+    margin-top: 16px;
+    font-size: 0.85rem;
+    color: var(--warning);
+  }
+
+  .info-box {
+    background: rgba(88, 166, 255, 0.1);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    padding: 16px;
+    margin-top: 16px;
+    font-size: 0.85rem;
+    line-height: 1.7;
+  }
+
+  .info-box p { margin-bottom: 8px; }
+  .info-box p:last-child { margin-bottom: 0; }
+
+  .btn {
+    display: inline-block;
+    padding: 10px 24px;
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+
+  .btn:hover { opacity: 0.9; }
+  .btn:active { opacity: 0.8; }
+
+  .preset-btn {
+    display: inline-block;
+    padding: 6px 14px;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin: 3px;
+    transition: all 0.2s;
+  }
+
+  .preset-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(88, 166, 255, 0.1);
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    padding: 30px 0;
+    border-top: 1px solid var(--border);
+    margin-top: 30px;
+  }
+
+  @media (max-width: 600px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    .result-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>⛓️ Filecoin PoST Penalty Calculator</h1>
+  <p>Estimate storage provider penalties for missed WindowPoST deadlines</p>
+</header>
+
+<div class="card">
+  <h2>📊 Miner Configuration</h2>
+  <div class="grid-2">
+    <div class="form-group">
+      <label>Miner Quality-Adjusted Power (TiB)</label>
+      <input type="number" id="qaPower" value="100" min="0" step="0.01">
+      <div class="hint">Your miner's quality-adjusted power (total power after deal multiplier)</div>
+    </div>
+    <div class="form-group">
+      <label>Sector Size</label>
+      <select id="sectorSize">
+        <option value="34359738368">32 GiB (default)</option>
+        <option value="68719476736">64 GiB</option>
+        <option value="1099511627776">1 TiB</option>
+      </select>
+      <div class="hint">Size of each sector your miner stores</div>
+    </div>
+    <div class="form-group">
+      <label>Faulty Sectors / Missed Deadlines</label>
+      <input type="number" id="faultySectors" value="10" min="1" step="1">
+      <div class="hint">Number of sectors affected or deadlines missed per day</div>
+    </div>
+    <div class="form-group">
+      <label>Days Faulty / Duration</label>
+      <input type="number" id="daysFaulty" value="1" min="1" step="1">
+      <div class="hint">How many days will the sectors be faulty?</div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>🌐 Network Parameters</h2>
+  <div class="grid-3">
+    <div class="form-group">
+      <label>Network Total Power (EiB)</label>
+      <input type="number" id="networkPower" value="25" min="0.1" step="0.1">
+      <div class="hint">Total Filecoin network power</div>
+    </div>
+    <div class="form-group">
+      <label>Daily Block Reward (FIL)</label>
+      <input type="number" id="blockReward" value="150000" min="0" step="1000">
+      <div class="hint">Total FIL rewards mined per day (~150k FIL)</div>
+    </div>
+    <div class="form-group">
+      <label>FIL Price (USD)</label>
+      <input type="number" id="filPrice" value="4.50" min="0" step="0.01">
+      <div class="hint">Current FIL market price</div>
+    </div>
+  </div>
+  <div style="margin-top: 8px;">
+    <button class="preset-btn" onclick="setNetworkPreset('current')">Current Values</button>
+    <button class="preset-btn" onclick="setNetworkPreset('conservative')">Conservative</button>
+    <button class="preset-btn" onclick="setNetworkPreset('bull')">Bull Market</button>
+    <button class="preset-btn" onclick="setNetworkPreset('bear')">Bear Market</button>
+  </div>
+</div>
+
+<div class="card">
+  <h2>💰 Penalty Estimate</h2>
+  <div class="result-grid" id="results">
+    <div class="result-item">
+      <div class="label">Daily Fault Fee</div>
+      <div class="value danger" id="dailyFaultFee">0.00</div>
+      <div class="sub" id="dailyFaultFeeUSD">$0.00 USD</div>
+    </div>
+    <div class="result-item">
+      <div class="label">Penalty per Sector/Day</div>
+      <div class="value warning" id="perSectorFee">0.000</div>
+      <div class="sub" id="perSectorFeeUSD">$0.00 USD</div>
+    </div>
+    <div class="result-item">
+      <div class="label">Total Penalty (Duration)</div>
+      <div class="value danger" id="totalPenalty">0.00</div>
+      <div class="sub" id="totalPenaltyUSD">$0.00 USD</div>
+    </div>
+    <div class="result-item">
+      <div class="label">Sector Termination Fee</div>
+      <div class="value" id="terminationFee">0.00</div>
+      <div class="sub" id="terminationFeeUSD">$0.00 USD</div>
+    </div>
+  </div>
+
+  <div class="warning-box" id="highPenaltyWarning" style="display:none;">
+    ⚠️ Your estimated daily penalty exceeds 10 FIL. Consider keeping at least <strong id="recommendedBalance">0 FIL</strong> in your owner balance to cover 7 days of potential faults.
+  </div>
+
+  <div class="info-box">
+    <p><strong>⚠️ Important Notes</strong></p>
+    <p>• The fault fee multiplier in Filecoin's protocol is <strong>1.5×</strong> the expected daily block reward per sector.</p>
+    <p>• After <strong>2 consecutive days</strong> of faults: the sector is <strong>terminated</strong> (provably expired). Termination penalty is approximately 20 days of expected block reward.</p>
+    <p>• These are <strong>estimates</strong>. Actual penalties depend on network base fees, gas costs for submitting recovery proofs, and current block reward levels.</p>
+    <p>• You can reduce or eliminate the penalty by <strong>recovering</strong> your faulty sectors (submitting valid WindowPoST proofs) before the end of the proving period.</p>
+  </div>
+</div>
+
+<div class="card">
+  <h2>📋 Detailed Breakdown</h2>
+  <table class="breakdown-table">
+    <thead>
+      <tr>
+        <th>Metric</th>
+        <th class="num">Value</th>
+        <th class="num">USD</th>
+      </tr>
+    </thead>
+    <tbody id="breakdownBody">
+      <tr>
+        <td>Your QAPower / Network Power</td>
+        <td class="num" id="bdPowerRatio">—</td>
+        <td class="num">—</td>
+      </tr>
+      <tr>
+        <td>Expected Reward per Sector per Day</td>
+        <td class="num" id="bdSectorReward">—</td>
+        <td class="num" id="bdSectorRewardUSD">—</td>
+      </tr>
+      <tr>
+        <td>Fault Fee Multiplier</td>
+        <td class="num">1.5×</td>
+        <td class="num">—</td>
+      </tr>
+      <tr>
+        <td>Daily Fault Fee (all faulty sectors)</td>
+        <td class="num" id="bdDailyFaultFee">—</td>
+        <td class="num" id="bdDailyFaultFeeUSD">—</td>
+      </tr>
+      <tr>
+        <td>Termination Fee (20× per sector)</td>
+        <td class="num" id="bdTerminationFee">—</td>
+        <td class="num" id="bdTerminationFeeUSD">—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="card">
+  <h2>📖 Formula Reference</h2>
+  <div class="info-box" style="font-family: 'SF Mono', 'Consolas', monospace; font-size: 0.85rem; line-height: 2;">
+    <p><strong>1. Sector Power Fraction</strong></p>
+    <p>  sectorPowerFraction = sectorSize / networkTotalPower</p>
+    <br>
+    <p><strong>2. Expected Block Reward per Sector per Day</strong></p>
+    <p>  sectorReward = dailyBlockReward × sectorPowerFraction</p>
+    <br>
+    <p><strong>3. Daily Fault Fee</strong></p>
+    <p>  dailyFaultFee = faultySectors × sectorReward × 1.5</p>
+    <br>
+    <p><strong>4. Total Penalty</strong></p>
+    <p>  totalPenalty = dailyFaultFee × daysFaulty</p>
+    <br>
+    <p><strong>5. Termination Fee (per sector)</strong></p>
+    <p>  terminationFee = sectorReward × 20</p>
+    <br>
+    <p><em>Source: <a href="https://spec.filecoin.io" style="color: var(--accent);" target="_blank">Filecoin Spec</a> — Faults section</em></p>
+  </div>
+</div>
+
+<footer>
+  Filecoin Storage Provider Bounty Program · Built for the Community<br>
+  Data is for estimation purposes only. Always verify with live network parameters.
+</footer>
+
+</div>
+
+<script>
+const SIZES = { '34359738368': '32 GiB', '68719476736': '64 GiB', '1099511627776': '1 TiB' };
+
+const NETWORK = {
+  current: { power: 25, reward: 150000, price: 4.50 },
+  conservative: { power: 28, reward: 130000, price: 3.50 },
+  bull: { power: 20, reward: 200000, price: 10.00 },
+  bear: { power: 35, reward: 80000, price: 1.50 }
+};
+
+function formatFIL(atto) {
+  if (typeof atto === 'string') atto = parseFloat(atto);
+  if (atto >= 1) return atto.toFixed(4);
+  if (atto >= 0.001) return atto.toFixed(6);
+  return atto.toExponential(4);
+}
+
+function formatUSD(fil, price) {
+  const usd = fil * price;
+  if (usd >= 1) return '$' + usd.toFixed(2);
+  if (usd >= 0.01) return '$' + usd.toFixed(4);
+  return '$' + usd.toExponential(4);
+}
+
+function setNetworkPreset(name) {
+  const p = NETWORK[name];
+  if (!p) return;
+  document.getElementById('networkPower').value = p.power;
+  document.getElementById('blockReward').value = p.reward;
+  document.getElementById('filPrice').value = p.price;
+  calculate();
+}
+
+function calculate() {
+  // Read inputs
+  const qaPowerTiB = parseFloat(document.getElementById('qaPower').value) || 0;
+  const sectorSizeBytes = parseInt(document.getElementById('sectorSize').value) || 34359738368;
+  const faultySectors = parseInt(document.getElementById('faultySectors').value) || 1;
+  const daysFaulty = parseInt(document.getElementById('daysFaulty').value) || 1;
+  const networkPowerEiB = parseFloat(document.getElementById('networkPower').value) || 25;
+  const dailyBlockReward = parseFloat(document.getElementById('blockReward').value) || 150000;
+  const filPrice = parseFloat(document.getElementById('filPrice').value) || 4.50;
+
+  // Convert units
+  const networkPowerBytes = networkPowerEiB * 1024 * 1024 * 1024 * 1024 * 1024; // EiB to bytes
+  const qaPowerBytes = qaPowerTiB * 1024 * 1024 * 1024 * 1024; // TiB to bytes
+
+  // Calculations
+  // Power fraction of ONE sector
+  const sectorPowerFraction = networkPowerBytes > 0 ? sectorSizeBytes / networkPowerBytes : 0;
+
+  // Expected block reward for one sector per day
+  const sectorRewardPerDay = sectorPowerFraction * dailyBlockReward;
+
+  // Daily fault fee per sector (1.5x multiplier)
+  const dailyFaultFeePerSector = sectorRewardPerDay * 1.5;
+
+  // Daily fault fee for all faulty sectors
+  const dailyFaultFee = dailyFaultFeePerSector * faultySectors;
+
+  // Total penalty for the duration
+  const totalPenalty = dailyFaultFee * daysFaulty;
+
+  // Termination fee (20x expected reward per sector)
+  const terminationFeePerSector = sectorRewardPerDay * 20;
+  const terminationFee = terminationFeePerSector * faultySectors;
+
+  // Update results
+  document.getElementById('dailyFaultFee').textContent = formatFIL(dailyFaultFee) + ' FIL';
+  document.getElementById('dailyFaultFeeUSD').textContent = formatUSD(dailyFaultFee, filPrice) + ' USD';
+
+  document.getElementById('perSectorFee').textContent = formatFIL(dailyFaultFeePerSector) + ' FIL';
+  document.getElementById('perSectorFeeUSD').textContent = formatUSD(dailyFaultFeePerSector, filPrice) + ' USD';
+
+  document.getElementById('totalPenalty').textContent = formatFIL(totalPenalty) + ' FIL';
+  document.getElementById('totalPenaltyUSD').textContent = formatUSD(totalPenalty, filPrice) + ' USD';
+
+  document.getElementById('terminationFee').textContent = formatFIL(terminationFee) + ' FIL';
+  document.getElementById('terminationFeeUSD').textContent = formatUSD(terminationFee, filPrice) + ' USD';
+
+  // Warning
+  const warning = document.getElementById('highPenaltyWarning');
+  if (dailyFaultFee > 10) {
+    const recommended = dailyFaultFee * 7;
+    document.getElementById('recommendedBalance').textContent = formatFIL(recommended) + ' FIL';
+    warning.style.display = 'block';
+  } else {
+    warning.style.display = 'none';
+  }
+
+  // Detailed breakdown
+  document.getElementById('bdPowerRatio').textContent =
+    (sectorPowerFraction * 100).toExponential(4) + '%';
+  document.getElementById('bdSectorReward').textContent = formatFIL(sectorRewardPerDay) + ' FIL';
+  document.getElementById('bdSectorRewardUSD').textContent = formatUSD(sectorRewardPerDay, filPrice);
+  document.getElementById('bdDailyFaultFee').textContent = formatFIL(dailyFaultFee) + ' FIL';
+  document.getElementById('bdDailyFaultFeeUSD').textContent = formatUSD(dailyFaultFee, filPrice);
+  document.getElementById('bdTerminationFee').textContent = formatFIL(terminationFee) + ' FIL';
+  document.getElementById('bdTerminationFeeUSD').textContent = formatUSD(terminationFee, filPrice);
+}
+
+// Auto-calculate on input change
+document.addEventListener('DOMContentLoaded', () => {
+  const inputs = document.querySelectorAll('input, select');
+  inputs.forEach(input => input.addEventListener('input', calculate));
+  calculate();
+});
+</script>
+</body>
+</html>
