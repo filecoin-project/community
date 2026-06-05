@@ -9,6 +9,10 @@ Bounties are a good fit for simpler tasks like fixing minor bugs, adding test ca
 
 Bounties can be small or large, technical or nontechnical. Regardless of who you are, what skills you have, or your prior participation in the Filecoin network, there may be ways for you to participate in the Bounty Board. Harness your writing, coding, or foreign language skills and give it a go! 
 
+## Storage provider guides
+
+- [Run Lotus workers with multiple GPUs in Docker](./multi-gpu-lotus-workers-docker.md)
+
 ## Awarding System 
 Bounties are monetary awards for completing eligible issues in the [Filecoin Storage Provider Bounty Board](https://github.com/filecoin-project/community/projects/1). When the original issue is closed by a pull request, the author of that pull request is considered eligible for the bounty. Bounties ranges from $50 to $5,000 (or equivalent FIL). Awards are determined based on the urgency and complexity of the task at hand. Rewards are determined by the Filecoin Foundation and Storage Provider Working Group. 
 
@@ -21,5 +25,4 @@ Please leave a comment within the issue, requesting to be assigned to that issue
 ## Reward Distribution 
 In order to distribute rewards after closing the issue, contributors must submit a [Bounty Claim](https://github.com/filecoin-project/community/issues)
  in the issue section which will notify the Filecoin Foundation team regarding their work and payment details. 
-
 
